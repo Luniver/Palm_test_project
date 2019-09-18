@@ -55,6 +55,7 @@ class Commom(BaseView):
         else:
             allowBtn.click()
 
+
     def back_event(self):
         '''返回事件'''
         logging.info('========back event============')
@@ -63,8 +64,10 @@ class Commom(BaseView):
             backBtn = self.driver.find_element(*self.backBtn)
         except NoSuchElementException:
             print('can not find the back button')
+            return False
         else:
             backBtn.click()
+            return True
 
     def close_event(self):
         '''关闭订阅页'''
@@ -74,8 +77,10 @@ class Commom(BaseView):
             closeBtn = self.driver.find_element(*self.closeBtn)
         except NoSuchElementException:
             print('can not find the close button')
+            return False
         else:
             closeBtn.click()
+            return True
 
     def get_page_title(self):
         '''获取页面事件'''

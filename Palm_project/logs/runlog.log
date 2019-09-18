@@ -1791,3 +1791,185 @@
 2019-09-16 18:52:32,047 test_information_write.py[line:10] INFO =====test_username_input======
 2019-09-16 18:52:32,047 loginview.py[line:26] INFO ========input username========
 2019-09-16 18:52:42,858 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:36:38,863 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:36:38,878 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:36:45,409 test_information_write.py[line:18] INFO ======test_birthday_select=======
+2019-09-17 19:36:45,409 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:36:50,735 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:36:50,924 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:36:51,718 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:36:52,557 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:36:53,371 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:36:57,086 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:36:57,159 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:37:12,161 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:37:12,164 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:37:18,176 test_information_write.py[line:18] INFO ======test_birthday_select=======
+2019-09-17 19:37:18,176 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:37:23,582 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:37:23,826 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:37:24,662 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:37:25,551 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:37:26,350 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:37:30,044 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:37:30,093 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:37:35,250 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:37:35,256 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:37:40,976 test_information_write.py[line:32] INFO test_information_finish
+2019-09-17 19:37:40,981 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:37:51,341 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:37:55,020 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:37:55,213 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:37:55,995 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:37:56,820 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:37:57,600 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:38:01,266 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:38:01,266 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 19:38:01,442 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 19:38:05,061 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:38:10,287 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:38:10,290 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:38:16,103 test_information_write.py[line:25] INFO =======test_sex_select=========
+2019-09-17 19:38:16,104 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-17 19:38:18,903 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:38:24,076 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:38:24,087 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:38:30,063 test_information_write.py[line:10] INFO =====test_username_input======
+2019-09-17 19:38:30,063 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:38:41,042 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:47:57,376 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:47:57,378 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:48:07,604 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:48:07,609 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:48:13,680 test_information_write.py[line:45] INFO ======test_birthday_select=======
+2019-09-17 19:48:13,680 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:48:18,989 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:48:19,168 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:48:19,943 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:48:20,758 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:48:21,515 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:48:25,228 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:48:25,345 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:48:30,561 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:48:30,565 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:48:36,307 test_information_write.py[line:17] INFO =====test_username_input_chinese======
+2019-09-17 19:48:36,307 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:48:47,244 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:48:52,413 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:48:52,419 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:48:58,111 test_information_write.py[line:10] INFO =====test_username_input_english======
+2019-09-17 19:48:58,111 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:49:09,219 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:49:14,373 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:49:14,375 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:49:20,188 test_information_write.py[line:31] INFO =====test_username_input_french======
+2019-09-17 19:49:20,188 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:49:31,124 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:49:36,295 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:49:36,301 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:49:42,016 test_information_write.py[line:24] INFO =====test_username_input_japanese======
+2019-09-17 19:49:42,016 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:49:53,001 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:49:58,162 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:49:58,165 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:50:04,014 test_information_write.py[line:38] INFO =====test_username_input_korean======
+2019-09-17 19:50:04,014 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:50:15,028 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:50:20,189 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:50:20,192 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:50:25,940 test_information_write.py[line:52] INFO =======test_sex_select=========
+2019-09-17 19:50:25,940 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-17 19:50:28,750 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:52:30,507 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:52:30,510 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:52:37,069 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-17 19:52:37,069 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:52:47,459 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:52:51,091 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:52:51,355 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:52:52,139 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:52:53,013 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:52:53,798 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:52:57,488 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:52:57,488 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 19:52:57,725 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 19:53:01,354 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:56:05,331 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:56:05,335 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:56:11,738 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-17 19:56:11,740 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:56:22,219 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:56:25,882 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:56:26,091 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:56:26,901 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:56:27,752 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:56:28,561 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:56:32,412 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:56:32,412 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 19:56:32,573 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 19:56:36,228 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-17 19:56:47,434 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:57:52,293 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:57:52,303 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:57:57,480 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-17 19:57:57,480 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:58:07,927 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:58:11,591 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:58:11,825 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:58:12,613 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:58:13,463 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:58:14,326 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:58:18,053 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:58:18,053 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 19:58:18,288 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 19:58:21,910 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-17 19:58:30,343 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 19:59:20,994 myunit.py[line:8] INFO ======setUp======
+2019-09-17 19:59:21,003 desired_caps.py[line:32] INFO start app...
+2019-09-17 19:59:27,045 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-17 19:59:27,045 loginview.py[line:26] INFO ========input username========
+2019-09-17 19:59:37,517 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 19:59:41,151 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 19:59:41,367 loginview.py[line:60] INFO ========choose years========
+2019-09-17 19:59:42,175 loginview.py[line:70] INFO ========select month========
+2019-09-17 19:59:43,063 loginview.py[line:80] INFO ========select day========
+2019-09-17 19:59:43,836 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 19:59:47,514 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 19:59:47,515 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 19:59:47,740 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 19:59:51,383 common_fun.py[line:61] INFO ========back event============
+2019-09-17 19:59:56,520 common_fun.py[line:61] INFO ========back event============
+2019-09-17 20:00:06,906 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 20:01:00,847 myunit.py[line:8] INFO ======setUp======
+2019-09-17 20:01:00,850 desired_caps.py[line:32] INFO start app...
+2019-09-17 20:01:06,858 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-17 20:01:06,858 loginview.py[line:26] INFO ========input username========
+2019-09-17 20:01:17,272 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 20:01:20,925 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 20:01:21,111 loginview.py[line:60] INFO ========choose years========
+2019-09-17 20:01:21,899 loginview.py[line:70] INFO ========select month========
+2019-09-17 20:01:22,712 loginview.py[line:80] INFO ========select day========
+2019-09-17 20:01:23,567 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 20:01:27,289 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 20:01:27,290 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 20:01:27,506 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 20:01:31,138 common_fun.py[line:61] INFO ========back event============
+2019-09-17 20:01:36,287 common_fun.py[line:61] INFO ========back event============
+2019-09-17 20:01:46,822 myunit.py[line:12] INFO ======tearDown=======
+2019-09-17 20:02:43,670 myunit.py[line:8] INFO ======setUp======
+2019-09-17 20:02:43,673 desired_caps.py[line:32] INFO start app...
+2019-09-17 20:02:49,651 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-17 20:02:49,651 loginview.py[line:26] INFO ========input username========
+2019-09-17 20:03:00,044 loginview.py[line:39] INFO ========select birthday=======
+2019-09-17 20:03:03,679 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-17 20:03:03,857 loginview.py[line:60] INFO ========choose years========
+2019-09-17 20:03:04,647 loginview.py[line:70] INFO ========select month========
+2019-09-17 20:03:05,557 loginview.py[line:80] INFO ========select day========
+2019-09-17 20:03:06,387 loginview.py[line:90] INFO =======sure click=========
+2019-09-17 20:03:10,121 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-17 20:03:10,121 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-17 20:03:10,351 loginview.py[line:128] INFO ========next_button click===========
+2019-09-17 20:03:14,035 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-17 20:03:30,803 common_fun.py[line:61] INFO ========back event============
+2019-09-17 20:03:35,939 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-17 20:03:41,305 myunit.py[line:12] INFO ======tearDown=======

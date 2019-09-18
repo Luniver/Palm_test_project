@@ -5,11 +5,39 @@ import logging
 
 class Information_Input(StartEnd):
 
-    # @unittest.skip('test_information_username')
-    def test_information_username(self):
-        logging.info('=====test_username_input======')
+    # @unittest.skip('test_information_english')
+    def test_information_english(self):
+        logging.info('=====test_username_input_english======')
         l = Loginview(self.driver)
         username = "lichenyu"
+        self.assertTrue(l.username_input(username))
+        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
+
+    def test_information_chinese(self):
+        logging.info('=====test_username_input_chinese======')
+        l = Loginview(self.driver)
+        username = "李宸宇"
+        self.assertTrue(l.username_input(username))
+        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
+
+    def test_information_japanese(self):
+        logging.info('=====test_username_input_japanese======')
+        l = Loginview(self.driver)
+        username = "本当ですか"
+        self.assertTrue(l.username_input(username))
+        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
+
+    def test_information_french(self):
+        logging.info('=====test_username_input_french======')
+        l = Loginview(self.driver)
+        username = "Vraiment?"
+        self.assertTrue(l.username_input(username))
+        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
+
+    def test_information_korean(self):
+        logging.info('=====test_username_input_korean======')
+        l = Loginview(self.driver)
+        username = "진짜예요?"
         self.assertTrue(l.username_input(username))
         self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
 
@@ -28,15 +56,7 @@ class Information_Input(StartEnd):
         self.assertTrue(l.male_select())
         self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
 
-    def test_information_finish(self):
-        logging.info('test_information_finish')
-        username = '李宸宇'
-        l = Loginview(self.driver)
-        self.assertTrue(l.username_input(username))
-        self.assertTrue(l.birthday_select())
-        # self.assertTrue(l.male_select())
-        self.assertTrue(l.female_select())
-        self.assertTrue(l.next_button())
+
 
 
 if __name__ == '__main__':
