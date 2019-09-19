@@ -37,13 +37,13 @@ class Information_Input(StartEnd):
         self.assertTrue(l.username_input(username))
         self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
 
-    # @unittest.skip('test_information_korean')
+    @unittest.skip('test_information_korean')
     def test_information_korean(self):
         logging.info('=====test_username_input_korean start ======')
         l = Loginview(self.driver)
         username = "진짜예요?"
         self.assertTrue(l.username_input(username))
-        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
+        self.assertTrue(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
 
     # @unittest.skip('test_information_spain')
     def test_information_spain(self):
@@ -65,7 +65,7 @@ class Information_Input(StartEnd):
         l = Loginview(self.driver)
         # self.assertTrue(l.female_select())
         self.assertTrue(l.male_select())
-        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
+        self.assertTrue(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
 
 
 

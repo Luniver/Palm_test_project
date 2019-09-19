@@ -7159,31 +7159,141 @@ body.skin-3 {
 
 
     var resultData = {
-    "testPass": 4,
+    "testPass": 9,
     "testResult": [
         {
-            "className": "Palm_judge",
-            "methodName": "test_palm_judge_businessline",
+            "className": "Home_enter",
+            "methodName": "test_home_enter",
             "description": null,
-            "spendTime": "99.6 s",
+            "spendTime": "62.7 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_birthday_select",
+            "description": null,
+            "spendTime": "22.8 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_chinese",
+            "description": null,
+            "spendTime": "21.9 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_english",
+            "description": null,
+            "spendTime": "21.8 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_french",
+            "description": null,
+            "spendTime": "21.9 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_japanese",
+            "description": null,
+            "spendTime": "21.8 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_korean",
+            "description": null,
+            "spendTime": "2.1e-05 s",
+            "status": "跳过",
+            "log": [
+                "test_information_korean"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_sex_select",
+            "description": null,
+            "spendTime": "13.6 s",
             "status": "失败",
             "log": [
                 "can not find the button\ncan not find the allow toast\n",
                 "Traceback (most recent call last):\n",
                 "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 59, in testPartExecutor\n    yield\n",
                 "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 615, in run\n    testMethod()\n",
-                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test_palm_judge.py\", line 26, in test_palm_judge_businessline\n    self.assertFalse(l.palm_judge_businessline())\n",
-                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 686, in assertFalse\n    raise self.failureException(msg)\n",
-                "AssertionError: True is not false\n"
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test_information_write.py\", line 68, in test_information_sex_select\n    self.assertTrue(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 692, in assertTrue\n    raise self.failureException(msg)\n",
+                "AssertionError: False is not true\n"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_spain",
+            "description": null,
+            "spendTime": "21.9 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                ""
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_businessline",
+            "description": null,
+            "spendTime": "99.9 s",
+            "status": "成功",
+            "log": [
+                "can not find the button",
+                "can not find the allow toast",
+                "can not find the button",
+                "can not find the allow toast",
+                ""
             ]
         },
         {
             "className": "Palm_judge",
             "methodName": "test_palm_judge_destinyline",
             "description": null,
-            "spendTime": "99.4 s",
+            "spendTime": "99.9 s",
             "status": "成功",
             "log": [
+                "can not find the button",
+                "can not find the allow toast",
                 "can not find the button",
                 "can not find the allow toast",
                 "can not find the button",
@@ -7195,85 +7305,55 @@ body.skin-3 {
             "className": "Palm_judge",
             "methodName": "test_palm_judge_enter",
             "description": null,
-            "spendTime": "72.6 s",
-            "status": "失败",
+            "spendTime": "2.88e-05 s",
+            "status": "跳过",
             "log": [
-                "can not find the button\ncan not find the allow toast\ncan not find the button\ncan not find the allow toast\ncan not find the button\ncan not find the allow toast\n",
-                "Traceback (most recent call last):\n",
-                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 59, in testPartExecutor\n    yield\n",
-                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 615, in run\n    testMethod()\n",
-                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test_palm_judge.py\", line 11, in test_palm_judge_enter\n    self.assertFalse(l.palm_judgement_enter())\n",
-                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 686, in assertFalse\n    raise self.failureException(msg)\n",
-                "AssertionError: True is not false\n"
+                "test_palm_judge_enter"
             ]
         },
         {
             "className": "Palm_judge",
             "methodName": "test_palm_judge_headline",
             "description": null,
-            "spendTime": "1e+02 s",
-            "status": "成功",
+            "spendTime": "2e-05 s",
+            "status": "跳过",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                ""
+                "test_palm_judge_headline"
             ]
         },
         {
             "className": "Palm_judge",
             "methodName": "test_palm_judge_heartline",
             "description": null,
-            "spendTime": "99.0 s",
-            "status": "成功",
+            "spendTime": "1.69e-05 s",
+            "status": "跳过",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                ""
+                "test_palm_judge_heartline"
             ]
         },
         {
             "className": "Palm_judge",
             "methodName": "test_palm_judge_lifeline",
             "description": null,
-            "spendTime": "99.9 s",
-            "status": "成功",
+            "spendTime": "99.8 s",
+            "status": "失败",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                ""
+                "can not find the button\ncan not find the allow toast\ncan not find the button\ncan not find the allow toast\ncan not find the button\ncan not find the allow toast\ncan not find the button\ncan not find the allow toast\n",
+                "Traceback (most recent call last):\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 615, in run\n    testMethod()\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test_palm_judge.py\", line 18, in test_palm_judge_lifeline\n    self.assertFalse(l.palm_judge_lifeline())\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 686, in assertFalse\n    raise self.failureException(msg)\n",
+                "AssertionError: True is not false\n"
             ]
         }
     ],
     "testName": "手相测试",
-    "testAll": 6,
+    "testAll": 15,
     "testFail": 2,
-    "beginTime": "2019-09-19 15:53:46",
-    "totalTime": "570s",
-    "testSkip": 0,
+    "beginTime": "2019-09-19 18:01:46",
+    "totalTime": "508s",
+    "testSkip": 4,
     "testError": 0
 };
     function details(obj) {
