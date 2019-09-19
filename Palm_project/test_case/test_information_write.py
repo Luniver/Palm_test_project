@@ -41,6 +41,12 @@ class Information_Input(StartEnd):
         self.assertTrue(l.username_input(username))
         self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
 
+    def test_information_Spain(self):
+        logging.info('=====test_username_input_Spain======')
+        l = Loginview(self.driver)
+        username = "Nombre de usuario"
+        self.assertTrue(l.username_input(username))
+        self.assertFalse(self.driver.find_element_by_id('com.palm.test:id/tv_app_next').is_enabled())
     # @unittest.skip('test_information_birthday_select')
     def test_information_birthday_select(self):
         logging.info('======test_birthday_select=======')
