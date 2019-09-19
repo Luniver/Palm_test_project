@@ -31,8 +31,10 @@ class Palm(HomeView):
             everydayPalm = self.driver.find_element(*self.palm_scan)
         except NoSuchElementException:
             print('can not find everydayPalm')
+            return False
         else:
             everydayPalm.click()
+            return True
 
     def palm_scan_takephoto(self):
         '''手相扫描拍照'''
@@ -77,9 +79,11 @@ class Palm(HomeView):
             palmjudge = self.driver.find_element(*self.palm_judge)
         except NoSuchElementException:
             print('can not find the palm judgement')
+            return False
         else:
             logging.info('=========enter palm judge function=========')
             palmjudge.click()
+            return True
 
     def palm_judge_lifeline(self):
         '''掌纹判断生命线'''
@@ -89,6 +93,7 @@ class Palm(HomeView):
             lifeline = self.driver.find_elements(*self.palmline_question)[0]
         except NoSuchElementException:
             print('can not find the lifeline')
+            return False
         else:
             lifeline.click()
         time.sleep(4)
@@ -99,6 +104,7 @@ class Palm(HomeView):
             first_option = self.driver.find_elements(*self.question_option)[0]
         except NoSuchElementException:
             print('can not find first option')
+            return False
         else:
             first_option.click()
         # #选择第二个选项
@@ -119,8 +125,10 @@ class Palm(HomeView):
             back = self.driver.find_element(*self.result_back)
         except NoSuchElementException:
             print('can not find the result back')
+            return False
         else:
             back.click()
+            return True
 
     def palm_judge_heartline(self):
         '''掌纹判断感情线'''
@@ -130,6 +138,7 @@ class Palm(HomeView):
             heartline = self.driver.find_elements(*self.palmline_question)[1]
         except NoSuchElementException:
             print('can not find the heartline')
+            return False
         else:
             heartline.click()
         time.sleep(4)
@@ -140,6 +149,7 @@ class Palm(HomeView):
             first_option = self.driver.find_elements(*self.question_option)[0]
         except NoSuchElementException:
             print('can not find first option')
+            return False
         else:
             first_option.click()
         # #选择第二个选项
@@ -160,8 +170,10 @@ class Palm(HomeView):
             back = self.driver.find_element(*self.result_back)
         except NoSuchElementException:
             print('can not find the result back')
+            return False
         else:
             back.click()
+            return True
 
     def palm_judge_headline(self):
         '''掌纹判断智慧线'''
@@ -171,6 +183,7 @@ class Palm(HomeView):
             headline = self.driver.find_elements(*self.palmline_question)[2]
         except NoSuchElementException:
             print('can not find the headline')
+            return False
         else:
             headline.click()
         time.sleep(4)
@@ -181,6 +194,7 @@ class Palm(HomeView):
             first_option = self.driver.find_elements(*self.question_option)[0]
         except NoSuchElementException:
             print('can not find first option')
+            return False
         else:
             first_option.click()
         # #选择第二个选项
@@ -201,8 +215,10 @@ class Palm(HomeView):
             back = self.driver.find_element(*self.result_back)
         except NoSuchElementException:
             print('can not find the result back')
+            return False
         else:
             back.click()
+            return True
 
     def palm_judge_businessline(self):
         '''掌纹判断财富线'''
@@ -212,6 +228,7 @@ class Palm(HomeView):
             businessline = self.driver.find_elements(*self.palmline_question)[3]
         except NoSuchElementException:
             print('can not find the businessline')
+            return False
         else:
             businessline.click()
         time.sleep(4)
@@ -222,6 +239,7 @@ class Palm(HomeView):
             first_option = self.driver.find_elements(*self.question_option)[0]
         except NoSuchElementException:
             print('can not find first option')
+            return False
         else:
             first_option.click()
         # #选择第二个选项
@@ -242,8 +260,10 @@ class Palm(HomeView):
             back = self.driver.find_element(*self.result_back)
         except NoSuchElementException:
             print('can not find the result back')
+            return False
         else:
             back.click()
+            return True
 
 
     def palm_judge_destinyline(self):
@@ -254,6 +274,7 @@ class Palm(HomeView):
             destinyline = self.driver.find_elements(*self.palmline_question)[4]
         except NoSuchElementException:
             print('can not find the destinyline')
+            return False
         else:
             destinyline.click()
         time.sleep(4)
@@ -264,6 +285,7 @@ class Palm(HomeView):
             first_option = self.driver.find_elements(*self.question_option)[0]
         except NoSuchElementException:
             print('can not find first option')
+            return False
         else:
             first_option.click()
         # #选择第二个选项
@@ -284,8 +306,10 @@ class Palm(HomeView):
             back = self.driver.find_element(*self.result_back)
         except NoSuchElementException:
             print('can not find the result back')
+            return False
         else:
             back.click()
+            return True
 
 if __name__ == '__main__':
     driver = appium_desired()

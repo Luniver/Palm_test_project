@@ -1973,3 +1973,671 @@
 2019-09-17 20:03:30,803 common_fun.py[line:61] INFO ========back event============
 2019-09-17 20:03:35,939 common_fun.py[line:74] INFO ========close subscribe page======
 2019-09-17 20:03:41,305 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:26:13,669 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:26:13,674 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:26:19,867 test_palm_judge.py[line:9] INFO ==========test_palm_judge_enter start ==========
+2019-09-19 11:26:19,869 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:26:30,304 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:26:34,014 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:26:34,165 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:26:34,942 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:26:35,784 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:26:36,590 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:26:40,301 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:26:40,301 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:26:40,511 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:26:44,120 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:27:00,941 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:27:06,078 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:27:11,476 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:27:17,322 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:27:19,335 palm_function.py[line:29] INFO ==========select and enter everydayPalm==========
+2019-09-19 11:27:22,679 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:27:31,052 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:27:39,441 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:27:47,804 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:27:56,190 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:28:12,742 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:28:17,878 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:30:03,259 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:30:03,272 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:30:08,876 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-19 11:30:08,877 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:30:19,323 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:30:22,972 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:30:23,246 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:30:24,014 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:30:24,837 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:30:25,659 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:30:29,393 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:30:29,393 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-19 11:30:29,619 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:30:33,255 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:30:50,017 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:30:55,154 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:31:00,555 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:31:12,925 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:31:12,932 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:31:18,923 test_palm_judge.py[line:9] INFO ==========test_palm_judge_enter start ==========
+2019-09-19 11:31:18,923 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:31:29,361 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:31:33,017 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:31:33,240 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:31:34,028 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:31:34,898 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:31:35,699 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:31:39,387 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:31:39,387 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:31:39,560 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:31:43,207 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:31:59,947 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:32:05,082 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:32:10,539 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:32:16,587 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:32:19,297 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:32:19,554 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:32:20,802 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:32:25,984 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:32:25,987 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:32:31,609 test_palm_judge.py[line:14] INFO ==========test_palm_judge_lifeline start ==========
+2019-09-19 11:32:31,610 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:32:42,123 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:32:45,782 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:32:45,999 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:32:46,791 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:32:47,651 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:32:48,538 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:32:52,263 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:32:52,264 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:32:52,497 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:32:56,115 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:33:12,814 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:33:17,946 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:33:23,336 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:33:29,326 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:33:31,643 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:33:31,956 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:33:32,913 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-09-19 11:33:41,343 common_fun.py[line:39] INFO get lifelineQuestion screenshot
+2019-09-19 11:33:42,951 palm_function.py[line:102] INFO =======choose first option======
+2019-09-19 11:33:43,221 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:33:51,399 palm_function.py[line:119] INFO =======get result==========
+2019-09-19 11:33:55,405 common_fun.py[line:39] INFO get lifelineResult screenshot
+2019-09-19 11:33:57,059 palm_function.py[line:123] INFO =======back to home========
+2019-09-19 11:34:00,229 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:42:56,503 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:42:56,507 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:43:02,725 test_palm_judge.py[line:24] INFO ==========test_palm_judge_businessline start ==========
+2019-09-19 11:43:02,726 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:43:13,062 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:43:16,728 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:43:17,021 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:43:17,815 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:43:18,730 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:43:19,511 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:43:23,165 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:43:23,165 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:43:23,381 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:43:27,031 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:43:43,804 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:43:48,937 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:43:54,318 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:44:00,363 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:44:02,669 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:44:02,853 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:44:04,012 palm_function.py[line:226] INFO ========choose businessline=======
+2019-09-19 11:44:12,475 common_fun.py[line:39] INFO get businesslineQuestion screenshot
+2019-09-19 11:44:14,191 palm_function.py[line:237] INFO =======choose first option======
+2019-09-19 11:44:14,523 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:44:22,723 palm_function.py[line:254] INFO =======get result==========
+2019-09-19 11:44:26,729 common_fun.py[line:39] INFO get businesslineResult screenshot
+2019-09-19 11:44:28,320 palm_function.py[line:258] INFO =======back to home========
+2019-09-19 11:44:31,501 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:44:36,668 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:44:36,672 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:44:42,706 test_palm_judge.py[line:34] INFO ==========test_palm_judge_destinyline start ==========
+2019-09-19 11:44:42,706 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:44:53,155 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:44:56,830 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:44:57,080 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:44:57,890 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:44:58,749 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:44:59,564 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:45:03,217 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:45:03,217 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:45:03,424 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:45:07,054 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:45:23,781 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:45:28,918 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:45:34,297 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:45:40,324 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:45:42,719 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:45:42,945 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:45:43,996 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-09-19 11:45:52,608 common_fun.py[line:39] INFO get destinylineQuestion screenshot
+2019-09-19 11:45:54,275 palm_function.py[line:283] INFO =======choose first option======
+2019-09-19 11:45:54,615 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:46:02,801 palm_function.py[line:300] INFO =======get result==========
+2019-09-19 11:46:06,803 common_fun.py[line:39] INFO get destinylineResult screenshot
+2019-09-19 11:46:08,514 palm_function.py[line:304] INFO =======back to home========
+2019-09-19 11:46:11,670 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:46:16,806 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:46:16,809 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:46:22,839 test_palm_judge.py[line:9] INFO ==========test_palm_judge_enter start ==========
+2019-09-19 11:46:22,839 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:46:33,193 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:46:36,870 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:46:37,079 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:46:37,879 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:46:38,698 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:46:39,480 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:46:43,145 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:46:43,146 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:46:43,302 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:46:46,921 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:47:03,649 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:47:08,786 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:47:14,181 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:47:20,203 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:47:22,377 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:47:22,646 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:47:23,607 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:47:28,782 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:47:28,790 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:47:35,003 test_palm_judge.py[line:29] INFO ==========test_palm_judge_headline start ==========
+2019-09-19 11:47:35,004 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:47:45,342 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:47:49,052 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:47:49,344 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:47:50,133 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:47:50,915 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:47:51,812 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:47:55,551 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:47:55,551 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:47:55,772 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:47:59,412 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:48:16,249 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:48:21,395 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:48:26,799 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:48:32,826 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:48:35,378 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:48:35,695 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:48:36,643 palm_function.py[line:181] INFO ========choose headline=======
+2019-09-19 11:48:45,109 common_fun.py[line:39] INFO get headlineQuestion screenshot
+2019-09-19 11:48:46,739 palm_function.py[line:192] INFO =======choose first option======
+2019-09-19 11:48:47,000 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:48:55,197 palm_function.py[line:209] INFO =======get result==========
+2019-09-19 11:48:59,200 common_fun.py[line:39] INFO get headlineResult screenshot
+2019-09-19 11:49:00,914 palm_function.py[line:213] INFO =======back to home========
+2019-09-19 11:49:04,074 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:49:09,223 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:49:09,228 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:49:15,247 test_palm_judge.py[line:19] INFO ==========test_palm_judge_heartline start ==========
+2019-09-19 11:49:15,247 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:49:25,635 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:49:29,300 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:49:29,519 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:49:30,302 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:49:31,197 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:49:31,965 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:49:35,687 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:49:35,687 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:49:35,860 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:49:39,526 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:49:56,295 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:50:01,450 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:50:06,867 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:50:12,897 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:50:15,240 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:50:15,440 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:50:16,345 palm_function.py[line:136] INFO ========choose heartline=======
+2019-09-19 11:50:24,771 common_fun.py[line:39] INFO get heartlineQuestion screenshot
+2019-09-19 11:50:26,399 palm_function.py[line:147] INFO =======choose first option======
+2019-09-19 11:50:26,798 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:50:35,007 palm_function.py[line:164] INFO =======get result==========
+2019-09-19 11:50:39,010 common_fun.py[line:39] INFO get heartlinelineResult screenshot
+2019-09-19 11:50:40,780 palm_function.py[line:168] INFO =======back to home========
+2019-09-19 11:50:43,954 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 11:50:49,106 myunit.py[line:8] INFO ======setUp======
+2019-09-19 11:50:49,108 desired_caps.py[line:32] INFO start app...
+2019-09-19 11:50:54,981 test_palm_judge.py[line:14] INFO ==========test_palm_judge_lifeline start ==========
+2019-09-19 11:50:54,982 loginview.py[line:26] INFO ========input username========
+2019-09-19 11:51:05,431 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 11:51:09,081 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 11:51:09,377 loginview.py[line:60] INFO ========choose years========
+2019-09-19 11:51:10,169 loginview.py[line:70] INFO ========select month========
+2019-09-19 11:51:11,021 loginview.py[line:80] INFO ========select day========
+2019-09-19 11:51:11,800 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 11:51:15,531 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 11:51:15,531 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 11:51:15,715 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 11:51:19,329 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 11:51:36,078 common_fun.py[line:61] INFO ========back event============
+2019-09-19 11:51:41,209 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:51:46,599 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 11:51:52,560 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 11:51:55,219 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 11:51:55,493 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 11:51:56,475 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-09-19 11:52:04,951 common_fun.py[line:39] INFO get lifelineQuestion screenshot
+2019-09-19 11:52:06,602 palm_function.py[line:102] INFO =======choose first option======
+2019-09-19 11:52:06,998 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 11:52:15,208 palm_function.py[line:119] INFO =======get result==========
+2019-09-19 11:52:19,211 common_fun.py[line:39] INFO get lifelineResult screenshot
+2019-09-19 11:52:20,830 palm_function.py[line:123] INFO =======back to home========
+2019-09-19 11:52:24,021 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:35:23,436 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:23,440 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:24,442 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:24,445 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:24,597 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:24,600 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:24,876 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:24,879 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:25,028 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:25,032 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:25,268 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:25,275 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:25,453 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:25,456 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:25,693 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:25,696 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:25,861 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:25,864 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:26,083 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:26,085 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:26,235 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:26,238 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:26,497 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:26,500 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:26,643 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:26,646 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:26,903 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:26,905 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:35:27,049 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:35:27,052 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:36:17,260 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:36:17,264 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:36:22,916 test_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-19 15:36:22,916 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:36:33,340 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:36:36,986 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:36:37,171 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:36:37,987 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:36:38,759 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:36:39,661 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:36:43,371 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:36:43,371 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-19 15:36:43,571 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:36:47,218 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:37:04,043 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:37:09,187 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:37:14,607 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:37:19,740 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:37:19,743 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:37:25,385 test_information_write.py[line:57] INFO ======test_birthday_select start =======
+2019-09-19 15:37:25,386 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:37:30,646 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:37:30,828 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:37:31,612 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:37:32,515 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:37:33,265 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:37:36,934 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:37:36,987 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:37:42,146 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:37:42,148 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:37:47,852 test_information_write.py[line:18] INFO =====test_username_input_chinese start ======
+2019-09-19 15:37:47,853 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:37:58,702 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:38:03,873 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:38:03,875 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:38:09,452 test_information_write.py[line:10] INFO =====test_username_input_english start ======
+2019-09-19 15:38:09,452 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:38:20,327 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:38:25,478 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:38:25,481 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:38:31,058 test_information_write.py[line:34] INFO =====test_username_input_french start ======
+2019-09-19 15:38:31,058 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:38:42,066 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:38:47,244 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:38:47,247 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:38:52,818 test_information_write.py[line:26] INFO =====test_username_input_japanese start ======
+2019-09-19 15:38:52,818 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:39:03,803 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:39:08,985 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:39:08,988 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:39:14,486 test_information_write.py[line:42] INFO =====test_username_input_korean start ======
+2019-09-19 15:39:14,486 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:39:25,515 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:39:30,681 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:39:30,684 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:39:36,140 test_information_write.py[line:64] INFO =======test_sex_select start =========
+2019-09-19 15:39:36,140 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:39:38,985 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:39:44,157 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:39:44,160 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:39:49,778 test_information_write.py[line:50] INFO =====test_username_input_spain start ======
+2019-09-19 15:39:49,778 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:40:00,666 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:40:05,828 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:40:05,830 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:40:11,395 test_palm_judge.py[line:24] INFO ==========test_palm_judge_businessline start ==========
+2019-09-19 15:40:11,396 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:40:21,748 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:40:25,427 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:40:25,612 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:40:26,404 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:40:27,231 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:40:28,160 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:40:31,903 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:40:31,903 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:40:32,146 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:40:35,834 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:40:52,590 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:40:57,736 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:41:03,131 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:41:09,178 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:41:11,817 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:41:12,078 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:41:14,807 palm_function.py[line:226] INFO ========choose businessline=======
+2019-09-19 15:41:25,034 common_fun.py[line:39] INFO get businesslineQuestion screenshot
+2019-09-19 15:41:26,392 palm_function.py[line:237] INFO =======choose first option======
+2019-09-19 15:41:26,612 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:41:34,799 palm_function.py[line:254] INFO =======get result==========
+2019-09-19 15:41:38,801 common_fun.py[line:39] INFO get businesslineResult screenshot
+2019-09-19 15:41:40,464 palm_function.py[line:258] INFO =======back to home========
+2019-09-19 15:41:43,632 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:41:48,789 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:41:48,792 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:41:54,565 test_palm_judge.py[line:34] INFO ==========test_palm_judge_destinyline start ==========
+2019-09-19 15:41:54,566 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:42:04,865 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:42:08,556 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:42:08,836 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:42:09,641 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:42:10,499 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:42:11,382 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:42:15,267 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:42:15,267 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:42:15,469 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:42:19,099 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:42:35,844 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:42:40,978 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:42:46,392 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:42:52,360 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:42:54,550 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:42:54,761 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:42:55,646 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-09-19 15:43:04,103 common_fun.py[line:39] INFO get destinylineQuestion screenshot
+2019-09-19 15:43:05,782 palm_function.py[line:283] INFO =======choose first option======
+2019-09-19 15:43:06,088 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:43:14,268 palm_function.py[line:300] INFO =======get result==========
+2019-09-19 15:43:18,274 common_fun.py[line:39] INFO get destinylineResult screenshot
+2019-09-19 15:43:20,001 palm_function.py[line:304] INFO =======back to home========
+2019-09-19 15:43:23,191 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:43:28,343 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:43:28,345 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:43:34,122 test_palm_judge.py[line:9] INFO ==========test_palm_judge_enter start ==========
+2019-09-19 15:43:34,122 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:43:44,493 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:43:48,217 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:43:48,541 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:43:49,326 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:43:50,101 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:43:51,045 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:43:54,907 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:43:54,907 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:43:55,134 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:43:58,746 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:44:15,581 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:44:20,722 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:44:26,115 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:44:32,183 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:44:34,328 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:44:34,588 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:44:35,724 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:44:40,887 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:44:40,889 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:44:46,492 test_palm_judge.py[line:29] INFO ==========test_palm_judge_headline start ==========
+2019-09-19 15:44:46,492 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:44:56,899 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:45:00,583 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:45:00,803 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:45:01,591 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:45:02,485 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:45:03,311 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:45:07,024 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:45:07,025 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:45:07,217 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:45:10,851 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:45:27,608 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:45:32,747 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:45:38,133 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:45:44,207 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:45:46,865 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:45:47,109 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:45:48,799 palm_function.py[line:181] INFO ========choose headline=======
+2019-09-19 15:45:57,219 common_fun.py[line:39] INFO get headlineQuestion screenshot
+2019-09-19 15:45:58,761 palm_function.py[line:192] INFO =======choose first option======
+2019-09-19 15:45:59,119 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:46:07,326 palm_function.py[line:209] INFO =======get result==========
+2019-09-19 15:46:11,328 common_fun.py[line:39] INFO get headlineResult screenshot
+2019-09-19 15:46:12,894 palm_function.py[line:213] INFO =======back to home========
+2019-09-19 15:46:16,057 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:46:21,202 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:46:21,205 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:46:26,893 test_palm_judge.py[line:19] INFO ==========test_palm_judge_heartline start ==========
+2019-09-19 15:46:26,894 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:46:37,189 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:46:40,850 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:46:41,105 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:46:41,874 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:46:42,672 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:46:43,482 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:46:47,208 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:46:47,208 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:46:47,426 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:46:51,086 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:47:07,816 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:47:12,956 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:47:18,347 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:47:24,295 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:47:26,575 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:47:26,699 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:47:27,649 palm_function.py[line:136] INFO ========choose heartline=======
+2019-09-19 15:47:36,255 common_fun.py[line:39] INFO get heartlineQuestion screenshot
+2019-09-19 15:47:37,834 palm_function.py[line:147] INFO =======choose first option======
+2019-09-19 15:47:38,129 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:47:46,323 palm_function.py[line:164] INFO =======get result==========
+2019-09-19 15:47:50,324 common_fun.py[line:39] INFO get heartlinelineResult screenshot
+2019-09-19 15:47:52,035 palm_function.py[line:168] INFO =======back to home========
+2019-09-19 15:47:55,204 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:48:00,356 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:48:00,360 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:48:06,149 test_palm_judge.py[line:14] INFO ==========test_palm_judge_lifeline start ==========
+2019-09-19 15:48:06,149 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:48:16,438 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:48:20,098 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:48:20,413 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:48:21,251 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:48:22,098 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:48:22,905 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:48:26,728 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:48:26,729 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:48:26,919 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:48:30,557 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:48:47,264 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:48:52,402 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:48:57,791 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:49:03,784 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:49:05,881 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:49:06,045 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:49:06,871 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-09-19 15:49:15,304 common_fun.py[line:39] INFO get lifelineQuestion screenshot
+2019-09-19 15:49:16,892 palm_function.py[line:102] INFO =======choose first option======
+2019-09-19 15:49:17,179 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:49:25,373 palm_function.py[line:119] INFO =======get result==========
+2019-09-19 15:49:29,378 common_fun.py[line:39] INFO get lifelineResult screenshot
+2019-09-19 15:49:31,054 palm_function.py[line:123] INFO =======back to home========
+2019-09-19 15:49:34,264 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:53:46,148 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:53:46,150 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:53:51,791 test_palm_judge.py[line:24] INFO ==========test_palm_judge_businessline start ==========
+2019-09-19 15:53:51,792 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:54:02,097 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:54:05,766 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:54:05,993 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:54:06,787 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:54:07,668 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:54:08,479 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:54:12,351 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:54:12,351 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:54:12,593 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:54:16,218 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:54:33,029 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:54:38,165 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:54:43,563 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:54:49,659 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:54:51,769 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:54:52,015 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:54:53,209 palm_function.py[line:226] INFO ========choose businessline=======
+2019-09-19 15:55:01,745 common_fun.py[line:39] INFO get businesslineQuestion screenshot
+2019-09-19 15:55:03,282 palm_function.py[line:237] INFO =======choose first option======
+2019-09-19 15:55:03,529 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:55:11,713 palm_function.py[line:254] INFO =======get result==========
+2019-09-19 15:55:15,714 common_fun.py[line:39] INFO get businesslineResult screenshot
+2019-09-19 15:55:17,397 palm_function.py[line:258] INFO =======back to home========
+2019-09-19 15:55:20,578 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:55:25,713 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:55:25,715 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:55:31,597 test_palm_judge.py[line:34] INFO ==========test_palm_judge_destinyline start ==========
+2019-09-19 15:55:31,598 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:55:41,882 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:55:45,541 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:55:45,743 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:55:46,514 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:55:47,349 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:55:48,117 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:55:51,868 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:55:51,869 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:55:52,041 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:55:55,660 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:56:12,474 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:56:17,611 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:56:23,003 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:56:29,114 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:56:31,357 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:56:31,529 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:56:32,398 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-09-19 15:56:40,803 common_fun.py[line:39] INFO get destinylineQuestion screenshot
+2019-09-19 15:56:42,494 palm_function.py[line:283] INFO =======choose first option======
+2019-09-19 15:56:42,915 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:56:51,100 palm_function.py[line:300] INFO =======get result==========
+2019-09-19 15:56:55,101 common_fun.py[line:39] INFO get destinylineResult screenshot
+2019-09-19 15:56:56,774 palm_function.py[line:304] INFO =======back to home========
+2019-09-19 15:56:59,995 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:57:05,159 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:57:05,162 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:57:11,151 test_palm_judge.py[line:9] INFO ==========test_palm_judge_enter start ==========
+2019-09-19 15:57:11,151 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:57:21,481 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:57:25,152 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:57:25,354 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:57:26,135 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:57:26,945 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:57:27,750 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:57:31,475 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:57:31,475 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:57:31,651 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:57:35,297 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:57:52,016 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:57:57,149 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:58:02,530 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:58:08,400 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:58:11,315 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:58:11,625 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:58:12,612 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:58:17,770 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:58:17,773 desired_caps.py[line:32] INFO start app...
+2019-09-19 15:58:23,963 test_palm_judge.py[line:29] INFO ==========test_palm_judge_headline start ==========
+2019-09-19 15:58:23,963 loginview.py[line:26] INFO ========input username========
+2019-09-19 15:58:34,249 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 15:58:37,924 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 15:58:38,166 loginview.py[line:60] INFO ========choose years========
+2019-09-19 15:58:38,949 loginview.py[line:70] INFO ========select month========
+2019-09-19 15:58:39,765 loginview.py[line:80] INFO ========select day========
+2019-09-19 15:58:40,679 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 15:58:44,409 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 15:58:44,409 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 15:58:44,576 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 15:58:48,213 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 15:59:04,926 common_fun.py[line:61] INFO ========back event============
+2019-09-19 15:59:10,056 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:59:15,447 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 15:59:21,461 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 15:59:23,998 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 15:59:24,264 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 15:59:25,363 palm_function.py[line:181] INFO ========choose headline=======
+2019-09-19 15:59:33,814 common_fun.py[line:39] INFO get headlineQuestion screenshot
+2019-09-19 15:59:35,422 palm_function.py[line:192] INFO =======choose first option======
+2019-09-19 15:59:35,733 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 15:59:43,930 palm_function.py[line:209] INFO =======get result==========
+2019-09-19 15:59:47,932 common_fun.py[line:39] INFO get headlineResult screenshot
+2019-09-19 15:59:49,547 palm_function.py[line:213] INFO =======back to home========
+2019-09-19 15:59:52,745 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 15:59:57,884 myunit.py[line:8] INFO ======setUp======
+2019-09-19 15:59:57,888 desired_caps.py[line:32] INFO start app...
+2019-09-19 16:00:03,715 test_palm_judge.py[line:19] INFO ==========test_palm_judge_heartline start ==========
+2019-09-19 16:00:03,715 loginview.py[line:26] INFO ========input username========
+2019-09-19 16:00:14,028 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 16:00:17,688 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 16:00:17,904 loginview.py[line:60] INFO ========choose years========
+2019-09-19 16:00:18,681 loginview.py[line:70] INFO ========select month========
+2019-09-19 16:00:19,527 loginview.py[line:80] INFO ========select day========
+2019-09-19 16:00:20,302 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 16:00:24,047 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 16:00:24,047 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 16:00:24,259 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 16:00:27,868 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 16:00:44,608 common_fun.py[line:61] INFO ========back event============
+2019-09-19 16:00:49,741 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 16:00:55,124 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 16:01:01,162 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 16:01:03,289 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 16:01:03,531 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 16:01:04,370 palm_function.py[line:136] INFO ========choose heartline=======
+2019-09-19 16:01:12,800 common_fun.py[line:39] INFO get heartlineQuestion screenshot
+2019-09-19 16:01:14,396 palm_function.py[line:147] INFO =======choose first option======
+2019-09-19 16:01:14,664 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 16:01:22,836 palm_function.py[line:164] INFO =======get result==========
+2019-09-19 16:01:26,842 common_fun.py[line:39] INFO get heartlinelineResult screenshot
+2019-09-19 16:01:28,526 palm_function.py[line:168] INFO =======back to home========
+2019-09-19 16:01:31,729 myunit.py[line:12] INFO ======tearDown=======
+2019-09-19 16:01:36,890 myunit.py[line:8] INFO ======setUp======
+2019-09-19 16:01:36,893 desired_caps.py[line:32] INFO start app...
+2019-09-19 16:01:42,817 test_palm_judge.py[line:14] INFO ==========test_palm_judge_lifeline start ==========
+2019-09-19 16:01:42,817 loginview.py[line:26] INFO ========input username========
+2019-09-19 16:01:53,125 loginview.py[line:39] INFO ========select birthday=======
+2019-09-19 16:01:56,809 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-19 16:01:57,120 loginview.py[line:60] INFO ========choose years========
+2019-09-19 16:01:57,896 loginview.py[line:70] INFO ========select month========
+2019-09-19 16:01:58,695 loginview.py[line:80] INFO ========select day========
+2019-09-19 16:01:59,552 loginview.py[line:90] INFO =======sure click=========
+2019-09-19 16:02:03,290 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-19 16:02:03,290 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-19 16:02:03,529 loginview.py[line:128] INFO ========next_button click===========
+2019-09-19 16:02:07,165 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-19 16:02:24,023 common_fun.py[line:61] INFO ========back event============
+2019-09-19 16:02:29,162 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 16:02:34,543 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-19 16:02:40,454 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-19 16:02:42,990 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-19 16:02:43,284 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-19 16:02:44,159 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-09-19 16:02:52,574 common_fun.py[line:39] INFO get lifelineQuestion screenshot
+2019-09-19 16:02:54,210 palm_function.py[line:102] INFO =======choose first option======
+2019-09-19 16:02:54,498 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-19 16:03:02,734 palm_function.py[line:119] INFO =======get result==========
+2019-09-19 16:03:06,739 common_fun.py[line:39] INFO get lifelineResult screenshot
+2019-09-19 16:03:08,462 palm_function.py[line:123] INFO =======back to home========
+2019-09-19 16:03:11,628 myunit.py[line:12] INFO ======tearDown=======

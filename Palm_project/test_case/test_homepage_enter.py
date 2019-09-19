@@ -4,9 +4,9 @@ import unittest
 import logging
 
 
-class Homepage_enter(StartEnd):
+class Home_enter(StartEnd):
 
-    def test_homepage_enter(self):
+    def test_home_enter(self):
         logging.info('test_information_finish')
         username = '李宸宇'
         l = Loginview(self.driver)

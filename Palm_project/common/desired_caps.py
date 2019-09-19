@@ -5,7 +5,7 @@ import logging.config
 import os
 from os import path
 
-log_file_path = path.join(path.dirname(path.abspath(__file__)), '../config/log.conf')
+log_file_path = path.join(path.dirname(path.abspath(__file__)), '/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/config/log.conf')
 logging.config.fileConfig(log_file_path)
 logging=logging.getLogger()
 
