@@ -29,6 +29,7 @@ class Constellation(HomeView):
     Pisces = (By.XPATH,'//*[@resource-id="com.palm.test:id/rv"]/android.widget.FrameLayout[12]')
 
     result_title = (By.ID,'com.palm.test:id/tv_titlebar_title')
+    everyday_result_title = (By.ID,'com.palm.test:id/iv_cntdaily_cnt')
 
     def everyday_costellation_enter(self):
         '''每日星座功能进入'''
@@ -42,8 +43,14 @@ class Constellation(HomeView):
         else:
             everyday_constellation.click()
             time.sleep(4)
-            self.getScreenShot('everyday constellation page')
-            return True
+            try:
+                self.driver.find_element(*self.everyday_result_title)
+            except NoSuchElementException:
+                print('can not get the result page')
+                return False
+            else:
+                self.getScreenShot('everyday constellation page')
+                return True
 
 
     def constellation_Match_enter(self):
