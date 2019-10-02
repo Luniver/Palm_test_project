@@ -5,7 +5,7 @@ import logging
 
 class Palm_judge(StartEnd):
 
-    @unittest.skip('test_palm_judge_enter')
+    # @unittest.skip('test_palm_judge_enter')
     def test_palm_judge_enter(self):
         logging.info("==========test_palm_judge_enter start ==========")
         l = Palm(self.driver)
@@ -15,9 +15,9 @@ class Palm_judge(StartEnd):
     def test_palm_judge_lifeline(self):
         logging.info("==========test_palm_judge_lifeline start ==========")
         l = Palm(self.driver)
-        self.assertFalse(l.palm_judge_lifeline())
+        self.assertTrue(l.palm_judge_lifeline())
 
-    @unittest.skip('test_palm_judge_heartline')
+    # @unittest.skip('test_palm_judge_heartline')
     def test_palm_judge_heartline(self):
         logging.info("==========test_palm_judge_heartline start ==========")
         l = Palm(self.driver)
@@ -29,7 +29,7 @@ class Palm_judge(StartEnd):
         l = Palm(self.driver)
         self.assertTrue(l.palm_judge_businessline())
 
-    @unittest.skip('test_palm_judge_headline')
+    # @unittest.skip('test_palm_judge_headline')
     def test_palm_judge_headline(self):
         logging.info("==========test_palm_judge_headline start ==========")
         l = Palm(self.driver)

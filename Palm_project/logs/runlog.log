@@ -3870,3 +3870,986 @@
 2019-09-20 14:49:55,553 homeview.py[line:100] INFO =======switch to Constellation page=========
 2019-09-20 14:49:58,103 common_fun.py[line:39] INFO get Constellation_home screenshot
 2019-09-20 14:50:01,235 myunit.py[line:12] INFO ======tearDown=======
+2019-09-24 20:30:03,926 myunit.py[line:8] INFO ======setUp======
+2019-09-24 20:30:03,931 desired_caps.py[line:32] INFO start app...
+2019-09-24 20:30:13,463 test006_constellation_everyday.py[line:9] INFO =========test_constellation_everyday_enter start ======
+2019-09-24 20:30:13,463 loginview.py[line:26] INFO ========input username========
+2019-09-24 20:30:25,939 loginview.py[line:39] INFO ========select birthday=======
+2019-09-24 20:30:29,605 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-24 20:30:29,856 loginview.py[line:60] INFO ========choose years========
+2019-09-24 20:30:30,678 loginview.py[line:70] INFO ========select month========
+2019-09-24 20:30:31,609 loginview.py[line:80] INFO ========select day========
+2019-09-24 20:30:32,420 loginview.py[line:90] INFO =======sure click=========
+2019-09-24 20:30:36,216 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-24 20:30:36,217 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-24 20:30:36,481 loginview.py[line:128] INFO ========next_button click===========
+2019-09-24 20:30:40,120 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-24 20:30:56,974 common_fun.py[line:61] INFO ========back event============
+2019-09-24 20:30:59,282 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-24 20:31:14,544 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-24 20:31:17,342 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-24 20:31:19,533 Constellation_function.py[line:37] INFO ============select and enter everyday constellation==========
+2019-09-24 20:31:25,868 common_fun.py[line:39] INFO get everyday constellation page screenshot
+2019-09-24 20:31:27,482 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:02:43,518 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:02:43,525 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:02:49,443 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-09-26 15:02:49,444 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:03:04,212 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:03:07,862 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:03:08,062 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:03:08,881 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:03:09,758 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:03:10,603 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:03:14,435 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:03:14,435 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:03:14,682 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:03:18,308 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:03:32,100 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:03:44,136 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:03:59,686 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:04:09,723 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:04:14,864 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:04:14,867 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:04:21,022 test004_constellation_match.py[line:77] INFO =========test_same_Aquarius_match start==========
+2019-09-26 15:04:21,023 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:04:35,154 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:04:38,773 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:04:39,082 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:04:39,919 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:04:40,821 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:04:41,659 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:04:45,491 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:04:45,491 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:04:45,657 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:04:49,295 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:05:06,088 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:05:08,501 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:05:35,802 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:05:38,279 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:05:40,110 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:05:40,716 Constellation_function.py[line:292] INFO =======start Aquarius match Aquarius=======
+2019-09-26 15:06:01,064 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:06:14,605 Constellation_function.py[line:301] INFO =========get constellation match result========
+2019-09-26 15:06:14,654 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:06:19,839 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:06:19,842 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:06:25,951 test004_constellation_match.py[line:17] INFO =========test_same_Aries_match start==========
+2019-09-26 15:06:25,951 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:06:39,986 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:06:43,658 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:06:43,848 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:06:44,686 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:06:45,558 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:06:46,523 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:06:50,459 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:06:50,459 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:06:50,752 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:06:54,417 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:07:11,175 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:07:13,568 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:07:40,837 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:07:43,269 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:07:45,020 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:07:45,676 Constellation_function.py[line:72] INFO =======start Aries match Aries=======
+2019-09-26 15:08:06,018 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:08:19,595 Constellation_function.py[line:81] INFO =========get constellation match result========
+2019-09-26 15:08:19,673 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:08:24,853 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:08:24,855 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:08:30,995 test004_constellation_match.py[line:35] INFO =========test_same_Cancer_match start==========
+2019-09-26 15:08:30,996 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:08:45,138 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:08:48,776 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:08:49,044 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:08:49,857 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:08:50,656 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:08:51,532 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:08:55,438 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:08:55,438 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:08:55,679 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:08:59,356 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:09:16,151 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:09:18,568 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:09:45,868 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:09:48,279 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:09:50,859 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:09:51,585 Constellation_function.py[line:138] INFO =======start Cancer match Cancer=======
+2019-09-26 15:10:11,945 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:10:25,365 Constellation_function.py[line:147] INFO =========get constellation match result========
+2019-09-26 15:10:25,403 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:10:30,583 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:10:30,586 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:10:36,893 test004_constellation_match.py[line:71] INFO =========test_same_Capricornus_match start==========
+2019-09-26 15:10:36,894 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:10:50,928 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:10:54,605 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:10:54,911 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:10:55,742 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:10:56,519 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:10:57,370 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:11:01,192 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:11:01,192 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:11:01,375 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:11:05,065 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:11:21,850 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:11:24,274 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:11:51,600 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:11:53,993 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:11:56,368 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:11:56,922 Constellation_function.py[line:270] INFO =======start Capricornus match Capricornus=======
+2019-09-26 15:12:17,274 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:12:30,819 Constellation_function.py[line:279] INFO =========get constellation match result========
+2019-09-26 15:12:30,888 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:12:36,072 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:12:36,076 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:12:42,578 test004_constellation_match.py[line:29] INFO =========test_same_Gemini_match start==========
+2019-09-26 15:12:42,579 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:12:56,822 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:13:00,439 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:13:00,772 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:13:01,617 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:13:02,505 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:13:03,338 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:13:07,178 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:13:07,178 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:13:07,435 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:13:11,112 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:13:28,029 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:13:30,442 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:13:57,716 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:14:00,170 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:14:02,073 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:14:02,782 Constellation_function.py[line:116] INFO =======start Gemini match Gemini=======
+2019-09-26 15:14:23,159 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:14:36,372 Constellation_function.py[line:125] INFO =========get constellation match result========
+2019-09-26 15:14:36,428 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:14:41,602 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:14:41,608 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:14:48,459 test004_constellation_match.py[line:41] INFO =========test_same_Leo_match start==========
+2019-09-26 15:14:48,459 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:15:02,507 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:15:06,235 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:15:06,510 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:15:07,338 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:15:08,148 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:15:08,992 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:15:12,970 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:15:12,970 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:15:13,150 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:15:16,819 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:15:33,622 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:15:36,060 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:16:03,420 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:16:05,918 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:16:11,290 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:16:11,864 Constellation_function.py[line:160] INFO =======start Leo match Leo=======
+2019-09-26 15:16:32,215 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:16:45,850 Constellation_function.py[line:169] INFO =========get constellation match result========
+2019-09-26 15:16:45,887 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:16:51,056 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:16:51,060 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:16:59,538 test004_constellation_match.py[line:53] INFO =========test_same_Libra_match start==========
+2019-09-26 15:16:59,538 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:17:14,247 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:17:17,924 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:17:18,193 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:17:19,041 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:17:19,850 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:17:20,718 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:17:24,536 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:17:24,537 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:17:24,778 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:17:28,562 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:17:45,414 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:17:47,817 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:18:15,149 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:18:17,539 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:18:19,490 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:18:20,066 Constellation_function.py[line:204] INFO =======start Libra match Libra=======
+2019-09-26 15:18:40,412 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:18:54,146 Constellation_function.py[line:213] INFO =========get constellation match result========
+2019-09-26 15:18:54,179 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:18:59,341 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:18:59,345 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:19:05,997 test004_constellation_match.py[line:83] INFO =========test_same_Pisces_match start==========
+2019-09-26 15:19:05,998 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:19:19,877 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:19:23,580 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:19:23,851 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:19:24,726 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:19:25,557 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:19:26,414 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:19:30,251 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:19:30,251 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:19:30,449 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:19:34,083 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:19:50,424 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:19:52,920 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:20:20,200 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:20:22,601 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:20:25,126 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:20:25,838 Constellation_function.py[line:314] INFO =======start Pisces match Pisces=======
+2019-09-26 15:20:46,203 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:20:59,719 Constellation_function.py[line:323] INFO =========get constellation match result========
+2019-09-26 15:20:59,760 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:21:04,919 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:21:04,923 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:21:11,557 test004_constellation_match.py[line:65] INFO =========test_same_Sagittarius_match start==========
+2019-09-26 15:21:11,558 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:21:25,680 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:21:29,381 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:21:29,657 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:21:30,603 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:21:31,322 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:21:32,155 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:21:36,026 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:21:36,027 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:21:36,248 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:21:39,909 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:21:56,706 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:21:59,125 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:22:26,415 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:22:28,928 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:22:31,678 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:22:32,384 Constellation_function.py[line:248] INFO =======start Sagittarius match Sagittarius=======
+2019-09-26 15:22:52,764 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:23:06,188 Constellation_function.py[line:257] INFO =========get constellation match result========
+2019-09-26 15:23:06,215 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:23:11,350 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:23:11,354 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:23:18,120 test004_constellation_match.py[line:59] INFO =========test_same_Scorpio_match start==========
+2019-09-26 15:23:18,120 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:23:32,076 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:23:35,756 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:23:36,036 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:23:36,877 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:23:37,698 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:23:38,494 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:23:42,359 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:23:42,359 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:23:42,602 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:23:46,349 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:24:02,959 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:24:08,124 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:24:15,573 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:24:18,066 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:24:21,096 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:24:21,669 Constellation_function.py[line:226] INFO =======start Scorpio match Scorpio=======
+2019-09-26 15:24:42,031 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:24:55,563 Constellation_function.py[line:235] INFO =========get constellation match result========
+2019-09-26 15:24:55,611 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:25:00,809 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:25:00,813 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:25:07,389 test004_constellation_match.py[line:23] INFO =========test_same_Taurus_match start==========
+2019-09-26 15:25:07,389 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:25:21,504 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:25:25,158 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:25:25,340 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:25:26,177 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:25:27,022 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:25:27,916 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:25:31,704 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:25:31,704 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:25:31,983 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:25:35,625 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:25:52,450 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:25:54,847 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:26:22,132 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:26:24,559 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:26:26,670 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:26:27,191 Constellation_function.py[line:94] INFO =======start Taurus match Taurus=======
+2019-09-26 15:26:47,569 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:27:00,790 Constellation_function.py[line:103] INFO =========get constellation match result========
+2019-09-26 15:27:00,856 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:27:06,020 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:27:06,023 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:27:12,505 test004_constellation_match.py[line:47] INFO =========test_same_Virgo_match start==========
+2019-09-26 15:27:12,505 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:27:26,594 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:27:30,305 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:27:30,521 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:27:31,345 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:27:32,229 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:27:33,058 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:27:36,910 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:27:36,910 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:27:37,153 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:27:40,823 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:27:57,656 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:28:00,070 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:28:27,342 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:28:29,804 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:28:31,943 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:28:32,435 Constellation_function.py[line:182] INFO =======start Virgo match Virgo=======
+2019-09-26 15:28:52,832 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:29:06,211 Constellation_function.py[line:191] INFO =========get constellation match result========
+2019-09-26 15:29:06,313 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:42:52,206 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:42:52,210 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:42:58,863 test001_homepage_enter.py[line:10] INFO test_information_finish
+2019-09-26 15:42:58,863 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:43:12,805 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:43:16,723 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:43:16,891 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:43:17,726 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:43:18,528 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:43:19,399 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:43:23,252 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:43:23,254 loginview.py[line:116] INFO ========sexual set female==========
+2019-09-26 15:43:23,425 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:43:27,104 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:43:43,779 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:43:46,184 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:44:11,522 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:44:16,669 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:44:16,671 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:44:23,109 test002_information_write.py[line:57] INFO ======test_birthday_select start =======
+2019-09-26 15:44:23,110 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:44:31,980 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:44:32,199 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:44:33,007 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:44:33,809 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:44:34,639 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:44:38,411 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:44:38,456 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:44:43,627 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:44:43,632 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:44:49,998 test002_information_write.py[line:18] INFO =====test_username_input_chinese start ======
+2019-09-26 15:44:49,998 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:45:04,564 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:45:09,723 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:45:09,727 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:45:16,289 test002_information_write.py[line:10] INFO =====test_username_input_english start ======
+2019-09-26 15:45:16,289 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:45:30,879 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:45:36,135 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:45:36,139 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:45:42,408 test002_information_write.py[line:34] INFO =====test_username_input_french start ======
+2019-09-26 15:45:42,408 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:45:53,907 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:45:59,072 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:45:59,076 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:46:05,309 test002_information_write.py[line:26] INFO =====test_username_input_japanese start ======
+2019-09-26 15:46:05,309 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:46:20,014 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:46:25,175 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:46:25,178 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:46:31,523 test002_information_write.py[line:42] INFO =====test_username_input_korean start ======
+2019-09-26 15:46:31,523 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:46:43,193 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:46:48,345 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:46:48,349 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:46:54,596 test002_information_write.py[line:64] INFO =======test_sex_select start =========
+2019-09-26 15:46:54,596 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:47:00,805 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:47:05,976 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:47:05,980 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:47:12,156 test002_information_write.py[line:50] INFO =====test_username_input_spain start ======
+2019-09-26 15:47:12,156 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:47:27,108 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:47:32,278 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:47:32,281 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:47:38,380 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-09-26 15:47:38,380 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:47:52,420 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:47:56,090 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:47:56,381 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:47:57,214 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:47:57,995 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:47:58,899 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:48:02,741 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:48:02,741 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:48:02,968 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:48:06,639 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:48:23,279 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:48:25,683 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:48:50,956 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-26 15:48:57,094 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-26 15:48:59,373 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-26 15:48:59,530 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-26 15:49:00,859 palm_function.py[line:226] INFO ========choose businessline=======
+2019-09-26 15:49:09,738 common_fun.py[line:39] INFO get businesslineQuestion screenshot
+2019-09-26 15:49:11,426 palm_function.py[line:237] INFO =======choose first option======
+2019-09-26 15:49:11,708 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:49:37,016 palm_function.py[line:254] INFO =======get result==========
+2019-09-26 15:49:41,022 common_fun.py[line:39] INFO get businesslineResult screenshot
+2019-09-26 15:49:43,377 palm_function.py[line:258] INFO =======back to home========
+2019-09-26 15:49:46,656 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:49:51,825 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:49:51,827 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:49:58,105 test003_palm_judge.py[line:40] INFO ==========test_palm_judge_destinyline start ==========
+2019-09-26 15:49:58,105 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:50:12,098 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:50:15,770 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:50:16,162 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:50:17,017 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:50:17,970 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:50:18,889 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:50:22,789 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:50:22,792 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:50:22,973 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:50:26,663 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:50:43,303 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:50:45,705 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:51:10,994 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-26 15:51:17,180 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-26 15:51:19,657 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-26 15:51:19,959 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-26 15:51:21,075 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-09-26 15:51:29,673 common_fun.py[line:39] INFO get destinylineQuestion screenshot
+2019-09-26 15:51:31,698 palm_function.py[line:283] INFO =======choose first option======
+2019-09-26 15:51:31,974 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:51:57,259 palm_function.py[line:300] INFO =======get result==========
+2019-09-26 15:52:01,259 common_fun.py[line:39] INFO get destinylineResult screenshot
+2019-09-26 15:52:03,432 palm_function.py[line:304] INFO =======back to home========
+2019-09-26 15:52:06,697 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:52:11,851 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:52:11,854 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:52:18,357 test003_palm_judge.py[line:10] INFO ==========test_palm_judge_enter start ==========
+2019-09-26 15:52:18,357 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:52:34,011 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:52:37,760 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:52:37,927 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:52:38,748 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:52:39,542 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:52:40,390 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:52:44,370 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:52:44,370 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:52:44,542 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:52:48,205 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:53:04,933 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:53:07,365 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:53:32,716 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-26 15:53:38,957 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-26 15:53:41,343 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-26 15:53:41,531 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-26 15:53:42,495 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:53:47,678 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:53:47,682 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:53:54,063 test003_palm_judge.py[line:16] INFO ==========test_palm_judge_lifeline start ==========
+2019-09-26 15:53:54,063 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:54:09,606 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:54:13,266 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:54:13,517 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:54:14,352 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:54:15,205 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:54:16,217 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:54:20,062 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:54:20,062 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:54:20,280 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:54:24,023 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:54:40,828 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:54:43,233 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:55:08,531 homeview.py[line:80] INFO =======switch to palm page=========
+2019-09-26 15:55:14,814 common_fun.py[line:39] INFO get palm_home screenshot
+2019-09-26 15:55:16,945 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-09-26 15:55:17,188 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-09-26 15:55:18,248 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-09-26 15:55:27,137 common_fun.py[line:39] INFO get lifelineQuestion screenshot
+2019-09-26 15:55:28,991 palm_function.py[line:102] INFO =======choose first option======
+2019-09-26 15:55:29,212 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:55:54,506 palm_function.py[line:119] INFO =======get result==========
+2019-09-26 15:55:58,509 common_fun.py[line:39] INFO get lifelineResult screenshot
+2019-09-26 15:56:00,371 palm_function.py[line:123] INFO =======back to home========
+2019-09-26 15:56:03,642 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:56:08,778 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:56:08,781 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:56:15,309 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-09-26 15:56:15,309 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:56:29,427 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:56:33,072 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:56:33,277 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:56:34,117 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:56:34,914 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:56:35,767 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:56:39,630 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:56:39,630 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:56:39,809 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:56:43,449 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:57:00,257 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:57:02,670 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:57:29,953 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:57:32,320 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:57:34,736 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:57:35,396 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:57:40,570 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:57:40,573 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:57:47,001 test004_constellation_match.py[line:77] INFO =========test_same_Aquarius_match start==========
+2019-09-26 15:57:47,002 loginview.py[line:26] INFO ========input username========
+2019-09-26 15:58:01,472 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 15:58:05,170 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 15:58:05,463 loginview.py[line:60] INFO ========choose years========
+2019-09-26 15:58:06,306 loginview.py[line:70] INFO ========select month========
+2019-09-26 15:58:07,277 loginview.py[line:80] INFO ========select day========
+2019-09-26 15:58:08,225 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 15:58:12,108 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 15:58:12,109 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 15:58:12,353 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 15:58:15,999 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 15:58:32,911 common_fun.py[line:61] INFO ========back event============
+2019-09-26 15:58:35,320 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:59:02,622 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 15:59:05,077 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 15:59:10,397 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 15:59:10,980 Constellation_function.py[line:292] INFO =======start Aquarius match Aquarius=======
+2019-09-26 15:59:31,341 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 15:59:44,830 Constellation_function.py[line:301] INFO =========get constellation match result========
+2019-09-26 15:59:44,853 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 15:59:50,017 myunit.py[line:8] INFO ======setUp======
+2019-09-26 15:59:50,021 desired_caps.py[line:32] INFO start app...
+2019-09-26 15:59:56,845 test004_constellation_match.py[line:17] INFO =========test_same_Aries_match start==========
+2019-09-26 15:59:56,845 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:00:11,193 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:00:14,834 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:00:15,225 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:00:16,080 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:00:16,920 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:00:17,870 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:00:21,720 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:00:21,721 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:00:22,021 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:00:25,670 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:00:42,375 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:00:44,826 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:01:12,125 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:01:14,722 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:01:21,043 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:01:22,406 Constellation_function.py[line:72] INFO =======start Aries match Aries=======
+2019-09-26 16:01:42,784 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:01:56,300 Constellation_function.py[line:81] INFO =========get constellation match result========
+2019-09-26 16:01:56,331 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:02:01,521 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:02:01,525 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:02:08,454 test004_constellation_match.py[line:35] INFO =========test_same_Cancer_match start==========
+2019-09-26 16:02:08,455 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:02:22,752 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:02:26,431 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:02:26,706 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:02:27,556 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:02:28,408 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:02:29,264 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:02:33,118 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:02:33,118 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:02:33,330 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:02:36,973 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:02:53,877 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:02:56,325 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:03:23,680 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:03:26,127 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:03:31,402 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:03:32,089 Constellation_function.py[line:138] INFO =======start Cancer match Cancer=======
+2019-09-26 16:03:52,572 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:04:05,603 Constellation_function.py[line:147] INFO =========get constellation match result========
+2019-09-26 16:04:05,661 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:04:10,839 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:04:10,846 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:04:17,692 test004_constellation_match.py[line:71] INFO =========test_same_Capricornus_match start==========
+2019-09-26 16:04:17,693 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:04:31,877 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:04:35,522 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:04:35,786 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:04:36,629 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:04:37,421 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:04:38,336 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:04:42,157 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:04:42,157 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:04:42,386 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:04:46,024 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:05:02,848 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:05:05,251 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:05:32,548 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:05:35,146 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:05:38,929 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:05:39,848 Constellation_function.py[line:270] INFO =======start Capricornus match Capricornus=======
+2019-09-26 16:06:03,182 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:06:16,912 Constellation_function.py[line:279] INFO =========get constellation match result========
+2019-09-26 16:06:16,937 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:06:22,108 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:06:22,112 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:06:28,456 test004_constellation_match.py[line:29] INFO =========test_same_Gemini_match start==========
+2019-09-26 16:06:28,457 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:06:43,052 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:06:46,709 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:06:47,085 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:06:47,952 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:06:48,835 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:06:49,691 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:06:53,507 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:06:53,510 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:06:53,819 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:06:57,514 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:07:14,295 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:07:16,697 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:07:43,956 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:07:46,553 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:07:51,744 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:07:52,504 Constellation_function.py[line:116] INFO =======start Gemini match Gemini=======
+2019-09-26 16:08:12,953 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:08:26,602 Constellation_function.py[line:125] INFO =========get constellation match result========
+2019-09-26 16:08:26,672 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:08:31,839 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:08:31,844 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:08:38,805 test004_constellation_match.py[line:41] INFO =========test_same_Leo_match start==========
+2019-09-26 16:08:38,805 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:08:53,023 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:08:56,672 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:08:56,911 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:08:57,740 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:08:58,597 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:08:59,385 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:09:03,176 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:09:03,176 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:09:03,475 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:09:07,112 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:09:23,764 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:09:26,189 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:09:53,547 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:09:55,993 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:09:58,802 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:09:59,338 Constellation_function.py[line:160] INFO =======start Leo match Leo=======
+2019-09-26 16:10:19,736 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:10:33,346 Constellation_function.py[line:169] INFO =========get constellation match result========
+2019-09-26 16:10:33,396 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:10:38,557 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:10:38,561 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:10:45,557 test004_constellation_match.py[line:53] INFO =========test_same_Libra_match start==========
+2019-09-26 16:10:45,557 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:10:59,621 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:11:03,278 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:11:03,538 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:11:04,365 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:11:05,195 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:11:06,079 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:11:09,944 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:11:09,944 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:11:10,152 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:11:13,789 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:11:30,646 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:11:33,046 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:12:00,408 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:12:02,797 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:12:05,010 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:12:05,550 Constellation_function.py[line:204] INFO =======start Libra match Libra=======
+2019-09-26 16:12:25,920 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:12:39,295 Constellation_function.py[line:213] INFO =========get constellation match result========
+2019-09-26 16:12:39,322 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:12:44,508 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:12:44,512 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:12:51,326 test004_constellation_match.py[line:83] INFO =========test_same_Pisces_match start==========
+2019-09-26 16:12:51,331 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:12:59,473 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:13:08,969 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:13:17,520 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:13:29,925 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:13:48,670 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:13:58,828 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:14:14,724 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:14:23,060 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:14:28,236 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:14:28,239 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:14:35,208 test004_constellation_match.py[line:65] INFO =========test_same_Sagittarius_match start==========
+2019-09-26 16:14:35,208 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:14:44,104 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:14:52,802 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:15:01,472 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:15:09,653 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:15:27,256 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:15:37,323 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:15:44,714 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:15:47,088 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:15:50,497 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:15:51,428 Constellation_function.py[line:248] INFO =======start Sagittarius match Sagittarius=======
+2019-09-26 16:16:11,804 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:16:25,100 Constellation_function.py[line:257] INFO =========get constellation match result========
+2019-09-26 16:16:25,136 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:16:30,319 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:16:30,324 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:16:36,903 test004_constellation_match.py[line:59] INFO =========test_same_Scorpio_match start==========
+2019-09-26 16:16:36,903 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:16:51,138 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:16:54,793 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:16:54,981 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:16:55,829 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:16:56,683 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:16:57,521 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:17:01,330 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:17:01,330 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:17:01,519 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:17:05,149 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:17:21,889 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:17:27,027 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:17:34,543 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:17:37,078 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:17:39,486 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:17:40,250 Constellation_function.py[line:226] INFO =======start Scorpio match Scorpio=======
+2019-09-26 16:18:00,618 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:18:14,277 Constellation_function.py[line:235] INFO =========get constellation match result========
+2019-09-26 16:18:14,344 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:18:19,501 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:18:19,504 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:18:25,708 test004_constellation_match.py[line:23] INFO =========test_same_Taurus_match start==========
+2019-09-26 16:18:25,708 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:18:39,881 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:18:43,551 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:18:43,849 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:18:44,685 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:18:45,459 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:18:46,318 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:18:50,168 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:18:50,168 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:18:50,367 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:18:54,002 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:19:10,862 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:19:13,270 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:19:40,541 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:19:43,016 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:19:44,917 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:19:45,598 Constellation_function.py[line:94] INFO =======start Taurus match Taurus=======
+2019-09-26 16:20:05,947 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:20:19,446 Constellation_function.py[line:103] INFO =========get constellation match result========
+2019-09-26 16:20:19,471 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:20:24,618 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:20:24,623 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:20:31,584 test004_constellation_match.py[line:47] INFO =========test_same_Virgo_match start==========
+2019-09-26 16:20:31,585 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:20:45,641 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:20:49,352 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:20:49,627 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:20:50,476 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:20:51,260 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:20:52,172 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:20:56,069 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:20:56,070 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:20:56,237 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:20:59,880 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:21:16,611 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:21:19,015 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:21:46,318 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:21:48,847 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:21:51,361 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-26 16:21:52,026 Constellation_function.py[line:182] INFO =======start Virgo match Virgo=======
+2019-09-26 16:22:12,377 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:22:25,889 Constellation_function.py[line:191] INFO =========get constellation match result========
+2019-09-26 16:22:25,930 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:22:31,110 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:22:31,114 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:22:37,565 test005_constellation_enter.py[line:10] INFO =======test_constellationPage_enter start=======
+2019-09-26 16:22:37,565 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:22:51,583 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:22:55,261 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:22:55,545 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:22:56,359 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:22:57,135 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:22:58,002 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:23:01,871 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:23:01,871 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:23:02,096 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:23:05,739 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:23:22,348 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:23:24,756 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:23:52,087 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:23:54,535 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:23:57,144 myunit.py[line:12] INFO ======tearDown=======
+2019-09-26 16:24:02,311 myunit.py[line:8] INFO ======setUp======
+2019-09-26 16:24:02,315 desired_caps.py[line:32] INFO start app...
+2019-09-26 16:24:09,083 test006_constellation_everyday.py[line:9] INFO =========test_constellation_everyday_enter start ======
+2019-09-26 16:24:09,083 loginview.py[line:26] INFO ========input username========
+2019-09-26 16:24:24,249 loginview.py[line:39] INFO ========select birthday=======
+2019-09-26 16:24:27,941 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-26 16:24:28,111 loginview.py[line:60] INFO ========choose years========
+2019-09-26 16:24:28,929 loginview.py[line:70] INFO ========select month========
+2019-09-26 16:24:29,790 loginview.py[line:80] INFO ========select day========
+2019-09-26 16:24:30,610 loginview.py[line:90] INFO =======sure click=========
+2019-09-26 16:24:34,543 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-26 16:24:34,543 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-26 16:24:34,799 loginview.py[line:128] INFO ========next_button click===========
+2019-09-26 16:24:38,448 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-26 16:24:55,314 common_fun.py[line:61] INFO ========back event============
+2019-09-26 16:24:57,727 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-26 16:25:25,054 homeview.py[line:100] INFO =======switch to Constellation page=========
+2019-09-26 16:25:27,535 common_fun.py[line:39] INFO get Constellation_home screenshot
+2019-09-26 16:25:31,568 Constellation_function.py[line:37] INFO ============select and enter everyday constellation==========
+2019-09-26 16:25:39,090 common_fun.py[line:39] INFO get everyday constellation page screenshot
+2019-09-26 16:25:43,940 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 17:50:00,131 myunit.py[line:8] INFO ======setUp======
+2019-09-30 17:50:00,139 desired_caps.py[line:32] INFO start app...
+2019-09-30 17:50:15,290 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-09-30 17:50:15,290 loginview.py[line:26] INFO ========input username========
+2019-09-30 17:50:23,788 loginview.py[line:39] INFO ========select birthday=======
+2019-09-30 17:50:31,940 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-30 17:52:25,628 myunit.py[line:8] INFO ======setUp======
+2019-09-30 17:52:25,634 desired_caps.py[line:32] INFO start app...
+2019-09-30 17:52:38,490 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-09-30 17:52:38,491 loginview.py[line:26] INFO ========input username========
+2019-09-30 17:52:46,769 loginview.py[line:39] INFO ========select birthday=======
+2019-09-30 17:52:55,075 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-30 17:53:03,204 loginview.py[line:128] INFO ========next_button click===========
+2019-09-30 18:00:44,930 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:01:24,804 homeview.py[line:38] INFO ========plan B enter=======
+2019-09-30 18:17:38,736 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:17:55,935 homeview.py[line:72] INFO =========plan A enter========
+2019-09-30 18:17:55,935 loginview.py[line:26] INFO ========input username========
+2019-09-30 18:18:05,766 loginview.py[line:39] INFO ========select birthday=======
+2019-09-30 18:18:09,439 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-30 18:18:09,655 loginview.py[line:60] INFO ========choose years========
+2019-09-30 18:18:10,490 loginview.py[line:70] INFO ========select month========
+2019-09-30 18:18:11,383 loginview.py[line:80] INFO ========select day========
+2019-09-30 18:18:12,163 loginview.py[line:90] INFO =======sure click=========
+2019-09-30 18:18:15,840 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-30 18:18:15,841 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-30 18:18:16,006 loginview.py[line:128] INFO ========next_button click===========
+2019-09-30 18:18:19,636 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-30 18:18:25,993 common_fun.py[line:61] INFO ========back event============
+2019-09-30 18:18:43,984 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 18:19:00,614 homeview.py[line:80] INFO =======switch to navigation_me===========
+2019-09-30 18:19:40,168 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:19:50,733 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:20:07,324 homeview.py[line:90] INFO ========plan B enter=======
+2019-09-30 18:21:29,460 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:21:50,367 homeview.py[line:74] INFO =========plan A enter========
+2019-09-30 18:21:50,367 loginview.py[line:26] INFO ========input username========
+2019-09-30 18:22:00,103 loginview.py[line:39] INFO ========select birthday=======
+2019-09-30 18:22:03,749 loginview.py[line:50] INFO ========click years to choose=======
+2019-09-30 18:22:03,975 loginview.py[line:60] INFO ========choose years========
+2019-09-30 18:22:04,836 loginview.py[line:70] INFO ========select month========
+2019-09-30 18:22:05,887 loginview.py[line:80] INFO ========select day========
+2019-09-30 18:22:06,755 loginview.py[line:90] INFO =======sure click=========
+2019-09-30 18:22:10,496 loginview.py[line:99] INFO ========auto select Constellation======
+2019-09-30 18:22:10,497 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-30 18:22:10,678 loginview.py[line:128] INFO ========next_button click===========
+2019-09-30 18:22:14,320 common_fun.py[line:44] INFO ========allow to in=============
+2019-09-30 18:22:20,755 common_fun.py[line:61] INFO ========back event============
+2019-09-30 18:22:35,710 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 18:22:59,886 homeview.py[line:82] INFO =======switch to navigation_me===========
+2019-09-30 18:25:57,353 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:26:19,386 homeview.py[line:74] INFO =========plan A enter========
+2019-09-30 18:26:19,386 loginview.py[line:26] INFO ========input username========
+2019-09-30 18:26:27,508 loginview.py[line:39] INFO ========select birthday=======
+2019-09-30 18:26:35,714 loginview.py[line:104] INFO ========sexual set male===========
+2019-09-30 18:26:50,054 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:27:30,601 homeview.py[line:92] INFO ========plan B enter=======
+2019-09-30 18:39:08,177 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:39:22,750 homeview.py[line:261] INFO ========plan B enter=======
+2019-09-30 18:39:57,593 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:40:57,814 homeview.py[line:261] INFO ========plan B enter=======
+2019-09-30 18:43:10,713 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:43:33,938 homeview.py[line:261] INFO ========plan B enter=======
+2019-09-30 18:44:50,406 myunit.py[line:8] INFO ======setUp======
+2019-09-30 18:44:50,409 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:45:03,740 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-09-30 18:45:22,100 homeview.py[line:147] INFO =========plan A enter========
+2019-09-30 18:45:22,101 loginview.py[line:26] INFO ========input username========
+2019-09-30 18:45:33,142 loginview.py[line:39] INFO ========select birthday=======
+2019-09-30 18:48:47,573 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:48:58,074 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:49:39,727 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 18:49:51,684 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 18:49:53,008 Constellation_function.py[line:72] INFO =======start Aries match Aries=======
+2019-09-30 18:50:14,069 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 18:50:39,311 Constellation_function.py[line:82] INFO =========get constellation match result========
+2019-09-30 18:52:48,123 myunit.py[line:8] INFO ======setUp======
+2019-09-30 18:52:48,127 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:53:00,758 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-09-30 18:53:18,585 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 18:53:30,244 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 18:53:31,534 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 18:53:36,716 myunit.py[line:8] INFO ======setUp======
+2019-09-30 18:53:36,718 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:54:09,163 test004_constellation_match.py[line:77] INFO =========test_same_Aquarius_match start==========
+2019-09-30 18:54:57,338 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 18:55:09,141 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 18:55:10,386 Constellation_function.py[line:302] INFO =======start Aquarius match Aquarius=======
+2019-09-30 18:55:31,489 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 18:55:56,825 Constellation_function.py[line:312] INFO =========get constellation match result========
+2019-09-30 18:55:57,802 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 18:56:02,969 myunit.py[line:8] INFO ======setUp======
+2019-09-30 18:56:02,972 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:56:35,399 test004_constellation_match.py[line:17] INFO =========test_same_Aries_match start==========
+2019-09-30 18:56:53,532 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 18:57:05,409 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 18:57:06,691 Constellation_function.py[line:72] INFO =======start Aries match Aries=======
+2019-09-30 18:57:27,779 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 18:57:53,110 Constellation_function.py[line:82] INFO =========get constellation match result========
+2019-09-30 18:57:53,737 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 18:57:58,927 myunit.py[line:8] INFO ======setUp======
+2019-09-30 18:57:58,929 desired_caps.py[line:32] INFO start app...
+2019-09-30 18:58:31,495 test004_constellation_match.py[line:35] INFO =========test_same_Cancer_match start==========
+2019-09-30 18:58:49,608 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 18:59:01,292 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 18:59:02,509 Constellation_function.py[line:141] INFO =======start Cancer match Cancer=======
+2019-09-30 18:59:23,608 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 18:59:48,973 Constellation_function.py[line:151] INFO =========get constellation match result========
+2019-09-30 18:59:49,977 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 18:59:55,133 myunit.py[line:8] INFO ======setUp======
+2019-09-30 18:59:55,137 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:00:27,397 test004_constellation_match.py[line:71] INFO =========test_same_Capricornus_match start==========
+2019-09-30 19:00:45,122 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:00:56,816 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:00:58,132 Constellation_function.py[line:279] INFO =======start Capricornus match Capricornus=======
+2019-09-30 19:01:19,168 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:01:44,437 Constellation_function.py[line:289] INFO =========get constellation match result========
+2019-09-30 19:01:45,430 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:01:50,587 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:01:50,590 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:02:23,369 test004_constellation_match.py[line:29] INFO =========test_same_Gemini_match start==========
+2019-09-30 19:02:40,824 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:02:52,488 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:02:53,815 Constellation_function.py[line:118] INFO =======start Gemini match Gemini=======
+2019-09-30 19:03:14,860 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:03:40,153 Constellation_function.py[line:128] INFO =========get constellation match result========
+2019-09-30 19:03:41,095 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:03:46,299 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:03:46,303 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:04:18,714 test004_constellation_match.py[line:41] INFO =========test_same_Leo_match start==========
+2019-09-30 19:04:36,674 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:04:48,520 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:04:49,929 Constellation_function.py[line:164] INFO =======start Leo match Leo=======
+2019-09-30 19:05:13,637 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:05:38,955 Constellation_function.py[line:174] INFO =========get constellation match result========
+2019-09-30 19:05:39,932 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:05:45,096 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:05:45,100 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:06:19,847 test004_constellation_match.py[line:53] INFO =========test_same_Libra_match start==========
+2019-09-30 19:06:27,277 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:06:39,156 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:06:40,648 Constellation_function.py[line:210] INFO =======start Libra match Libra=======
+2019-09-30 19:07:04,314 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:07:29,633 Constellation_function.py[line:220] INFO =========get constellation match result========
+2019-09-30 19:07:30,950 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:07:36,159 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:07:36,162 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:08:13,147 test004_constellation_match.py[line:83] INFO =========test_same_Pisces_match start==========
+2019-09-30 19:08:31,687 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:08:43,466 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:08:44,927 Constellation_function.py[line:325] INFO =======start Pisces match Pisces=======
+2019-09-30 19:09:06,057 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:09:31,366 Constellation_function.py[line:335] INFO =========get constellation match result========
+2019-09-30 19:09:32,312 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:09:37,556 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:09:37,560 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:10:12,916 test004_constellation_match.py[line:65] INFO =========test_same_Sagittarius_match start==========
+2019-09-30 19:10:20,503 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:10:22,885 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:10:24,380 Constellation_function.py[line:256] INFO =======start Sagittarius match Sagittarius=======
+2019-09-30 19:10:48,214 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:11:13,595 Constellation_function.py[line:266] INFO =========get constellation match result========
+2019-09-30 19:11:14,710 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:11:19,976 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:11:19,978 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:11:57,125 test004_constellation_match.py[line:59] INFO =========test_same_Scorpio_match start==========
+2019-09-30 19:12:06,182 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:12:18,375 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:12:20,013 Constellation_function.py[line:233] INFO =======start Scorpio match Scorpio=======
+2019-09-30 19:12:41,104 common_fun.py[line:74] INFO ========close subscribe page======
+2019-09-30 19:13:06,475 Constellation_function.py[line:243] INFO =========get constellation match result========
+2019-09-30 19:13:07,147 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:13:12,387 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:13:12,390 desired_caps.py[line:32] INFO start app...
+2019-09-30 19:13:49,515 test004_constellation_match.py[line:23] INFO =========test_same_Taurus_match start==========
+2019-09-30 19:14:38,456 homeview.py[line:168] INFO ========plan B enter=======
+2019-09-30 19:14:50,822 Constellation_function.py[line:59] INFO ========select and enter constellation matching========
+2019-09-30 19:14:51,833 Constellation_function.py[line:95] INFO =======start Taurus match Taurus=======
+2019-09-30 19:15:00,391 myunit.py[line:12] INFO ======tearDown=======
+2019-09-30 19:15:05,576 myunit.py[line:8] INFO ======setUp======
+2019-09-30 19:15:05,579 desired_caps.py[line:32] INFO start app...

@@ -77,6 +77,7 @@ class Constellation(HomeView):
             return False
         else:
             Aries_match.click()
+            Aries_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
             try:
@@ -98,6 +99,7 @@ class Constellation(HomeView):
             print('can not find the Taurus')
             return False
         else:
+            Taurus_match.click()
             Taurus_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -121,6 +123,7 @@ class Constellation(HomeView):
             return False
         else:
             Gemini_match.click()
+            Gemini_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
             try:
@@ -142,6 +145,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
+            Cancer_match.click()
             Cancer_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -165,6 +169,7 @@ class Constellation(HomeView):
             return False
         else:
             Leo_match.click()
+            Leo_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
             try:
@@ -186,6 +191,7 @@ class Constellation(HomeView):
             print('can not find the Virgo')
             return False
         else:
+            Virgo_match.click()
             Virgo_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -209,6 +215,7 @@ class Constellation(HomeView):
             return False
         else:
             Libra_match.click()
+            Libra_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
             try:
@@ -230,6 +237,7 @@ class Constellation(HomeView):
             print('can not find the Scorpio')
             return False
         else:
+            Scorpio_match.click()
             Scorpio_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -253,6 +261,7 @@ class Constellation(HomeView):
             return False
         else:
             Sagittarius_match.click()
+            Sagittarius_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
             try:
@@ -274,6 +283,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
+            Capricornus_match.click()
             Capricornus_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -297,6 +307,7 @@ class Constellation(HomeView):
             return False
         else:
             Aquarius_match.click()
+            Aquarius_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
             try:
@@ -318,6 +329,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
+            Pisces_match.click()
             Pisces_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
