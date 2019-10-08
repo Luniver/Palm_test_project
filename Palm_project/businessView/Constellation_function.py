@@ -31,6 +31,11 @@ class Constellation(HomeView):
     result_title = (By.ID,'com.palm.test:id/tv_titlebar_title')
     everyday_result_title = (By.ID,'com.palm.test:id/iv_cntdaily_cnt')
 
+    today = (By.ID,'com.palm.test:id/tv_cntdaily_today')
+    tomorrow = (By.ID,'com.palm.test:id/tv_cntdaily_tomorrow')
+    future = (By.ID,'com.palm.test:id/tv_cntdaily_future')
+    more = (By.ID,'com.palm.test:id/tv_cntdaily_more')
+
     def everyday_costellation_enter(self):
         '''每日星座功能进入'''
         self.switch_Constellation()
@@ -51,6 +56,66 @@ class Constellation(HomeView):
             else:
                 self.getScreenShot('everyday constellation page')
                 return True
+
+    def everyday_constellation_today(self):
+        '''每日星座今日界面'''
+        self.everyday_costellation_enter()
+        logging.info('===========enter everyday constellation today page===========')
+        try:
+            today = self.driver.find_element(*self.today)
+        except NoSuchElementException:
+            print('can not find the today')
+            return False
+        else:
+            today.click()
+            time.sleep(2)
+            self.getScreenShot('constellation today page')
+            return True
+
+    def everyday_constellation_tomorrow(self):
+        '''每日星座明日界面'''
+        self.everyday_costellation_enter()
+        logging.info('=========enter everyday constellation tomorrow page=========')
+        try:
+            tomorrow = self.driver.find_element(*self.tomorrow)
+        except NoSuchElementException:
+            print('can not find the tomorrow')
+            return False
+        else:
+            tomorrow.click()
+            time.sleep(2)
+            self.getScreenShot('constellation tomorrow page')
+            return True
+
+    def everyday_constellation_future(self):
+        '''每日星座未来界面'''
+        self.everyday_costellation_enter()
+        logging.info('==========enter everyday constellation future page==========')
+        try:
+            future = self.driver.find_element(*self.future)
+        except NoSuchElementException:
+            print('can not find the future')
+            return False
+        else:
+            future.click()
+            time.sleep(2)
+            self.getScreenShot('constellation future page')
+            return True
+
+    def everyday_constellation_more(self):
+        '''每日星座更多'''
+        self.everyday_costellation_enter()
+        logging.info('==========enter everyday constellation more page========')
+        try:
+            more = self.driver.find_element(*self.more)
+        except NoSuchElementException:
+            print('can not find the more')
+            return False
+        else:
+            more.click()
+            time.sleep(2)
+            self.getScreenShot('constellation select page')
+            return True
 
 
     def constellation_Match_enter(self):
@@ -86,7 +151,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Aries constellation match result')
                 return True
 
     def same_Taurus_match(self):
@@ -109,7 +175,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Taurus constellation match result')
                 return True
 
     def same_Gemini_match(self):
@@ -132,7 +199,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Gemini constallation match result')
                 return True
 
     def same_Cancer_match(self):
@@ -155,7 +223,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Cancer constellation match result')
                 return True
 
     def same_Leo_match(self):
@@ -178,7 +247,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Leo constellation match result')
                 return True
 
     def same_Virgo_match(self):
@@ -191,7 +261,7 @@ class Constellation(HomeView):
             print('can not find the Virgo')
             return False
         else:
-            Virgo_match.click()
+            Virgo_match.click()#点击取消星座引导页面动画
             Virgo_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -201,7 +271,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Virgo constellation match result')
                 return True
 
     def same_Libra_match(self):
@@ -224,7 +295,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Libra constellation match result')
                 return True
 
     def same_Scorpio_match(self):
@@ -247,7 +319,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Scorpoio constellation match result')
                 return True
 
     def same_Sagittarius_match(self):
@@ -270,7 +343,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Sagittarius constellation match result')
                 return True
 
     def same_Capricornus_match(self):
@@ -293,7 +367,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Capricornus constellation match result')
                 return True
 
     def same_Aquarius_match(self):
@@ -316,7 +391,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Aquarius constellation match result')
                 return True
 
     def same_Pisces_match(self):
@@ -339,7 +415,8 @@ class Constellation(HomeView):
                 print('can not find the result title')
                 return False
             else:
-                print('get constellation match result')
+                # print('get constellation match result')
+                self.getScreenShot('get Pisces constellation match result')
                 return True
 
 
@@ -349,6 +426,6 @@ if __name__ == '__main__':
     driver = appium_desired()
     l = Constellation(driver)
     # l.everyday_costellation_enter()
-    l.same_Aries_match()
+    l.same_Sagittarius_match()
 
 
