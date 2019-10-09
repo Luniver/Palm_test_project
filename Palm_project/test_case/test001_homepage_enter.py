@@ -6,6 +6,7 @@ import logging
 
 class Home_enter(StartEnd):
 
+    @unittest.skip('test_home_enter')
     def test_home_enter(self):
         logging.info('test_information_finish')
         username = '李宸宇'

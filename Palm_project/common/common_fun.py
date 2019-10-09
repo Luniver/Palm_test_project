@@ -1,6 +1,8 @@
 from Palm_project.baseView.baseView import BaseView
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import logging
 import time,os,re
 
@@ -15,6 +17,121 @@ class Commom(BaseView):
 
     backBtn = (By.ID, 'com.palm.test:id/iv_palmscan_back')
     closeBtn = (By.ID, 'com.palm.test:id/iv_payment_close')
+
+    et_name = (By.ID, 'com.palm.test:id/me_et_name')
+    et_birthday = (By.ID, 'com.palm.test:id/me_et_birthday')
+    et_male = (By.ID, 'com.palm.test:id/me_tv_male')
+    et_female = (By.ID, 'com.palm.test:id/me_tv_female')
+
+    years = (By.ID, 'android:id/date_picker_header_year')
+    next_month = (By.ID, 'android:id/next')
+    prev_month = (By.ID, 'android:id/prev')
+    sure = (By.ID, 'android:id/button1')
+    cancel = (By.ID, 'android:id/button2')
+    year2018 = (By.XPATH, '//*[@text="2018"]')
+    day22 = (By.XPATH, '//*[@text="22"]')
+
+    def username_edit(self,username):
+        '''编辑用户名'''
+        logging.info('=========username eidt========')
+        try:
+            name = self.driver.find_element(*self.et_name)
+        except NoSuchElementException:
+            print('can not find et_name')
+            return False
+        else:
+            name.clear()
+            name.send_keys(username)
+            return True
+
+    def birthday_select(self):
+        '''选择生日，星座'''
+        logging.info('========select birthday=======')
+        #点击输入生日
+        try:
+            birthday_select = self.driver.find_element(*self.et_birthday)
+        except NoSuchElementException:
+            print('can not find birthday_select input')
+            return False
+        else:
+            birthday_select.click()
+
+
+        logging.info('========click years to choose=======')
+        #点击选择年份
+        try:
+            years = self.driver.find_element(*self.years)
+        except NoSuchElementException:
+            print('can not find the years choose')
+            return False
+        else:
+            years.click()
+
+        logging.info('========choose years========')
+        #选择年份
+        try:
+            yearchoose = self.driver.find_element(*self.year2018)
+        except NoSuchElementException:
+            print('can not find the year2018')
+            return False
+        else:
+            yearchoose.click()
+
+        logging.info('========select month========')
+        #选择上一个月
+        try:
+            prev_month = self.driver.find_element(*self.prev_month)
+        except NoSuchElementException:
+            print('can not find the prev_month')
+            return False
+        else:
+            prev_month.click()
+
+        logging.info('========select day========')
+        #选这日期
+        try:
+            day = self.driver.find_element(*self.day22)
+        except NoSuchElementException:
+            print('can not find the day22')
+            return False
+        else:
+            day.click()
+
+        logging.info('=======sure click=========')
+        #确认点击
+        try:
+            sureBtn = self.driver.find_element(*self.sure)
+        except NoSuchElementException:
+            print('can not find the sureBtn')
+            return False
+        else:
+            sureBtn.click()
+            logging.info('========auto select Constellation======')
+            return True
+
+    def male_select(self):
+        '''男性选择'''
+        logging.info('========sexual set male===========')
+        try:
+            maleBtn = self.driver.find_element(*self.et_male)
+        except NoSuchElementException:
+            print('no maleBtn to choose')
+            return False
+        else:
+            maleBtn.click()
+            return True
+
+    def female_select(self):
+        '''女性选择'''
+        logging.info('========sexual set female==========')
+        try:
+            femaleBtn = self.driver.find_element(*self.et_female)
+        except NoSuchElementException:
+            print('no femaleBtn to choose')
+            return False
+        else:
+            femaleBtn.click()
+            return True
 
 
 
@@ -59,15 +176,17 @@ class Commom(BaseView):
     def back_event(self):
         '''返回事件'''
         logging.info('========back event============')
-        time.sleep(2)
-        try:
-            backBtn = self.driver.find_element(*self.backBtn)
-        except NoSuchElementException:
-            print('can not find the back button')
-            return False
-        else:
-            backBtn.click()
-            return True
+        # time.sleep(2)
+        # try:
+        #     backBtn = self.driver.find_element(*self.backBtn)
+        # except NoSuchElementException:
+        #     print('can not find the back button')
+        #     return False
+        # else:
+        #     backBtn.click()
+        #     return True
+        WebDriverWait(self.driver, 10, 1).until(
+            EC.visibility_of_element_located((By.ID, 'com.palm.test:id/iv_palmscan_back'))).click()
 
     def close_event(self):
         '''关闭订阅页'''
@@ -81,6 +200,8 @@ class Commom(BaseView):
         else:
             closeBtn.click()
             return True
+        # WebDriverWait(self.driver, 10, 1).until(
+        #     EC.visibility_of_element_located((By.ID, 'com.palm.test:id/iv_payment_close'))).click()
 
     def get_page_title(self):
         '''获取页面事件'''

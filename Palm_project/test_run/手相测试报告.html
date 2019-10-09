@@ -7159,31 +7159,407 @@ body.skin-3 {
 
 
     var resultData = {
-    "testPass": 6,
+    "testPass": 30,
     "testResult": [
+        {
+            "className": "Home_enter",
+            "methodName": "test_home_enter",
+            "description": null,
+            "spendTime": "2.41e-05 s",
+            "status": "跳过",
+            "log": [
+                "test_home_enter"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_birthday_select",
+            "description": null,
+            "spendTime": "1.6e-05 s",
+            "status": "跳过",
+            "log": [
+                "test_information_birthday_select"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_chinese",
+            "description": null,
+            "spendTime": "1e-05 s",
+            "status": "跳过",
+            "log": [
+                "test_information_chinese"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_english",
+            "description": null,
+            "spendTime": "8.82e-06 s",
+            "status": "跳过",
+            "log": [
+                "test_information_english"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_french",
+            "description": null,
+            "spendTime": "9.06e-06 s",
+            "status": "跳过",
+            "log": [
+                "test_information_french"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_japanese",
+            "description": null,
+            "spendTime": "1.31e-05 s",
+            "status": "跳过",
+            "log": [
+                "test_information_japanese"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_korean",
+            "description": null,
+            "spendTime": "9.06e-06 s",
+            "status": "跳过",
+            "log": [
+                "test_information_korean"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_sex_select",
+            "description": null,
+            "spendTime": "7.87e-06 s",
+            "status": "跳过",
+            "log": [
+                "test_information_sex_select"
+            ]
+        },
+        {
+            "className": "Information_Input",
+            "methodName": "test_information_spain",
+            "description": null,
+            "spendTime": "8.11e-06 s",
+            "status": "跳过",
+            "log": [
+                "test_information_spain"
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_businessline",
+            "description": null,
+            "spendTime": "84.9 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_destinyline",
+            "description": null,
+            "spendTime": "1.19e+02 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_enter",
+            "description": null,
+            "spendTime": "65.7 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_headline",
+            "description": null,
+            "spendTime": "1.16e+02 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_heartline",
+            "description": null,
+            "spendTime": "75.5 s",
+            "status": "错误",
+            "log": [
+                "",
+                "Traceback (most recent call last):\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 615, in run\n    testMethod()\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test003_palm_judge.py\", line 24, in test_palm_judge_heartline\n    self.assertTrue(l.palm_judge_heartline())\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/businessView/palm_function.py\", line 138, in palm_judge_heartline\n    heartline = self.driver.find_elements(*self.palmline_question)[1]\n",
+                "IndexError: list index out of range\n"
+            ]
+        },
+        {
+            "className": "Palm_judge",
+            "methodName": "test_palm_judge_lifeline",
+            "description": null,
+            "spendTime": "1.15e+02 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_constellation_Match_enter",
+            "description": null,
+            "spendTime": "66.9 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Aquarius_match",
+            "description": null,
+            "spendTime": "1.48e+02 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Aries_match",
+            "description": null,
+            "spendTime": "1.48e+02 s",
+            "status": "成功",
+            "log": [
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Cancer_match",
+            "description": null,
+            "spendTime": "1.15e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Capricornus_match",
+            "description": null,
+            "spendTime": "1.37e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Gemini_match",
+            "description": null,
+            "spendTime": "1.37e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Leo_match",
+            "description": null,
+            "spendTime": "1.39e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Libra_match",
+            "description": null,
+            "spendTime": "1.39e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Pisces_match",
+            "description": null,
+            "spendTime": "1.37e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Sagittarius_match",
+            "description": null,
+            "spendTime": "1.53e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Scorpio_match",
+            "description": null,
+            "spendTime": "1.4e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Taurus_match",
+            "description": null,
+            "spendTime": "1.53e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "Constellation_match",
+            "methodName": "test_same_Virgo_match",
+            "description": null,
+            "spendTime": "1.38e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "ConstellationPage_enter",
+            "methodName": "test_constellationPage_enter",
+            "description": null,
+            "spendTime": "65.8 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "ConstellationEveryday",
+            "methodName": "test_constellation_everyday_enter",
+            "description": null,
+            "spendTime": "80.8 s",
+            "status": "失败",
+            "log": [
+                "can not find the close button\ncan not get the result page\n",
+                "Traceback (most recent call last):\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 615, in run\n    testMethod()\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test006_constellation_everyday.py\", line 11, in test_constellation_everyday_enter\n    self.assertTrue(l.everyday_costellation_enter())\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 692, in assertTrue\n    raise self.failureException(msg)\n",
+                "AssertionError: False is not true\n"
+            ]
+        },
+        {
+            "className": "ConstellationEveryday",
+            "methodName": "test_constellation_everyday_future",
+            "description": null,
+            "spendTime": "91.2 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                "can not get the result page",
+                ""
+            ]
+        },
+        {
+            "className": "ConstellationEveryday",
+            "methodName": "test_constellation_everyday_more",
+            "description": null,
+            "spendTime": "91.3 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                "can not get the result page",
+                ""
+            ]
+        },
+        {
+            "className": "ConstellationEveryday",
+            "methodName": "test_constellation_everyday_today",
+            "description": null,
+            "spendTime": "92.4 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                "can not get the result page",
+                ""
+            ]
+        },
+        {
+            "className": "ConstellationEveryday",
+            "methodName": "test_constellation_everyday_tomorrow",
+            "description": null,
+            "spendTime": "92.2 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                "can not get the result page",
+                ""
+            ]
+        },
         {
             "className": "TarotEveryday",
             "methodName": "test_get_three_tarot",
             "description": null,
-            "spendTime": "1.22e+02 s",
-            "status": "成功",
+            "spendTime": "49.5 s",
+            "status": "错误",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                ""
+                "can not find the close button\ncan not get the result page\ncan not find the close button\n",
+                "Traceback (most recent call last):\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 59, in testPartExecutor\n    yield\n",
+                "  File \"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py\", line 615, in run\n    testMethod()\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_case/test007_tarot_everyday.py\", line 17, in test_get_three_tarot\n    self.assertTrue(l.get_three_tarot())\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/businessView/tarot_function.py\", line 36, in get_three_tarot\n    self.everyday_tarot_enter()\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/businessView/tarot_function.py\", line 22, in everyday_tarot_enter\n    self.switch_tarot()\n",
+                "  File \"/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/businessView/homeview.py\", line 70, in switch_tarot\n    self.driver.find_elements(*self.item_image)[2].click()\n",
+                "IndexError: list index out of range\n"
             ]
         },
         {
             "className": "TarotEveryday",
             "methodName": "test_no_tarot_share",
             "description": null,
-            "spendTime": "97.2 s",
+            "spendTime": "70.7 s",
             "status": "成功",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
                 ""
             ]
         },
@@ -7191,15 +7567,12 @@ body.skin-3 {
             "className": "TarotEveryday",
             "methodName": "test_one_tarot_share",
             "description": null,
-            "spendTime": "1.03e+02 s",
+            "spendTime": "75.2 s",
             "status": "成功",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
                 ""
             ]
         },
@@ -7207,17 +7580,12 @@ body.skin-3 {
             "className": "TarotEveryday",
             "methodName": "test_tarot_everyday_enter",
             "description": null,
-            "spendTime": "96.9 s",
+            "spendTime": "68.3 s",
             "status": "成功",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
                 ""
             ]
         },
@@ -7225,19 +7593,12 @@ body.skin-3 {
             "className": "TarotEveryday",
             "methodName": "test_three_tarot_share",
             "description": null,
-            "spendTime": "1.15e+02 s",
+            "spendTime": "85.2 s",
             "status": "成功",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
                 ""
             ]
         },
@@ -7245,31 +7606,48 @@ body.skin-3 {
             "className": "TarotEveryday",
             "methodName": "test_two_tarot_share",
             "description": null,
-            "spendTime": "1.09e+02 s",
+            "spendTime": "80.2 s",
             "status": "成功",
             "log": [
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
-                "can not find the button",
-                "can not find the allow toast",
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "OldFace",
+            "methodName": "test_old_face_enter",
+            "description": null,
+            "spendTime": "36.6 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
+                ""
+            ]
+        },
+        {
+            "className": "OldFaceGet",
+            "methodName": "test_get_old_face_by_photo",
+            "description": null,
+            "spendTime": "1.14e+02 s",
+            "status": "成功",
+            "log": [
+                "can not find the close button",
+                "can not get the result page",
+                "can not find the close button",
                 ""
             ]
         }
     ],
     "testName": "手相测试",
-    "testAll": 6,
-    "testFail": 0,
-    "beginTime": "2019-10-08 16:03:25",
-    "totalTime": "644s",
-    "testSkip": 0,
+    "testAll": 42,
+    "testFail": 3,
+    "beginTime": "2019-10-09 19:08:17",
+    "totalTime": "3420s",
+    "testSkip": 9,
     "testError": 0
 };
     function details(obj) {

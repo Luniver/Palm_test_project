@@ -8,22 +8,29 @@ import logging,time,os
 
 class Face(HomeView):
 
-    old_face = (By.XPATH,'//*[@resource-id="com.palm.test:id/rcv_face"]/android.widget.FrameLayout[1]')
+    old_face = (By.CLASS_NAME,'android.widget.FrameLayout')
     face_takephoto =(By.ID,'com.palm.test:id/face_picture')
     face_picture = (By.ID,'com.palm.test:id/face_picture_choose')
     picture = (By.CLASS_NAME,'android.widget.FrameLayout')
     face_ok = (By.ID,'com.palm.test:id/face_ok')
+
+    PermissionYes = (By.ID,'com.palm.test:id/tv_positive')
+    PermissionNo = (By.ID,'com.palm.test:id/tv_negative')
+    PrivacyPolicy = (By.ID,'com.palm.test:id/tv_policy')
 
     def old_face_enter(self):
         '''变老功能的进入'''
         self.switch_face()
         logging.info('========select and enter old face========')
         try:
-            old_face = self.driver.find_element(*self.old_face)
+            face = self.driver.find_elements(*self.old_face)[1]
         except NoSuchElementException:
             print('can not find the old face button')
+            return False
         else:
-            old_face.click()
+            face.click()
+            self.getScreenShot('Face_homepage')
+            return True
 
     def get_old_face(self):
         '''变老拍照'''
@@ -33,9 +40,11 @@ class Face(HomeView):
             picture = self.driver.find_element(*self.face_picture)
         except NoSuchElementException:
             print('can not find the face picture')
+            return False
         else:
             picture.click()
 
+        time.sleep(2)
         logging.info('=======choose a picture=======')
         os.system('adb shell input tap 395 357')
         time.sleep(2)
@@ -45,8 +54,18 @@ class Face(HomeView):
             picture_ok = self.driver.find_element(*self.face_ok)
         except NoSuchElementException:
             print('can not find the ok button')
+            return False
         else:
             picture_ok.click()
+
+        logging.info('=======Permission Need=========')
+        try:
+            Yes = self.driver.find_element(*self.PermissionYes)
+        except NoSuchElementException:
+            print('can not find the PermissionYes')
+            return False
+        else:
+            Yes.click()
 
         time.sleep(2)
 
@@ -56,10 +75,12 @@ class Face(HomeView):
         self.close_event()
         time.sleep(2)
         self.getScreenShot('old face result')
+        return True
 
 if __name__ == '__main__':
     driver = appium_desired()
     l = Face(driver)
+    # l.old_face_enter()
     l.get_old_face()
 
 
