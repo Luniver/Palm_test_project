@@ -195,8 +195,8 @@ class Commom(BaseView):
         try:
             closeBtn = self.driver.find_element(*self.closeBtn)
         except NoSuchElementException:
-            print('can not find the close button')
-            return False
+            print('can not find the subscribe page or you are subscribed user')
+            pass
         else:
             closeBtn.click()
             return True
@@ -209,3 +209,17 @@ class Commom(BaseView):
         self.titles = re.findall(r'target="_blank">(.*?)</a></h2>', self.page)
         for title in self.titles:
             print(title)
+
+    def get_size(self):
+        x = self.driver.get_window_size()['width']
+        y = self.driver.get_window_size()['height']
+        return x, y
+
+    def swipeDown(self):
+        logging.info('swipe Down')
+        l = self.get_size()
+        x1 = int(l[1] * 0.5)
+        y1 = int(l[0] * 0.9)
+        y2 = int(l[0] * 0.1)
+        self.swipe(x1,y1,x1,y2,1000)
+
