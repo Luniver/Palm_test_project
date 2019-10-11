@@ -115,8 +115,8 @@
       <file leaf-file-name="test011_today_page.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="342">
+              <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -515,9 +515,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_palm_judge_py - 2019.09.19 at 11h 34m 05s.xml">
-      <configuration name="Unittests in test_palm_judge.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_palm_judge_py - 2019.09.19 at 11h 52m 29s.xml">
       <configuration name="Unittests in test_palm_judge.py" configurationId="tests" />
     </history-entry>
@@ -545,6 +542,9 @@
     <history-entry file="Unittests_in_test011_today_page_py - 2019.10.11 at 16h 08m 33s.xml">
       <configuration name="Unittests in test011_today_page.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_test011_today_page_Todat_test - 2019.10.11 at 16h 16m 57s.xml">
+      <configuration name="Unittests for test011_today_page.Todat_test" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -564,7 +564,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3647059" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.3647059" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26655897" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -990,8 +990,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="342">
+          <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
