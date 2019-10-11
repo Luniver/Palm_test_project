@@ -35,6 +35,7 @@ class Face(HomeView):
     def get_old_face(self):
         '''变老拍照'''
         self.old_face_enter()
+        self.allow_event()
         logging.info('========into picture======')
         try:
             picture = self.driver.find_element(*self.face_picture)

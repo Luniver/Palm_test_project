@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed5fb99b-9e7c-4917-ae2a-9a74c02477d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Palm_project/businessView/todayview.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Palm_project/test_case/test003_palm_judge.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Palm_project/test_case/test004_constellation_match.py" afterDir="false" />
@@ -14,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Palm_project/test_run/run_test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Palm_project/test_run/sendmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/app/PalmSecret-release-vn1.0.0-vc1_200_svn28927_logtrue_abuserfalse.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/app/PalmSecret-release-vn1.0.0-vc1_200_svn28927_logtrue_abuserfalse.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/businessView/face_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/businessView/face_function.py" afterDir="false" />
@@ -26,8 +28,728 @@
       <change beforePath="$PROJECT_DIR$/Palm_project/common/desired_caps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/common/desired_caps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/common/myunit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/common/myunit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/logs/runlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological home_2019-10-10 15_55_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological home_2019-10-11 11_12_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological home_2019-10-11 11_47_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological home_2019-10-11 11_55_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological question page_2019-10-10 16_09_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological question page_2019-10-11 11_15_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological question page_2019-10-11 11_45_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Back to psychological question page_2019-10-11 11_53_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-19 19_03_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_41_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_44_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_45_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_47_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_48_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_50_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_51_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_52_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_54_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_55_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_57_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_58_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 10_59_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 11_01_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_31_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_33_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_34_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_35_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_37_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_38_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_40_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_41_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_42_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_44_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_45_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_47_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_48_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-20 14_49_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-24 20_31_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_05_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_07_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_09_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_11_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_14_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_16_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_18_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_20_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_22_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_24_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_26_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_28_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_57_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 15_59_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_01_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_03_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_05_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_07_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_09_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_12_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_15_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_17_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_19_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_21_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_23_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-09-26 16_25_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 10_55_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 10_56_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 10_58_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_00_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_02_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_04_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_06_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_08_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_10_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_14_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_16_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_38_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_51_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_53_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_55_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_57_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 11_59_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_01_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_03_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_05_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_07_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_09_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_11_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_13_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 12_15_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_21_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_22_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_24_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_26_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_28_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_32_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_33_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_35_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_37_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 14_39_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Constellation_home_2019-10-08 18_22_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-08 17_45_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-08 18_30_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-08 18_31_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-08 19_34_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-08 19_35_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 11_08_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 11_09_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_27_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_30_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_37_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_47_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_49_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_53_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 15_55_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 16_30_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 16_32_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 16_35_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 16_38_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 16_56_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 17_13_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 18_58_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 19_06_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 20_03_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-09 20_04_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-10 12_53_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/Face_homepage_2019-10-10 12_54_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 15_28_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 15_30_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 15_33_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 15_35_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 15_37_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 15_41_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 16_04_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 16_06_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 16_08_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 16_10_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 16_11_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 16_13_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 18_24_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 18_25_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 18_25_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 18_27_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 18_29_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 18_29_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 19_29_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 19_30_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 19_31_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 19_32_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 19_32_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-08 19_33_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 11_03_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 11_04_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 11_05_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 11_06_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 11_06_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 11_07_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 18_56_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 19_57_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 19_58_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 19_59_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 20_01_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-09 20_02_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-10 12_48_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-10 12_49_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-10 12_50_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-10 12_50_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-10 12_51_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotEveryday enterPage_2019-10-10 12_52_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotRveryday enterPage_2019-10-08 14_51_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotRveryday enterPage_2019-10-08 14_58_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/TarotRveryday enterPage_2019-10-08 15_00_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-19 11_44_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-19 15_41_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-19 15_55_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-19 17_41_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-19 17_49_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-19 18_06_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-20 14_27_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-09-26 15_49_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-10-08 17_54_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-10-08 18_59_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-10-09 10_35_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-10-09 19_08_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-10-10 10_59_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineQuestion_2019-10-10 12_16_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-19 11_44_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-19 15_41_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-19 15_55_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-19 17_42_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-19 17_50_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-19 18_06_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-20 14_27_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-09-26 15_49_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-10-08 17_54_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-10-08 18_59_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-10-09 10_35_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-10-09 19_09_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-10-10 11_00_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/businesslineResult_2019-10-10 12_16_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation everyday page_2019-10-10 12_43_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation future page_2019-10-08 14_23_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation future page_2019-10-08 14_34_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation future page_2019-10-09 18_49_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation future page_2019-10-09 19_50_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation future page_2019-10-10 12_44_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation select page_2019-10-08 14_35_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation select page_2019-10-09 19_52_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation select page_2019-10-10 12_45_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-08 14_26_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-08 14_37_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-08 18_22_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-09 18_31_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-09 18_40_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-09 18_45_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-09 19_53_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation today page_2019-10-10 12_46_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation tomorrow page_2019-10-08 14_28_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation tomorrow page_2019-10-08 14_39_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation tomorrow page_2019-10-09 18_53_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation tomorrow page_2019-10-09 19_55_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation tomorrow page_2019-10-10 12_47_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 17_32_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 17_37_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 18_31_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_18_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_19_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_22_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_24_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_26_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_29_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_31_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_33_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_36_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_38_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_40_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_43_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_45_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_48_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-09 19_49_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 11_10_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 11_11_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 11_14_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 11_16_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 11_18_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_22_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_23_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_24_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_26_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_27_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_29_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_30_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_32_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_33_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_35_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_37_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_38_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_40_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_41_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/constellation_home_2019-10-10 12_42_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-19 11_45_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-19 15_43_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-19 15_56_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-19 17_43_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-19 17_51_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-19 18_08_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-20 14_28_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-09-26 15_51_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-10-08 17_55_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-10-08 19_01_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-10-09 10_36_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-10-09 19_10_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-10-10 11_01_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineQuestion_2019-10-10 12_17_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-19 11_46_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-19 15_43_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-19 15_56_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-19 17_43_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-19 17_51_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-19 18_08_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-20 14_28_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-09-26 15_52_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-10-08 17_56_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-10-08 19_02_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-10-09 10_37_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-10-09 19_11_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-10-10 11_02_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/destinylineResult_2019-10-10 12_17_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-09-24 20_31_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-09-26 16_25_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_21_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_22_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_24_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_26_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_28_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_32_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_34_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_35_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_37_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 14_39_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-08 18_22_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/everyday constellation page_2019-10-09 18_31_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-13 16_18_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 11_51_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 11_57_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 11_59_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 12_02_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 12_07_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 14_10_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 14_18_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 14_24_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 14_34_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 15_06_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 15_26_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-09-16 15_31_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 15_27_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 15_53_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 15_55_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_29_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_30_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_32_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_35_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_38_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_48_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 16_56_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 17_13_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 18_58_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 19_06_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 20_03_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-09 20_04_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-10 12_53_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/face_home_2019-10-10 12_54_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 15_11_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 15_47_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 15_49_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 16_02_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 16_03_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 16_05_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 16_11_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 16_12_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 16_13_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aquarius constellation match result_2019-10-08 11_53_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aquarius constellation match result_2019-10-09 19_21_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aquarius constellation match result_2019-10-10 11_13_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aquarius constellation match result_2019-10-10 12_23_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aries constellation match result_2019-10-08 11_56_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aries constellation match result_2019-10-08 18_04_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aries constellation match result_2019-10-09 17_20_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aries constellation match result_2019-10-09 19_23_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aries constellation match result_2019-10-10 11_15_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Aries constellation match result_2019-10-10 12_25_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Cancer constellation match result_2019-10-08 11_58_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Cancer constellation match result_2019-10-08 18_06_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Cancer constellation match result_2019-10-09 19_25_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Cancer constellation match result_2019-10-10 11_17_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Cancer constellation match result_2019-10-10 12_26_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Capricornus constellation match result_2019-10-08 12_00_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Capricornus constellation match result_2019-10-09 10_46_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Capricornus constellation match result_2019-10-09 19_28_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Capricornus constellation match result_2019-10-10 12_28_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Gemini constallation match result_2019-10-08 12_02_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Gemini constallation match result_2019-10-08 18_08_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Gemini constallation match result_2019-10-09 19_30_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Gemini constallation match result_2019-10-10 12_30_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Leo constellation match result_2019-10-08 12_04_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Leo constellation match result_2019-10-08 18_09_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Leo constellation match result_2019-10-09 19_32_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Leo constellation match result_2019-10-10 12_31_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Libra constellation match result_2019-10-08 12_06_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Libra constellation match result_2019-10-09 19_34_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Libra constellation match result_2019-10-10 12_33_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Pisces constellation match result_2019-10-08 12_08_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Pisces constellation match result_2019-10-09 10_50_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Pisces constellation match result_2019-10-09 17_33_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Pisces constellation match result_2019-10-09 19_37_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Pisces constellation match result_2019-10-10 12_34_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Sagittarius constellation match result_2019-10-08 12_10_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Sagittarius constellation match result_2019-10-08 19_16_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Sagittarius constellation match result_2019-10-09 19_39_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Sagittarius constellation match result_2019-10-10 12_36_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Scorpoio constellation match result_2019-10-08 12_12_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Scorpoio constellation match result_2019-10-09 10_52_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Scorpoio constellation match result_2019-10-09 19_42_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Scorpoio constellation match result_2019-10-10 12_38_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Taurus constellation match result_2019-10-08 12_14_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Taurus constellation match result_2019-10-09 19_44_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Taurus constellation match result_2019-10-10 12_39_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Virgo constellation match result_2019-10-08 12_16_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Virgo constellation match result_2019-10-09 19_46_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get Virgo constellation match result_2019-10-10 12_41_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get all tarot page_2019-10-08 14_58_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get all tarot page_2019-10-08 16_05_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get all tarot page_2019-10-08 18_24_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get all tarot page_2019-10-10 12_48_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get constellation select page_2019-10-08 14_24_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot page_2019-10-08 14_58_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot page_2019-10-08 16_05_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot page_2019-10-08 18_24_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot page_2019-10-10 12_48_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 15_11_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 15_47_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 15_49_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 16_02_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 16_03_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 16_05_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 16_11_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 16_12_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 16_13_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot page_2019-10-08 14_58_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot page_2019-10-08 16_05_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot page_2019-10-08 18_24_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot page_2019-10-10 12_48_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot_2019-10-11 15_47_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot_2019-10-11 15_49_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot_2019-10-11 16_03_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot_2019-10-11 16_05_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot_2019-10-11 16_12_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get second tarot_2019-10-11 16_14_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get third tarot_2019-10-11 15_49_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get third tarot_2019-10-11 16_04_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/get third tarot_2019-10-11 16_12_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-09-19 11_48_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-09-19 15_45_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-09-19 15_59_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-09-19 17_54_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-10-08 17_58_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-10-08 19_04_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-10-09 10_38_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-10-09 19_13_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-10-10 11_04_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineQuestion_2019-10-10 12_19_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-09-19 11_48_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-09-19 15_46_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-09-19 15_59_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-09-19 17_54_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-10-08 17_58_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-10-08 19_04_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-10-09 10_39_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-10-09 19_14_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-10-10 11_05_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/headlineResult_2019-10-10 12_19_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-09-19 11_50_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-09-19 15_47_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-09-19 16_01_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-09-19 17_56_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-10-08 17_59_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-10-08 19_05_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-10-09 10_40_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-10-10 11_06_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlineQuestion_2019-10-10 12_20_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-09-19 11_50_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-09-19 15_47_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-09-19 16_01_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-09-19 17_56_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-10-08 18_00_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-10-08 19_06_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-10-09 10_40_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-10-10 11_07_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/heartlinelineResult_2019-10-10 12_20_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/home_page_2019-10-09 17_11_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-19 11_33_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-19 11_52_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-19 15_49_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-19 16_02_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-19 17_57_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-19 18_09_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-20 14_30_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-09-26 15_55_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-10-08 18_01_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-10-08 19_07_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-10-09 10_41_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-10-09 19_17_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-10-10 11_08_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineQuestion_2019-10-10 12_21_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-19 11_33_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-19 11_52_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-19 15_49_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-19 16_03_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-19 17_58_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-19 18_10_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-20 14_30_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-09-26 15_55_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-10-08 18_01_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-10-08 19_07_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-10-09 10_42_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-10-09 19_17_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-10-10 11_09_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/lifelineResult_2019-10-10 12_21_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_19_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_22_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_26_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_29_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_30_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_34_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_39_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_45_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_49_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 18_53_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 19_50_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 19_52_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 19_53_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-09 19_55_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-10 12_42_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-10 12_43_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-10 12_44_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-10 12_46_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/me_page_2019-10-10 12_47_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-09-16 15_31_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 16_44_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 17_23_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 17_26_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 17_38_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 17_46_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 18_31_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-08 19_35_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-09 11_09_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-09 19_07_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/old face result_2019-10-09 20_05_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_27_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_32_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_33_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_44_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_45_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_47_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_48_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_50_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 11_51_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_41_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_42_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_44_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_45_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_47_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_49_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_54_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_56_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_58_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 15_59_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 16_01_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 16_02_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_41_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_43_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_49_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_51_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_53_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_54_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_55_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 17_57_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 18_06_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 18_07_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-19 18_09_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-20 14_26_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-20 14_28_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-20 14_30_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-26 15_48_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-26 15_51_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-26 15_53_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-09-26 15_55_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-09 19_08_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-09 19_10_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-09 19_12_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-09 19_13_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-09 19_15_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-09 19_16_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 10_59_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 11_01_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 11_03_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 11_04_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 11_06_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 11_08_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 12_15_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 12_17_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 12_18_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 12_19_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 12_20_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/palm_home_2019-10-10 12_21_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_26_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_29_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_31_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_35_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_40_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_45_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_49_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 18_53_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 19_50_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 19_52_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 19_53_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-09 19_55_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-10 12_43_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-10 12_44_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-10 12_45_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-10 12_46_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/personal information_2019-10-10 12_47_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 14_27_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 14_41_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 14_44_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_05_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_08_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_10_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_13_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_15_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_19_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_42_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 15_55_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_03_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_09_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_11_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_23_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_27_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_37_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_39_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_40_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_44_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_49_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_51_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_53_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_55_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 16_58_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 17_06_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 17_08_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 17_10_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 17_12_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 17_24_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-10 17_27_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_12_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_14_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_40_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_42_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_43_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_45_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_46_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_48_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_50_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_52_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_53_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test page_2019-10-11 11_54_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/psychological_test_home_2019-09-16 15_59_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all no_2019-10-10 15_06_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all no_2019-10-10 15_08_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all no_2019-10-10 15_16_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all no_2019-10-10 15_43_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all no_2019-10-11 11_41_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all yes_2019-10-10 15_11_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 1 all yes_2019-10-11 11_42_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 2 all no_2019-10-10 17_27_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 2 all no_2019-10-11 11_48_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 2 all yes_2019-10-10 17_25_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/question 2 all yes_2019-10-11 11_50_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-10 15_55_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-10 16_03_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-10 16_09_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-11 11_12_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-11 11_14_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-11 11_45_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-11 11_47_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-11 11_53_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/quit toast_2019-10-11 11_55_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/second tarot information_2019-10-11 15_47_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/second tarot information_2019-10-11 15_49_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/second tarot information_2019-10-11 16_03_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/second tarot information_2019-10-11 16_05_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/second tarot information_2019-10-11 16_12_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/second tarot information_2019-10-11 16_14_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/share page_2019-10-11 14_33_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/share page_2019-10-11 16_08_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/share page_2019-10-11 16_16_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-09-13 15_44_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-09-13 15_45_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 14_51_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 14_58_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_00_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_28_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_30_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_33_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_35_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_37_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 15_41_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 16_04_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 16_06_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 16_08_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 16_10_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 16_11_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 16_13_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-08 18_27_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-09 18_56_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-09 19_57_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-09 19_58_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-09 19_59_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-09 20_00_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-09 20_02_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-10 12_48_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-10 12_49_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-10 12_50_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-10 12_50_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-10 12_51_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/tarot_home_2019-10-10 12_52_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/third tarot information_2019-10-11 15_49_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/third tarot information_2019-10-11 16_04_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/third tarot information_2019-10-11 16_12_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-09 17_26_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-09 17_29_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_23_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_33_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_36_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_38_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_42_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_49_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 14_59_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 15_11_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 15_47_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 15_49_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_02_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_03_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_05_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_06_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_08_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_10_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_12_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_13_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_15_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/screenshots/today_page_2019-10-11 16_16_44.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/test_case/test_homepage_enter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/test_case/test001_homepage_enter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Palm_project/test_case/test_information_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/test_case/test002_information_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palm_project/test_run/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Palm_project/test_run/run_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,12 +772,12 @@
     <SUITE FILE_PATH="coverage/Palm_test_project$Constellation_function.coverage" NAME="Constellation_function Coverage Results" MODIFIED="1570618339331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_homepage_enter_Homepage_enter_test_homepage_enter.coverage" NAME="Unittests for test_homepage_enter.Homepage_enter.test_homepage_enter Coverage Results" MODIFIED="1568721762909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$tarot_function.coverage" NAME="tarot_function Coverage Results" MODIFIED="1570618506791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
-    <SUITE FILE_PATH="coverage/Palm_test_project$psychological_test_function.coverage" NAME="psychological_test_function Coverage Results" MODIFIED="1570763619374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
-    <SUITE FILE_PATH="coverage/Palm_test_project$face_function.coverage" NAME="face_function Coverage Results" MODIFIED="1570674842199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$psychological_test_function.coverage" NAME="psychological_test_function Coverage Results" MODIFIED="1570787307475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$face_function.coverage" NAME="face_function Coverage Results" MODIFIED="1570787672443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_information_write_Information_Input_test_information_username.coverage" NAME="Unittests for test_information_write.Information_Input.test_information_username Coverage Results" MODIFIED="1568628076027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$todayview.coverage" NAME="todayview Coverage Results" MODIFIED="1570780102148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
-    <SUITE FILE_PATH="coverage/Palm_test_project$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1570680923699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_run" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test011_today_page_py.coverage" NAME="Unittests in test011_today_page.py Coverage Results" MODIFIED="1570780876954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1570782515672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_run" />
     <SUITE FILE_PATH="coverage/Palm_test_project$desired_caps.coverage" NAME="desired_caps Coverage Results" MODIFIED="1568087655826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/common" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test006_constellation_everyday_py.coverage" NAME="Unittests in test006_constellation_everyday.py Coverage Results" MODIFIED="1570515579341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_information_write_Information_Input_test_information_finish.coverage" NAME="Unittests for test_information_write.Information_Input.test_information_finish Coverage Results" MODIFIED="1568627204847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
@@ -70,10 +792,45 @@
       <file leaf-file-name="run_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="378">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test011_today_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="face_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/face_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todayview.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1723">
+              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,7 +839,7 @@
       <file leaf-file-name="tarot_function.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/businessView/tarot_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-372">
+            <state relative-caret-position="18">
               <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
             </state>
           </provider>
@@ -91,7 +848,7 @@
       <file leaf-file-name="homeview.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/businessView/homeview.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1429">
+            <state relative-caret-position="1602">
               <caret line="89" column="62" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
@@ -100,11 +857,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todayview.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
+      <file leaf-file-name="psychological_test_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1832">
-              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+            <state relative-caret-position="1595">
+              <caret line="386" column="40" selection-start-line="386" selection-start-column="40" selection-end-line="386" selection-end-column="40" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -112,11 +869,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test011_today_page.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
+      <file leaf-file-name="test009_old_face_get_by_photo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test009_old_face_get_by_photo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+            <state relative-caret-position="198">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -127,7 +884,7 @@
       <file leaf-file-name="test010_psychological.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1206">
+            <state relative-caret-position="597">
               <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
@@ -139,7 +896,7 @@
       <file leaf-file-name="common_fun.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/common/common_fun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="1272">
               <caret line="223" column="36" selection-start-line="223" selection-start-column="36" selection-end-line="223" selection-end-column="36" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
@@ -200,14 +957,14 @@
         <option value="$PROJECT_DIR$/Palm_project/config/Palm_caps.yaml" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/homeview.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/loginview.py" />
-        <option value="$PROJECT_DIR$/Palm_project/businessView/face_function.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py" />
         <option value="$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py" />
-        <option value="$PROJECT_DIR$/Palm_project/test_run/run_test.py" />
         <option value="$PROJECT_DIR$/Palm_project/common/common_fun.py" />
         <option value="$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/todayview.py" />
+        <option value="$PROJECT_DIR$/Palm_project/test_run/run_test.py" />
+        <option value="$PROJECT_DIR$/Palm_project/businessView/face_function.py" />
       </list>
     </option>
   </component>
@@ -318,7 +1075,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test011_today_page.Todat_test">
+  <component name="RunManager" selected="Python.face_function">
+    <configuration name="face_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Palm_test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palm_project/businessView" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palm_project/businessView/face_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="psychological_test_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Palm_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,7 +1114,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="todayview" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Palm_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,12 +1122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palm_project/businessView" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palm_project/test_run" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palm_project/businessView/todayview.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palm_project/test_run/run_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,20 +1147,6 @@
       <option name="_new_target" value="&quot;test011_today_page.Todat_test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in test010_psychological.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Palm_test_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palm_project/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <configuration name="Unittests in test011_today_page.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Palm_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -400,19 +1162,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.psychological_test_function" />
-      <item itemvalue="Python tests.Unittests in test010_psychological.py" />
-      <item itemvalue="Python.todayview" />
       <item itemvalue="Python tests.Unittests in test011_today_page.py" />
       <item itemvalue="Python tests.Unittests for test011_today_page.Todat_test" />
+      <item itemvalue="Python.run_test" />
+      <item itemvalue="Python.psychological_test_function" />
+      <item itemvalue="Python.face_function" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face_function" />
+        <item itemvalue="Python.psychological_test_function" />
+        <item itemvalue="Python.run_test" />
         <item itemvalue="Python tests.Unittests for test011_today_page.Todat_test" />
         <item itemvalue="Python tests.Unittests in test011_today_page.py" />
-        <item itemvalue="Python.todayview" />
-        <item itemvalue="Python tests.Unittests in test010_psychological.py" />
-        <item itemvalue="Python.psychological_test_function" />
       </list>
     </recent_temporary>
   </component>
@@ -557,22 +1319,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.3647059" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26655897" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27059773" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -583,28 +1344,28 @@
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2673667" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2673667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.3647059" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,6 +1387,36 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/homeview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="62" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/common/common_fun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4014">
+          <caret line="223" column="36" selection-start-line="223" selection-start-column="36" selection-end-line="223" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -875,12 +1666,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/face_function.py">
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="18">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/baseView/baseView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/homeview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1602">
+          <caret line="89" column="62" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/tarot_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -895,32 +1736,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py">
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+        <state relative-caret-position="1595">
+          <caret line="386" column="40" selection-start-line="386" selection-start-column="40" selection-end-line="386" selection-end-column="40" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/screenshots/share page_2019-10-11 14_33_20.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/common/common_fun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="1272">
           <caret line="223" column="36" selection-start-line="223" selection-start-column="36" selection-end-line="223" selection-end-column="36" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
@@ -928,72 +1756,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/baseView/baseView.py">
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/face_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1117">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        <state relative-caret-position="666">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/homeview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1429">
-          <caret line="89" column="62" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/screenshots/first tarot information_2019-10-11 15_11_13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/screenshots/get first tarot_2019-10-11 15_11_16.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/tarot_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372">
-          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1832">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        <state relative-caret-position="-1723">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="68" lean-forward="true" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
