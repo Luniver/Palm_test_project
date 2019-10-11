@@ -1,5 +1,6 @@
 # Palm_test_project
-#### 手相自动化python脚本:
+# UI自动化测试脚本，遍历基本功能
+### 手相自动化python脚本:
 pyhthon版本：3.7
 appium版本：1.15.0
 
