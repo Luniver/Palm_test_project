@@ -219,7 +219,7 @@ class Commom(BaseView):
         logging.info('swipe Down')
         l = self.get_size()
         x1 = int(l[1] * 0.5)
-        y1 = int(l[0] * 0.9)
-        y2 = int(l[0] * 0.1)
+        y1 = int(l[0] * 0.999)
+        y2 = int(l[0] * 0.001)
         self.swipe(x1,y1,x1,y2,1000)
 
