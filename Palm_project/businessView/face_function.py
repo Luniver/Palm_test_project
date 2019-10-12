@@ -44,7 +44,7 @@ class Face(HomeView):
             return False
         else:
             picture.click()
-
+        self.allow_event()
         time.sleep(2)
         logging.info('=======choose a picture=======')
         os.system('adb shell input tap 395 357')
@@ -81,8 +81,8 @@ class Face(HomeView):
 if __name__ == '__main__':
     driver = appium_desired()
     l = Face(driver)
-    # l.old_face_enter()
-    l.get_old_face()
+    l.old_face_enter()
+    # l.get_old_face()
 
 
 
