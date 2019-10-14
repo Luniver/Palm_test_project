@@ -81,8 +81,8 @@ class Face(HomeView):
 if __name__ == '__main__':
     driver = appium_desired()
     l = Face(driver)
-    l.old_face_enter()
-    # l.get_old_face()
+    # l.old_face_enter()
+    l.get_old_face()
 
 
 

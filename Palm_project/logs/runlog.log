@@ -10873,3 +10873,29 @@
 2019-10-12 17:57:54,220 todayview.py[line:38] INFO =======check share button======
 2019-10-12 17:57:55,366 common_fun.py[line:156] INFO get share page screenshot
 2019-10-12 17:57:58,689 myunit.py[line:12] INFO ======tearDown=======
+2019-10-14 17:44:28,229 desired_caps.py[line:32] INFO start app...
+2019-10-14 17:44:58,976 homeview.py[line:78] INFO ========APP enter=======
+2019-10-14 17:44:58,976 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-14 17:45:43,892 homeview.py[line:81] INFO ======switch face======
+2019-10-14 17:45:45,896 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-14 17:46:20,731 desired_caps.py[line:32] INFO start app...
+2019-10-14 17:46:48,184 homeview.py[line:48] INFO =======APP enter======
+2019-10-14 17:46:48,184 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-14 17:47:00,827 desired_caps.py[line:32] INFO start app...
+2019-10-14 17:47:26,129 homeview.py[line:48] INFO =======APP enter======
+2019-10-14 17:47:26,130 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-14 17:48:08,186 homeview.py[line:51] INFO =====switch_palm======
+2019-10-14 17:48:10,187 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-14 17:49:16,331 desired_caps.py[line:32] INFO start app...
+2019-10-14 17:49:42,186 homeview.py[line:58] INFO ========APP enter=======
+2019-10-14 17:49:42,186 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-14 17:50:23,592 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-14 17:50:25,597 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-14 17:50:37,898 desired_caps.py[line:32] INFO start app...
+2019-10-14 17:51:04,677 homeview.py[line:68] INFO ========APP enter=======
+2019-10-14 17:51:04,678 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-14 17:51:39,577 desired_caps.py[line:32] INFO start app...
+2019-10-14 17:52:05,266 homeview.py[line:68] INFO ========APP enter=======
+2019-10-14 17:52:05,267 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-14 17:52:46,061 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-14 17:52:48,065 common_fun.py[line:156] INFO get tarot_home screenshot

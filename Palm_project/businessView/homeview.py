@@ -47,7 +47,7 @@ class HomeView(Loginview):
         '''切换到手相功能页'''
         logging.info('=======APP enter======')
         self.close_event()
-        self.driver.find_elements(*self.item_image)[0].click()
+        self.driver.find_elements(*self.item_image)[1].click()
         logging.info('=====switch_palm======')
         time.sleep(2)
         self.getScreenShot('palm_home')
@@ -57,7 +57,7 @@ class HomeView(Loginview):
         '''切换到星座功能页'''
         logging.info('========APP enter=======')
         self.close_event()
-        self.driver.find_elements(*self.item_image)[1].click()
+        self.driver.find_elements(*self.item_image)[2].click()
         logging.info('======swicth_constellation======')
         time.sleep(2)
         self.getScreenShot('constellation_home')
@@ -67,7 +67,7 @@ class HomeView(Loginview):
         '''切换到塔罗牌功能页'''
         logging.info('========APP enter=======')
         self.close_event()
-        self.driver.find_elements(*self.item_image)[2].click()
+        self.driver.find_elements(*self.item_image)[3].click()
         logging.info('======switch tarot=====')
         time.sleep(2)
         self.getScreenShot('tarot_home')
@@ -77,7 +77,7 @@ class HomeView(Loginview):
         '''切换到变老功能页'''
         logging.info('========APP enter=======')
         self.close_event()
-        self.driver.find_elements(*self.item_image)[3].click()
+        self.driver.find_elements(*self.item_image)[0].click()
         logging.info('======switch face======')
         time.sleep(2)
         self.getScreenShot('face_home')
@@ -99,11 +99,11 @@ if __name__ == '__main__':
     driver = appium_desired()
     l = HomeView(driver)
     # l.switch_navigation_home()
-    l.switch_navigation_today()
+    # l.switch_navigation_today()
     # l.switch_navigation_me()
     # l.switch_palm()
     # l.switch_Constellation()
-    # l.switch_tarot()
+    l.switch_tarot()
     # l.switch_face()
     # l.switch_psychological_test()
 
