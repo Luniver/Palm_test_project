@@ -6,9 +6,9 @@ from selenium.webdriver.common.by import By
 class HomeView(Loginview):
 
     item_image = (By.ID,'com.palm.test:id/rl_bg')
-    navigation_home = (By.XPATH,'//*[@resource-id="com.palm.test:id/navigation_home"]/android.widget.ImageView[1]')
-    navigation_today = (By.XPATH,'//*[@resource-id="com.palm.test:id/navigation_today"]/android.widget.ImageView[1]')
-    navigation_me = (By.XPATH,'//*[@resource-id="com.palm.test:id/navigation_me"]/android.widget.ImageView[1]')
+    navigation_home = (By.ID,'com.palm.test:id/ll_tab_home')
+    navigation_today = (By.ID,'com.palm.test:id/ll_tab_today')
+    navigation_me = (By.ID,'com.palm.test:id/ll_tab_me')
     closeBtn = (By.ID, 'com.palm.test:id/iv_payment_close')
 
     def switch_navigation_home(self):
@@ -100,10 +100,10 @@ if __name__ == '__main__':
     l = HomeView(driver)
     # l.switch_navigation_home()
     # l.switch_navigation_today()
-    # l.switch_navigation_me()
+    l.switch_navigation_me()
     # l.switch_palm()
     # l.switch_Constellation()
-    l.switch_tarot()
+    # l.switch_tarot()
     # l.switch_face()
     # l.switch_psychological_test()
 

@@ -32,7 +32,6 @@ class Constellation(HomeView):
 
     def everyday_costellation_enter(self):
         '''每日星座功能进入'''
-        self.switch_Constellation()
         logging.info('============select and enter everyday constellation==========')
         self.switch_navigation_me()
         logging.info('==========edit personal information==========')
@@ -70,7 +69,7 @@ class Constellation(HomeView):
 
         logging.info('=========go to the constellation home page========')
         try:
-            constelllation = self.driver.find_elements(*self.item_image)[1]
+            constelllation = self.driver.find_elements(*self.item_image)[2]
         except NoSuchElementException:
             print('can not find the constellation page')
             return False
@@ -128,7 +127,7 @@ class Constellation(HomeView):
 
         logging.info('=========go to the constellation home page========')
         try:
-            constelllation = self.driver.find_elements(*self.item_image)[1]
+            constelllation = self.driver.find_elements(*self.item_image)[2]
         except NoSuchElementException:
             print('can not find the constellation page')
             return False
@@ -195,7 +194,7 @@ class Constellation(HomeView):
 
         logging.info('=========go to the constellation home page========')
         try:
-            constelllation = self.driver.find_elements(*self.item_image)[1]
+            constelllation = self.driver.find_elements(*self.item_image)[2]
         except NoSuchElementException:
             print('can not find the constellation page')
             return False
@@ -262,7 +261,7 @@ class Constellation(HomeView):
 
         logging.info('=========go to the constellation home page========')
         try:
-            constelllation = self.driver.find_elements(*self.item_image)[1]
+            constelllation = self.driver.find_elements(*self.item_image)[2]
         except NoSuchElementException:
             print('can not find the constellation page')
             return False
@@ -329,7 +328,7 @@ class Constellation(HomeView):
 
         logging.info('=========go to the constellation home page========')
         try:
-            constelllation = self.driver.find_elements(*self.item_image)[1]
+            constelllation = self.driver.find_elements(*self.item_image)[2]
         except NoSuchElementException:
             print('can not find the constellation page')
             return False
@@ -678,11 +677,11 @@ class Constellation(HomeView):
 if __name__ == '__main__':
     driver = appium_desired()
     l = Constellation(driver)
-    # l.everyday_costellation_enter()
+    l.everyday_costellation_enter()
     # l.same_Sagittarius_match()
     # l.same_Aquarius_match()
     # l.same_Pisces_match()
     # l.everyday_constellation_future()
     # l.everyday_constellation_today()
-    l.everyday_constellation_tomorrow()
+    # l.everyday_constellation_tomorrow()
     # l.everyday_constellation_more()
