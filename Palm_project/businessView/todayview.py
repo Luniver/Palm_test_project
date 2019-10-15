@@ -176,5 +176,5 @@ if __name__ == '__main__':
     # l.today_page_enter()
     # l.today_page_share()
     # l.today_get_one_tarot()
-    # l.today_get_two_tarot()
-    l.today_get_three_tarot()
+    l.today_get_two_tarot()
+    # l.today_get_three_tarot()
