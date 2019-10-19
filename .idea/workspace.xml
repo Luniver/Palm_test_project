@@ -133,7 +133,7 @@
       <file leaf-file-name="todayview.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
+            <state relative-caret-position="3222">
               <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
@@ -166,7 +166,7 @@
       <file leaf-file-name="Constellation_function.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="12204">
               <caret line="682" column="27" selection-start-line="682" selection-start-column="27" selection-end-line="682" selection-end-column="27" />
             </state>
           </provider>
@@ -187,7 +187,7 @@
       <file leaf-file-name="psychological_test_function.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="6894">
               <caret line="387" column="42" selection-start-line="387" selection-start-column="42" selection-end-line="387" selection-end-column="42" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
@@ -349,7 +349,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -636,7 +636,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.3647059" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27698743" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502092" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -1052,14 +1052,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
+        <state relative-caret-position="12204">
           <caret line="682" column="27" selection-start-line="682" selection-start-column="27" selection-end-line="682" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="6894">
           <caret line="387" column="42" selection-start-line="387" selection-start-column="42" selection-end-line="387" selection-end-column="42" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
@@ -1069,7 +1069,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
+        <state relative-caret-position="3222">
           <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
