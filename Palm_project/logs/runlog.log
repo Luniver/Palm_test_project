@@ -11585,3 +11585,169 @@
 2019-10-15 19:26:47,078 todayview.py[line:97] INFO =====start get second tarot======
 2019-10-15 19:26:48,749 common_fun.py[line:156] INFO get second tarot information screenshot
 2019-10-15 19:26:52,529 common_fun.py[line:156] INFO get get second tarot screenshot
+2019-10-23 17:10:43,925 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:11:11,722 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:13:21,858 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:14:08,400 homeview.py[line:26] INFO ========APP enter=======
+2019-10-23 17:14:08,400 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 17:14:49,845 homeview.py[line:29] INFO =======switch_today======
+2019-10-23 17:14:51,846 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-23 17:14:53,050 todayview.py[line:74] INFO =======get first tarot======
+2019-10-23 17:14:53,050 todayview.py[line:75] INFO =======start swipe page=======
+2019-10-23 17:14:53,050 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:14:54,437 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:14:55,806 todayview.py[line:78] INFO =====start get first tarot======
+2019-10-23 17:14:58,606 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-23 17:15:01,874 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-23 17:15:03,306 todayview.py[line:93] INFO =======get second tarot======
+2019-10-23 17:15:03,306 todayview.py[line:94] INFO =======start swipe page=======
+2019-10-23 17:15:03,306 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:15:04,651 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:15:05,961 todayview.py[line:97] INFO =====start get second tarot======
+2019-10-23 17:15:08,108 common_fun.py[line:156] INFO get second tarot information screenshot
+2019-10-23 17:15:11,404 common_fun.py[line:156] INFO get get second tarot screenshot
+2019-10-23 17:17:11,047 myunit.py[line:8] INFO ======setUp======
+2019-10-23 17:17:11,065 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:17:35,167 test011_today_page.py[line:20] INFO =======test_today_get_one_tarot start=======
+2019-10-23 17:17:35,168 homeview.py[line:26] INFO ========APP enter=======
+2019-10-23 17:17:35,168 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 17:18:14,248 homeview.py[line:29] INFO =======switch_today======
+2019-10-23 17:18:16,249 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-23 17:18:17,948 todayview.py[line:52] INFO =======get one tarot======
+2019-10-23 17:18:17,948 todayview.py[line:53] INFO =======start swipe page=======
+2019-10-23 17:18:17,949 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:18:19,388 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:18:20,741 todayview.py[line:56] INFO =====start get first tarot======
+2019-10-23 17:18:22,850 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-23 17:18:26,101 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-23 17:18:27,353 myunit.py[line:12] INFO ======tearDown=======
+2019-10-23 17:18:33,263 myunit.py[line:8] INFO ======setUp======
+2019-10-23 17:18:33,268 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:19:01,115 test011_today_page.py[line:30] INFO =======test_today_get_three_tarot start========
+2019-10-23 17:19:01,115 homeview.py[line:26] INFO ========APP enter=======
+2019-10-23 17:19:01,115 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 17:19:40,718 homeview.py[line:29] INFO =======switch_today======
+2019-10-23 17:19:42,720 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-23 17:19:44,765 todayview.py[line:115] INFO =======get first tarot======
+2019-10-23 17:19:44,766 todayview.py[line:116] INFO =======start swipe page=======
+2019-10-23 17:19:44,766 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:19:46,236 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:19:47,588 todayview.py[line:119] INFO =====start get first tarot======
+2019-10-23 17:19:50,534 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-23 17:19:53,688 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-23 17:19:54,975 todayview.py[line:134] INFO =======get second tarot======
+2019-10-23 17:19:54,976 todayview.py[line:135] INFO =======start swipe page=======
+2019-10-23 17:19:54,976 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:19:56,396 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:19:57,723 todayview.py[line:138] INFO =====start get second tarot======
+2019-10-23 17:19:59,313 common_fun.py[line:156] INFO get second tarot information screenshot
+2019-10-23 17:20:02,502 common_fun.py[line:156] INFO get get second tarot screenshot
+2019-10-23 17:20:03,752 todayview.py[line:153] INFO =======get third tarot======
+2019-10-23 17:20:03,752 todayview.py[line:154] INFO =======start swipe page=======
+2019-10-23 17:20:03,752 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:20:05,321 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:20:06,648 todayview.py[line:157] INFO =====start get third tarot======
+2019-10-23 17:20:08,242 common_fun.py[line:156] INFO get third tarot information screenshot
+2019-10-23 17:20:11,277 common_fun.py[line:156] INFO get get third tarot screenshot
+2019-10-23 17:20:12,446 myunit.py[line:12] INFO ======tearDown=======
+2019-10-23 17:20:18,436 myunit.py[line:8] INFO ======setUp======
+2019-10-23 17:20:18,441 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:20:41,010 test011_today_page.py[line:25] INFO =======test_today_get_two_tarot start=======
+2019-10-23 17:20:41,010 homeview.py[line:26] INFO ========APP enter=======
+2019-10-23 17:20:41,010 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 17:21:19,987 homeview.py[line:29] INFO =======switch_today======
+2019-10-23 17:21:21,991 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-23 17:21:23,217 todayview.py[line:74] INFO =======get first tarot======
+2019-10-23 17:21:23,217 todayview.py[line:75] INFO =======start swipe page=======
+2019-10-23 17:21:23,218 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:21:24,595 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:21:26,898 todayview.py[line:78] INFO =====start get first tarot======
+2019-10-23 17:21:28,899 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-23 17:21:32,960 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-23 17:21:34,898 todayview.py[line:93] INFO =======get second tarot======
+2019-10-23 17:21:34,898 todayview.py[line:94] INFO =======start swipe page=======
+2019-10-23 17:21:34,898 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:21:36,255 common_fun.py[line:219] INFO swipe Down
+2019-10-23 17:21:37,581 todayview.py[line:97] INFO =====start get second tarot======
+2019-10-23 17:21:39,251 common_fun.py[line:156] INFO get second tarot information screenshot
+2019-10-23 17:21:42,914 common_fun.py[line:156] INFO get get second tarot screenshot
+2019-10-23 17:21:44,849 myunit.py[line:12] INFO ======tearDown=======
+2019-10-23 17:21:50,978 myunit.py[line:8] INFO ======setUp======
+2019-10-23 17:21:50,995 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:22:31,382 test011_today_page.py[line:10] INFO =======test_today_page_enter start=======
+2019-10-23 17:22:31,383 homeview.py[line:26] INFO ========APP enter=======
+2019-10-23 17:22:31,383 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 17:23:11,652 homeview.py[line:29] INFO =======switch_today======
+2019-10-23 17:23:13,653 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-23 17:23:15,162 todayview.py[line:24] INFO =======enter today page======
+2019-10-23 17:23:16,163 todayview.py[line:26] INFO =======check today page======
+2019-10-23 17:23:16,272 myunit.py[line:12] INFO ======tearDown=======
+2019-10-23 17:23:22,617 myunit.py[line:8] INFO ======setUp======
+2019-10-23 17:23:22,632 desired_caps.py[line:32] INFO start app...
+2019-10-23 17:23:53,065 test011_today_page.py[line:15] INFO =======test_today_page_share start=======
+2019-10-23 17:23:53,065 homeview.py[line:26] INFO ========APP enter=======
+2019-10-23 17:23:53,065 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 17:24:34,755 homeview.py[line:29] INFO =======switch_today======
+2019-10-23 17:24:36,760 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-23 17:24:38,011 todayview.py[line:38] INFO =======check share button======
+2019-10-23 17:24:39,166 common_fun.py[line:156] INFO get share page screenshot
+2019-10-23 17:24:40,411 myunit.py[line:12] INFO ======tearDown=======
+2019-10-23 18:33:59,593 desired_caps.py[line:32] INFO start app...
+2019-10-23 18:34:25,014 homeview.py[line:78] INFO ========APP enter=======
+2019-10-23 18:34:25,014 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 18:35:04,497 homeview.py[line:81] INFO ======switch face======
+2019-10-23 18:35:06,497 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-23 18:35:08,566 face_function.py[line:22] INFO ========select and enter old face========
+2019-10-23 18:35:08,878 common_fun.py[line:156] INFO get Face_homepage screenshot
+2019-10-23 18:35:10,446 common_fun.py[line:161] INFO ========allow to in=============
+2019-10-23 18:35:19,560 face_function.py[line:37] INFO ========into picture======
+2019-10-23 18:35:19,670 common_fun.py[line:161] INFO ========allow to in=============
+2019-10-23 18:40:47,317 desired_caps.py[line:32] INFO start app...
+2019-10-23 18:41:08,135 homeview.py[line:78] INFO ========APP enter=======
+2019-10-23 18:41:08,135 common_fun.py[line:193] INFO ========close subscribe page======
+2019-10-23 18:41:48,714 homeview.py[line:81] INFO ======switch face======
+2019-10-23 18:41:50,719 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-23 18:41:53,529 face_function.py[line:22] INFO ========select and enter old face========
+2019-10-23 18:41:53,795 common_fun.py[line:156] INFO get Face_homepage screenshot
+2019-10-23 18:41:56,405 common_fun.py[line:161] INFO ========allow to in=============
+2019-10-23 18:42:04,678 face_function.py[line:37] INFO ========into picture======
+2019-10-23 18:42:04,798 common_fun.py[line:161] INFO ========allow to in=============
+2019-10-23 18:48:49,724 desired_caps.py[line:32] INFO start app...
+2019-10-23 18:49:16,232 homeview.py[line:78] INFO ========APP enter=======
+2019-10-23 18:49:16,233 common_fun.py[line:203] INFO ========close subscribe page======
+2019-10-23 18:50:00,822 homeview.py[line:81] INFO ======switch face======
+2019-10-23 18:50:02,827 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-23 18:50:05,465 face_function.py[line:23] INFO ========select and enter old face========
+2019-10-23 18:50:06,368 common_fun.py[line:156] INFO get Face_homepage screenshot
+2019-10-23 18:50:08,610 common_fun.py[line:177] INFO ========allow to in=======
+2019-10-23 18:50:08,791 face_function.py[line:38] INFO ========into picture======
+2019-10-23 18:50:09,469 common_fun.py[line:177] INFO ========allow to in=======
+2019-10-23 18:50:15,496 face_function.py[line:55] INFO =======choose a picture=======
+2019-10-23 18:50:18,800 face_function.py[line:59] INFO =======picture sure=========
+2019-10-23 18:50:19,221 face_function.py[line:68] INFO =======Permission Need=========
+2019-10-23 18:50:22,428 face_function.py[line:80] INFO =======wait the old face result=======
+2019-10-23 18:50:22,428 common_fun.py[line:203] INFO ========close subscribe page======
+2019-10-23 18:51:04,446 common_fun.py[line:156] INFO get old face result screenshot
+2019-10-23 18:51:43,504 myunit.py[line:8] INFO ======setUp======
+2019-10-23 18:51:43,512 desired_caps.py[line:32] INFO start app...
+2019-10-23 18:52:36,599 myunit.py[line:8] INFO ======setUp======
+2019-10-23 18:52:36,602 desired_caps.py[line:32] INFO start app...
+2019-10-23 18:52:44,801 myunit.py[line:8] INFO ======setUp======
+2019-10-23 18:52:44,820 desired_caps.py[line:32] INFO start app...
+2019-10-23 18:53:14,094 test009_old_face_get_by_photo.py[line:10] INFO ==========test_get_old_face_by_photo start============
+2019-10-23 18:53:14,095 homeview.py[line:78] INFO ========APP enter=======
+2019-10-23 18:53:14,095 common_fun.py[line:203] INFO ========close subscribe page======
+2019-10-23 18:53:54,465 homeview.py[line:81] INFO ======switch face======
+2019-10-23 18:53:56,469 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-23 18:53:59,384 face_function.py[line:23] INFO ========select and enter old face========
+2019-10-23 18:54:00,195 common_fun.py[line:156] INFO get Face_homepage screenshot
+2019-10-23 18:54:02,512 common_fun.py[line:177] INFO ========allow to in=======
+2019-10-23 18:54:02,769 face_function.py[line:38] INFO ========into picture======
+2019-10-23 18:54:03,436 common_fun.py[line:177] INFO ========allow to in=======
+2019-10-23 18:54:09,494 face_function.py[line:55] INFO =======choose a picture=======
+2019-10-23 18:54:12,863 face_function.py[line:59] INFO =======picture sure=========
+2019-10-23 18:54:13,381 face_function.py[line:68] INFO =======Permission Need=========
+2019-10-23 18:54:16,557 face_function.py[line:80] INFO =======wait the old face result=======
+2019-10-23 18:54:16,557 common_fun.py[line:203] INFO ========close subscribe page======
+2019-10-23 18:54:59,971 common_fun.py[line:156] INFO get old face result screenshot
+2019-10-23 18:55:02,737 myunit.py[line:12] INFO ======tearDown=======

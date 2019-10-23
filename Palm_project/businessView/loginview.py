@@ -21,18 +21,18 @@ class Loginview(Commom):
     # year2018 = (By.XPATH,'//*[@text="2018"]')
     # day22 = (By.XPATH,'//*[@text="22"]')
     #
-    # def username_input(self,username):
-    #     '''填写用户名'''
-    #     logging.info('========input username========')
-    #     try:
-    #         usernametext = self.driver.find_element(*self.username)
-    #     except NoSuchElementException:
-    #         print('can not find username input')
-    #         return False
-    #     else:
-    #         usernametext.clear()
-    #         usernametext.send_keys(username)
-    #         return True
+    def username_input(self,username):
+        '''填写用户名'''
+        logging.info('========input username========')
+        try:
+            usernametext = self.driver.find_element(*self.username)
+        except NoSuchElementException:
+            print('can not find username input')
+            return False
+        else:
+            usernametext.clear()
+            usernametext.send_keys(username)
+            return True
     #
     # def birthday_select(self):
     #     '''选择生日，星座'''

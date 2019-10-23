@@ -11,6 +11,7 @@ class Face(HomeView):
     face_picture = (By.ID,'com.palm.test:id/face_picture_choose')
     picture = (By.CLASS_NAME,'android.widget.FrameLayout')
     face_ok = (By.ID,'com.palm.test:id/face_ok')
+    picture_item = (By.XPATH,'/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.widget.RelativeLayout[1]')
 
     PermissionYes = (By.ID,'com.palm.test:id/tv_positive')
     PermissionNo = (By.ID,'com.palm.test:id/tv_negative')
@@ -33,7 +34,7 @@ class Face(HomeView):
     def get_old_face(self):
         '''变老拍照'''
         self.old_face_enter()
-        self.allow_event()
+        self.allow_once()
         logging.info('========into picture======')
         try:
             picture = self.driver.find_element(*self.face_picture)
@@ -42,7 +43,14 @@ class Face(HomeView):
             return False
         else:
             picture.click()
-        self.allow_event()
+        self.allow_once()
+        time.sleep(2)
+        try:
+            picture_item = self.driver.find_element(*self.picture_item)
+        except NoSuchElementException:
+            print('can not find the picture item')
+        else:
+            picture_item.click()
         time.sleep(2)
         logging.info('=======choose a picture=======')
         os.system('adb shell input tap 395 357')
