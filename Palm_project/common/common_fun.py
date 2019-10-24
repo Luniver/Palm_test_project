@@ -179,8 +179,10 @@ class Commom(BaseView):
             allowBtn = self.driver.find_element(*self.allow)
         except NoSuchElementException:
             print('can not find the button')
+            return False
         else:
             allowBtn.click()
+            return True
 
 
     def back_event(self):

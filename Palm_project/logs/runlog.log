@@ -11751,3 +11751,702 @@
 2019-10-23 18:54:16,557 common_fun.py[line:203] INFO ========close subscribe page======
 2019-10-23 18:54:59,971 common_fun.py[line:156] INFO get old face result screenshot
 2019-10-23 18:55:02,737 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:30:16,920 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:30:16,932 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:30:41,979 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-10-24 18:30:41,979 loginview.py[line:26] INFO ========input username========
+2019-10-24 18:30:59,633 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:31:06,103 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:31:06,106 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:31:31,116 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-10-24 18:31:31,117 homeview.py[line:48] INFO =======APP enter======
+2019-10-24 18:31:31,117 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:32:11,839 homeview.py[line:51] INFO =====switch_palm======
+2019-10-24 18:32:13,843 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-24 18:32:16,629 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-10-24 18:32:18,796 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-10-24 18:32:18,871 palm_function.py[line:226] INFO ========choose businessline=======
+2019-10-24 18:32:26,267 common_fun.py[line:156] INFO get businesslineQuestion screenshot
+2019-10-24 18:32:27,856 palm_function.py[line:237] INFO =======choose first option======
+2019-10-24 18:32:27,969 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:33:04,792 palm_function.py[line:254] INFO =======get result==========
+2019-10-24 18:33:08,795 common_fun.py[line:156] INFO get businesslineResult screenshot
+2019-10-24 18:33:11,158 palm_function.py[line:258] INFO =======back to home========
+2019-10-24 18:33:11,280 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:33:17,713 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:33:17,716 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:33:48,128 test003_palm_judge.py[line:40] INFO ==========test_palm_judge_destinyline start ==========
+2019-10-24 18:33:48,131 homeview.py[line:48] INFO =======APP enter======
+2019-10-24 18:33:48,131 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:34:28,928 homeview.py[line:51] INFO =====switch_palm======
+2019-10-24 18:34:30,931 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-24 18:34:33,743 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-10-24 18:34:35,947 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-10-24 18:34:36,030 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-10-24 18:34:43,276 common_fun.py[line:156] INFO get destinylineQuestion screenshot
+2019-10-24 18:34:44,924 palm_function.py[line:283] INFO =======choose first option======
+2019-10-24 18:34:45,044 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:35:22,018 palm_function.py[line:300] INFO =======get result==========
+2019-10-24 18:35:26,020 common_fun.py[line:156] INFO get destinylineResult screenshot
+2019-10-24 18:35:28,377 palm_function.py[line:304] INFO =======back to home========
+2019-10-24 18:35:28,494 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:35:34,820 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:35:34,824 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:36:02,106 test003_palm_judge.py[line:10] INFO ==========test_palm_judge_enter start ==========
+2019-10-24 18:36:02,107 homeview.py[line:48] INFO =======APP enter======
+2019-10-24 18:36:02,107 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:36:44,167 homeview.py[line:51] INFO =====switch_palm======
+2019-10-24 18:36:46,178 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-24 18:36:49,040 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-10-24 18:36:51,167 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-10-24 18:36:51,244 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:36:57,654 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:36:57,657 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:37:24,376 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_headline start ==========
+2019-10-24 18:37:24,377 homeview.py[line:48] INFO =======APP enter======
+2019-10-24 18:37:24,377 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:38:06,011 homeview.py[line:51] INFO =====switch_palm======
+2019-10-24 18:38:08,017 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-24 18:38:10,716 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-10-24 18:38:12,307 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-10-24 18:38:12,386 palm_function.py[line:181] INFO ========choose headline=======
+2019-10-24 18:38:19,502 common_fun.py[line:156] INFO get headlineQuestion screenshot
+2019-10-24 18:38:21,067 palm_function.py[line:192] INFO =======choose first option======
+2019-10-24 18:38:21,198 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:38:58,200 palm_function.py[line:209] INFO =======get result==========
+2019-10-24 18:39:02,210 common_fun.py[line:156] INFO get headlineResult screenshot
+2019-10-24 18:39:04,485 palm_function.py[line:213] INFO =======back to home========
+2019-10-24 18:39:04,613 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:39:10,756 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:39:10,760 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:39:37,922 test003_palm_judge.py[line:22] INFO ==========test_palm_judge_heartline start ==========
+2019-10-24 18:39:37,928 homeview.py[line:48] INFO =======APP enter======
+2019-10-24 18:39:37,928 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:40:19,301 homeview.py[line:51] INFO =====switch_palm======
+2019-10-24 18:40:21,305 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-24 18:40:24,176 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-10-24 18:40:26,367 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-10-24 18:40:26,440 palm_function.py[line:136] INFO ========choose heartline=======
+2019-10-24 18:40:33,978 common_fun.py[line:156] INFO get heartlineQuestion screenshot
+2019-10-24 18:40:35,581 palm_function.py[line:147] INFO =======choose first option======
+2019-10-24 18:40:35,702 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:41:12,558 palm_function.py[line:164] INFO =======get result==========
+2019-10-24 18:41:16,566 common_fun.py[line:156] INFO get heartlinelineResult screenshot
+2019-10-24 18:41:18,996 palm_function.py[line:168] INFO =======back to home========
+2019-10-24 18:41:19,147 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:41:25,494 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:41:25,497 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:41:52,681 test003_palm_judge.py[line:16] INFO ==========test_palm_judge_lifeline start ==========
+2019-10-24 18:41:52,682 homeview.py[line:48] INFO =======APP enter======
+2019-10-24 18:41:52,682 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:42:34,909 homeview.py[line:51] INFO =====switch_palm======
+2019-10-24 18:42:36,919 common_fun.py[line:156] INFO get palm_home screenshot
+2019-10-24 18:42:39,750 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-10-24 18:42:41,852 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-10-24 18:42:41,931 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-10-24 18:42:49,139 common_fun.py[line:156] INFO get lifelineQuestion screenshot
+2019-10-24 18:42:50,753 palm_function.py[line:102] INFO =======choose first option======
+2019-10-24 18:42:50,868 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:43:27,944 palm_function.py[line:119] INFO =======get result==========
+2019-10-24 18:43:31,948 common_fun.py[line:156] INFO get lifelineResult screenshot
+2019-10-24 18:43:34,219 palm_function.py[line:123] INFO =======back to home========
+2019-10-24 18:43:34,330 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:43:40,693 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:43:40,698 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:44:08,783 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-10-24 18:44:08,784 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:44:08,784 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:44:48,948 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:44:50,958 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:44:53,771 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:44:56,016 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:45:02,231 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:45:02,234 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:45:29,795 test004_constellation_match.py[line:77] INFO =========test_same_Aquarius_match start==========
+2019-10-24 18:45:29,796 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:45:29,796 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:46:09,955 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:46:11,961 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:46:14,810 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:46:17,106 Constellation_function.py[line:627] INFO =======start Aquarius match Aquarius=======
+2019-10-24 18:46:48,654 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:47:24,518 Constellation_function.py[line:637] INFO =========get constellation match result========
+2019-10-24 18:47:27,579 common_fun.py[line:156] INFO get get Aquarius constellation match result screenshot
+2019-10-24 18:47:28,942 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:47:35,406 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:47:35,410 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:48:02,465 test004_constellation_match.py[line:17] INFO =========test_same_Aries_match start==========
+2019-10-24 18:48:02,466 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:48:02,466 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:48:42,552 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:48:44,561 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:48:47,468 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:48:49,594 Constellation_function.py[line:377] INFO =======start Aries match Aries=======
+2019-10-24 18:49:21,128 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:49:57,961 Constellation_function.py[line:387] INFO =========get constellation match result========
+2019-10-24 18:50:00,054 common_fun.py[line:156] INFO get get Aries constellation match result screenshot
+2019-10-24 18:50:01,441 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:50:07,763 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:50:07,767 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:50:36,249 test004_constellation_match.py[line:35] INFO =========test_same_Cancer_match start==========
+2019-10-24 18:50:36,250 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:50:36,250 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:50:46,523 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:50:48,528 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:50:51,152 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:50:52,885 Constellation_function.py[line:452] INFO =======start Cancer match Cancer=======
+2019-10-24 18:51:24,445 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:52:00,289 Constellation_function.py[line:462] INFO =========get constellation match result========
+2019-10-24 18:52:03,235 common_fun.py[line:156] INFO get get Cancer constellation match result screenshot
+2019-10-24 18:52:04,734 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:52:11,144 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:52:11,146 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:52:40,048 test004_constellation_match.py[line:71] INFO =========test_same_Capricornus_match start==========
+2019-10-24 18:52:40,048 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:52:40,048 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:53:20,922 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:53:22,926 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:53:25,751 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:53:28,053 Constellation_function.py[line:602] INFO =======start Capricornus match Capricornus=======
+2019-10-24 18:53:59,409 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:54:36,195 Constellation_function.py[line:612] INFO =========get constellation match result========
+2019-10-24 18:54:38,251 common_fun.py[line:156] INFO get get Capricornus constellation match result screenshot
+2019-10-24 18:54:39,788 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:54:46,262 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:54:46,265 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:55:25,114 test004_constellation_match.py[line:29] INFO =========test_same_Gemini_match start==========
+2019-10-24 18:55:25,115 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:55:25,115 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:56:05,817 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:56:07,822 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:56:10,658 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:56:12,781 Constellation_function.py[line:427] INFO =======start Gemini match Gemini=======
+2019-10-24 18:56:44,349 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:57:21,049 Constellation_function.py[line:437] INFO =========get constellation match result========
+2019-10-24 18:57:23,119 common_fun.py[line:156] INFO get get Gemini constallation match result screenshot
+2019-10-24 18:57:24,501 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 18:57:30,923 myunit.py[line:8] INFO ======setUp======
+2019-10-24 18:57:30,927 desired_caps.py[line:32] INFO start app...
+2019-10-24 18:58:05,553 test004_constellation_match.py[line:41] INFO =========test_same_Leo_match start==========
+2019-10-24 18:58:05,554 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 18:58:05,554 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 18:58:47,526 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 18:58:49,531 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 18:58:52,251 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 18:58:54,637 Constellation_function.py[line:477] INFO =======start Leo match Leo=======
+2019-10-24 18:59:26,151 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:00:02,783 Constellation_function.py[line:487] INFO =========get constellation match result========
+2019-10-24 19:00:04,842 common_fun.py[line:156] INFO get get Leo constellation match result screenshot
+2019-10-24 19:00:06,212 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:00:12,474 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:00:12,477 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:00:41,538 test004_constellation_match.py[line:53] INFO =========test_same_Libra_match start==========
+2019-10-24 19:00:41,538 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:00:41,539 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:01:22,201 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:01:24,204 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:01:26,999 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 19:01:29,246 Constellation_function.py[line:527] INFO =======start Libra match Libra=======
+2019-10-24 19:02:01,426 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:02:38,149 Constellation_function.py[line:537] INFO =========get constellation match result========
+2019-10-24 19:02:40,208 common_fun.py[line:156] INFO get get Libra constellation match result screenshot
+2019-10-24 19:02:41,609 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:02:47,955 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:02:47,958 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:03:17,154 test004_constellation_match.py[line:83] INFO =========test_same_Pisces_match start==========
+2019-10-24 19:03:17,154 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:03:17,154 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:03:57,712 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:03:59,713 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:04:02,164 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 19:04:03,913 Constellation_function.py[line:652] INFO =======start Pisces match Pisces=======
+2019-10-24 19:04:34,999 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:05:11,784 Constellation_function.py[line:662] INFO =========get constellation match result========
+2019-10-24 19:05:13,844 common_fun.py[line:156] INFO get get Pisces constellation match result screenshot
+2019-10-24 19:05:15,193 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:05:21,544 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:05:21,547 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:05:51,264 test004_constellation_match.py[line:65] INFO =========test_same_Sagittarius_match start==========
+2019-10-24 19:05:51,265 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:05:51,265 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:06:31,723 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:06:33,728 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:06:36,747 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 19:06:38,722 Constellation_function.py[line:577] INFO =======start Sagittarius match Sagittarius=======
+2019-10-24 19:07:19,036 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:07:55,829 Constellation_function.py[line:587] INFO =========get constellation match result========
+2019-10-24 19:07:57,893 common_fun.py[line:156] INFO get get Sagittarius constellation match result screenshot
+2019-10-24 19:07:59,355 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:08:05,610 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:08:05,613 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:08:39,977 test004_constellation_match.py[line:59] INFO =========test_same_Scorpio_match start==========
+2019-10-24 19:08:39,977 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:08:39,977 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:09:20,519 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:09:22,522 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:09:25,116 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 19:09:26,834 Constellation_function.py[line:552] INFO =======start Scorpio match Scorpio=======
+2019-10-24 19:09:58,385 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:10:35,110 Constellation_function.py[line:562] INFO =========get constellation match result========
+2019-10-24 19:10:37,177 common_fun.py[line:156] INFO get get Scorpoio constellation match result screenshot
+2019-10-24 19:10:38,611 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:10:44,944 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:10:44,947 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:11:21,254 test004_constellation_match.py[line:23] INFO =========test_same_Taurus_match start==========
+2019-10-24 19:11:21,254 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:11:21,254 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:12:02,379 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:12:04,380 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:12:07,089 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 19:12:09,432 Constellation_function.py[line:402] INFO =======start Taurus match Taurus=======
+2019-10-24 19:12:42,225 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:13:18,933 Constellation_function.py[line:412] INFO =========get constellation match result========
+2019-10-24 19:13:20,999 common_fun.py[line:156] INFO get get Taurus constellation match result screenshot
+2019-10-24 19:13:22,380 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:13:28,569 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:13:28,573 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:14:06,284 test004_constellation_match.py[line:47] INFO =========test_same_Virgo_match start==========
+2019-10-24 19:14:06,284 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:14:06,284 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:14:46,592 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:14:48,595 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:14:51,304 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-10-24 19:14:53,686 Constellation_function.py[line:502] INFO =======start Virgo match Virgo=======
+2019-10-24 19:15:34,772 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:16:11,524 Constellation_function.py[line:512] INFO =========get constellation match result========
+2019-10-24 19:16:13,585 common_fun.py[line:156] INFO get get Virgo constellation match result screenshot
+2019-10-24 19:16:15,112 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:16:21,647 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:16:21,650 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:16:51,891 test005_constellation_enter.py[line:10] INFO =======test_constellationPage_enter start=======
+2019-10-24 19:16:51,891 homeview.py[line:58] INFO ========APP enter=======
+2019-10-24 19:16:51,892 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:17:33,481 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-24 19:17:35,486 common_fun.py[line:156] INFO get constellation_home screenshot
+2019-10-24 19:17:38,217 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:17:44,413 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:17:44,416 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:18:14,136 test006_constellation_everyday.py[line:9] INFO =========test_constellation_everyday_enter start ======
+2019-10-24 19:18:14,136 Constellation_function.py[line:35] INFO ============select and enter everyday constellation==========
+2019-10-24 19:18:14,136 homeview.py[line:36] INFO ========APP enter=======
+2019-10-24 19:18:14,136 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:18:54,474 homeview.py[line:39] INFO ======switch_me======
+2019-10-24 19:18:56,476 common_fun.py[line:156] INFO get me_page screenshot
+2019-10-24 19:18:58,358 Constellation_function.py[line:37] INFO ==========edit personal information==========
+2019-10-24 19:18:58,498 common_fun.py[line:36] INFO =========username eidt========
+2019-10-24 19:19:01,015 common_fun.py[line:49] INFO ========select birthday=======
+2019-10-24 19:19:01,620 common_fun.py[line:60] INFO ========click years to choose=======
+2019-10-24 19:19:07,392 common_fun.py[line:70] INFO ========choose years========
+2019-10-24 19:19:09,527 common_fun.py[line:80] INFO ========select month========
+2019-10-24 19:19:09,871 common_fun.py[line:90] INFO ========select day========
+2019-10-24 19:19:11,841 common_fun.py[line:100] INFO =======sure click=========
+2019-10-24 19:19:12,005 common_fun.py[line:109] INFO ========auto select Constellation======
+2019-10-24 19:19:12,005 common_fun.py[line:114] INFO ========sexual set male===========
+2019-10-24 19:19:13,120 Constellation_function.py[line:49] INFO ========personal information finished=========
+2019-10-24 19:19:15,705 common_fun.py[line:156] INFO get personal information screenshot
+2019-10-24 19:19:17,546 Constellation_function.py[line:60] INFO ==========go to the home page===========
+2019-10-24 19:19:19,672 Constellation_function.py[line:70] INFO =========go to the constellation home page========
+2019-10-24 19:19:22,590 Constellation_function.py[line:79] INFO =========go to the constellation everyday=========
+2019-10-24 19:19:25,711 common_fun.py[line:156] INFO get constellation everyday page screenshot
+2019-10-24 19:19:27,764 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:19:34,085 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:19:34,088 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:20:07,820 test006_constellation_everyday.py[line:24] INFO ========test_constellation_everyday_future start=========
+2019-10-24 19:20:07,821 homeview.py[line:36] INFO ========APP enter=======
+2019-10-24 19:20:07,821 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:20:48,486 homeview.py[line:39] INFO ======switch_me======
+2019-10-24 19:20:50,492 common_fun.py[line:156] INFO get me_page screenshot
+2019-10-24 19:20:52,323 Constellation_function.py[line:229] INFO ==========edit personal information==========
+2019-10-24 19:20:52,473 common_fun.py[line:36] INFO =========username eidt========
+2019-10-24 19:20:54,972 common_fun.py[line:49] INFO ========select birthday=======
+2019-10-24 19:20:55,567 common_fun.py[line:60] INFO ========click years to choose=======
+2019-10-24 19:20:57,730 common_fun.py[line:70] INFO ========choose years========
+2019-10-24 19:21:00,102 common_fun.py[line:80] INFO ========select month========
+2019-10-24 19:21:00,454 common_fun.py[line:90] INFO ========select day========
+2019-10-24 19:21:02,699 common_fun.py[line:100] INFO =======sure click=========
+2019-10-24 19:21:02,959 common_fun.py[line:109] INFO ========auto select Constellation======
+2019-10-24 19:21:02,959 common_fun.py[line:114] INFO ========sexual set male===========
+2019-10-24 19:21:04,092 Constellation_function.py[line:241] INFO ========personal information finished=========
+2019-10-24 19:21:06,681 common_fun.py[line:156] INFO get personal information screenshot
+2019-10-24 19:21:08,457 Constellation_function.py[line:252] INFO ==========go to the home page===========
+2019-10-24 19:21:10,581 Constellation_function.py[line:262] INFO =========go to the constellation home page========
+2019-10-24 19:21:13,555 Constellation_function.py[line:271] INFO =========go to the constellation everyday=========
+2019-10-24 19:21:16,616 Constellation_function.py[line:281] INFO ==========enter everyday constellation future page==========
+2019-10-24 19:21:19,092 common_fun.py[line:156] INFO get constellation future page screenshot
+2019-10-24 19:21:20,973 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:21:27,240 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:21:27,243 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:22:03,339 test006_constellation_everyday.py[line:29] INFO =======test_constellation_everyday_more start=======
+2019-10-24 19:22:03,339 homeview.py[line:36] INFO ========APP enter=======
+2019-10-24 19:22:03,340 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:22:45,511 homeview.py[line:39] INFO ======switch_me======
+2019-10-24 19:22:47,517 common_fun.py[line:156] INFO get me_page screenshot
+2019-10-24 19:22:49,410 Constellation_function.py[line:296] INFO ==========edit personal information==========
+2019-10-24 19:22:49,564 common_fun.py[line:36] INFO =========username eidt========
+2019-10-24 19:22:52,006 common_fun.py[line:49] INFO ========select birthday=======
+2019-10-24 19:22:52,609 common_fun.py[line:60] INFO ========click years to choose=======
+2019-10-24 19:22:59,528 common_fun.py[line:70] INFO ========choose years========
+2019-10-24 19:23:01,641 common_fun.py[line:80] INFO ========select month========
+2019-10-24 19:23:01,933 common_fun.py[line:90] INFO ========select day========
+2019-10-24 19:23:03,962 common_fun.py[line:100] INFO =======sure click=========
+2019-10-24 19:23:04,226 common_fun.py[line:109] INFO ========auto select Constellation======
+2019-10-24 19:23:04,226 common_fun.py[line:114] INFO ========sexual set male===========
+2019-10-24 19:23:05,350 Constellation_function.py[line:308] INFO ========personal information finished=========
+2019-10-24 19:23:07,933 common_fun.py[line:156] INFO get personal information screenshot
+2019-10-24 19:23:09,712 Constellation_function.py[line:319] INFO ==========go to the home page===========
+2019-10-24 19:23:11,834 Constellation_function.py[line:329] INFO =========go to the constellation home page========
+2019-10-24 19:23:14,756 Constellation_function.py[line:338] INFO =========go to the constellation everyday=========
+2019-10-24 19:23:17,863 Constellation_function.py[line:348] INFO ==========enter everyday constellation more page========
+2019-10-24 19:23:20,369 common_fun.py[line:156] INFO get constellation select page screenshot
+2019-10-24 19:23:22,193 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:23:28,622 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:23:28,624 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:24:06,985 test006_constellation_everyday.py[line:14] INFO =========test_constellation_everyday_today start=========
+2019-10-24 19:24:06,985 homeview.py[line:36] INFO ========APP enter=======
+2019-10-24 19:24:06,985 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:24:47,431 homeview.py[line:39] INFO ======switch_me======
+2019-10-24 19:24:49,435 common_fun.py[line:156] INFO get me_page screenshot
+2019-10-24 19:24:51,317 Constellation_function.py[line:95] INFO ==========edit personal information==========
+2019-10-24 19:24:51,454 common_fun.py[line:36] INFO =========username eidt========
+2019-10-24 19:24:53,890 common_fun.py[line:49] INFO ========select birthday=======
+2019-10-24 19:24:54,469 common_fun.py[line:60] INFO ========click years to choose=======
+2019-10-24 19:24:59,533 common_fun.py[line:70] INFO ========choose years========
+2019-10-24 19:25:01,654 common_fun.py[line:80] INFO ========select month========
+2019-10-24 19:25:01,933 common_fun.py[line:90] INFO ========select day========
+2019-10-24 19:25:04,203 common_fun.py[line:100] INFO =======sure click=========
+2019-10-24 19:25:04,474 common_fun.py[line:109] INFO ========auto select Constellation======
+2019-10-24 19:25:04,474 common_fun.py[line:114] INFO ========sexual set male===========
+2019-10-24 19:25:05,606 Constellation_function.py[line:107] INFO ========personal information finished=========
+2019-10-24 19:25:08,198 common_fun.py[line:156] INFO get personal information screenshot
+2019-10-24 19:25:09,983 Constellation_function.py[line:118] INFO ==========go to the home page===========
+2019-10-24 19:25:12,111 Constellation_function.py[line:128] INFO =========go to the constellation home page========
+2019-10-24 19:25:15,080 Constellation_function.py[line:137] INFO =========go to the constellation everyday=========
+2019-10-24 19:25:18,151 Constellation_function.py[line:147] INFO ===========enter everyday constellation today page===========
+2019-10-24 19:25:20,628 common_fun.py[line:156] INFO get constellation today page screenshot
+2019-10-24 19:25:22,614 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:25:28,817 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:25:28,819 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:26:04,509 test006_constellation_everyday.py[line:19] INFO ========test_constellation_everyday_tomorrow start========
+2019-10-24 19:26:04,509 homeview.py[line:36] INFO ========APP enter=======
+2019-10-24 19:26:04,509 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:26:44,903 homeview.py[line:39] INFO ======switch_me======
+2019-10-24 19:26:46,909 common_fun.py[line:156] INFO get me_page screenshot
+2019-10-24 19:26:48,752 Constellation_function.py[line:162] INFO ==========edit personal information==========
+2019-10-24 19:26:48,893 common_fun.py[line:36] INFO =========username eidt========
+2019-10-24 19:26:51,331 common_fun.py[line:49] INFO ========select birthday=======
+2019-10-24 19:26:51,922 common_fun.py[line:60] INFO ========click years to choose=======
+2019-10-24 19:26:59,542 common_fun.py[line:70] INFO ========choose years========
+2019-10-24 19:27:01,611 common_fun.py[line:80] INFO ========select month========
+2019-10-24 19:27:01,862 common_fun.py[line:90] INFO ========select day========
+2019-10-24 19:27:03,981 common_fun.py[line:100] INFO =======sure click=========
+2019-10-24 19:27:04,238 common_fun.py[line:109] INFO ========auto select Constellation======
+2019-10-24 19:27:04,238 common_fun.py[line:114] INFO ========sexual set male===========
+2019-10-24 19:27:05,368 Constellation_function.py[line:174] INFO ========personal information finished=========
+2019-10-24 19:27:07,949 common_fun.py[line:156] INFO get personal information screenshot
+2019-10-24 19:27:09,745 Constellation_function.py[line:185] INFO ==========go to the home page===========
+2019-10-24 19:27:11,865 Constellation_function.py[line:195] INFO =========go to the constellation home page========
+2019-10-24 19:27:14,839 Constellation_function.py[line:204] INFO =========go to the constellation everyday=========
+2019-10-24 19:27:17,907 Constellation_function.py[line:214] INFO =========enter everyday constellation tomorrow page=========
+2019-10-24 19:27:20,585 common_fun.py[line:156] INFO get constellation tomorrow page screenshot
+2019-10-24 19:27:22,722 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:27:28,922 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:27:28,925 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:27:55,663 test007_tarot_everyday.py[line:15] INFO ==========test_get_three_tarot start=========
+2019-10-24 19:27:55,663 homeview.py[line:68] INFO ========APP enter=======
+2019-10-24 19:27:55,663 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:28:36,125 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-24 19:28:38,128 common_fun.py[line:156] INFO get tarot_home screenshot
+2019-10-24 19:28:40,750 tarot_function.py[line:23] INFO =======select and enter everyday tarot========
+2019-10-24 19:28:42,445 common_fun.py[line:156] INFO get TarotEveryday enterPage screenshot
+2019-10-24 19:28:44,797 tarot_function.py[line:39] INFO =======start get first tarot=======
+2019-10-24 19:28:45,439 tarot_function.py[line:47] INFO ============get first tarot information==========
+2019-10-24 19:28:50,781 common_fun.py[line:156] INFO get get first tarot page screenshot
+2019-10-24 19:28:52,419 tarot_function.py[line:54] INFO =======start get second tarot=========
+2019-10-24 19:28:53,003 tarot_function.py[line:62] INFO ==========get second tarot information========
+2019-10-24 19:28:58,290 common_fun.py[line:156] INFO get get second tarot page screenshot
+2019-10-24 19:29:00,038 tarot_function.py[line:69] INFO =========start get third tarot==========
+2019-10-24 19:29:00,619 tarot_function.py[line:77] INFO ========get third tarot information=========
+2019-10-24 19:29:06,117 common_fun.py[line:156] INFO get get all tarot page screenshot
+2019-10-24 19:29:08,072 tarot_function.py[line:83] INFO =======get all tarot information
+2019-10-24 19:29:08,073 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:29:14,275 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:29:14,278 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:29:44,828 test007_tarot_everyday.py[line:20] INFO ==========test_no_tarot_share start===========
+2019-10-24 19:29:44,829 homeview.py[line:68] INFO ========APP enter=======
+2019-10-24 19:29:44,829 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:30:26,648 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-24 19:30:28,652 common_fun.py[line:156] INFO get tarot_home screenshot
+2019-10-24 19:30:31,661 tarot_function.py[line:23] INFO =======select and enter everyday tarot========
+2019-10-24 19:30:33,916 common_fun.py[line:156] INFO get TarotEveryday enterPage screenshot
+2019-10-24 19:30:36,727 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:30:43,396 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:30:43,399 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:31:20,023 test007_tarot_everyday.py[line:25] INFO ==========test_one_tarot_share start=========
+2019-10-24 19:31:20,023 homeview.py[line:68] INFO ========APP enter=======
+2019-10-24 19:31:20,024 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:32:01,419 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-24 19:32:03,420 common_fun.py[line:156] INFO get tarot_home screenshot
+2019-10-24 19:32:06,799 tarot_function.py[line:23] INFO =======select and enter everyday tarot========
+2019-10-24 19:32:08,651 common_fun.py[line:156] INFO get TarotEveryday enterPage screenshot
+2019-10-24 19:32:11,338 tarot_function.py[line:95] INFO =======start get first tarot=======
+2019-10-24 19:32:12,041 tarot_function.py[line:103] INFO ============get first tarot information==========
+2019-10-24 19:32:17,518 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:32:23,986 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:32:23,989 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:32:59,874 test007_tarot_everyday.py[line:10] INFO ===========test_tarot_everyday_enter start=========
+2019-10-24 19:32:59,875 homeview.py[line:68] INFO ========APP enter=======
+2019-10-24 19:32:59,875 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:33:40,418 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-24 19:33:42,422 common_fun.py[line:156] INFO get tarot_home screenshot
+2019-10-24 19:33:45,205 tarot_function.py[line:23] INFO =======select and enter everyday tarot========
+2019-10-24 19:33:47,486 common_fun.py[line:156] INFO get TarotEveryday enterPage screenshot
+2019-10-24 19:33:49,882 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:33:56,133 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:33:56,136 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:34:24,860 test007_tarot_everyday.py[line:35] INFO ============test_three_tarot_share start===========
+2019-10-24 19:34:24,860 homeview.py[line:68] INFO ========APP enter=======
+2019-10-24 19:34:24,860 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:35:05,460 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-24 19:35:07,462 common_fun.py[line:156] INFO get tarot_home screenshot
+2019-10-24 19:35:10,303 tarot_function.py[line:23] INFO =======select and enter everyday tarot========
+2019-10-24 19:35:12,165 common_fun.py[line:156] INFO get TarotEveryday enterPage screenshot
+2019-10-24 19:35:15,072 tarot_function.py[line:149] INFO =======start get first tarot=======
+2019-10-24 19:35:15,826 tarot_function.py[line:157] INFO ============get first tarot information==========
+2019-10-24 19:35:21,090 tarot_function.py[line:163] INFO =======start get second tarot=========
+2019-10-24 19:35:21,939 tarot_function.py[line:171] INFO ==========get second tarot information========
+2019-10-24 19:35:27,222 tarot_function.py[line:177] INFO =========start get third tarot==========
+2019-10-24 19:35:27,986 tarot_function.py[line:185] INFO ========get third tarot information=========
+2019-10-24 19:35:33,539 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:35:40,383 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:35:40,386 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:36:14,582 test007_tarot_everyday.py[line:30] INFO ===========test_two_tarot_share start==========
+2019-10-24 19:36:14,582 homeview.py[line:68] INFO ========APP enter=======
+2019-10-24 19:36:14,582 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:36:55,671 homeview.py[line:71] INFO ======switch tarot=====
+2019-10-24 19:36:57,676 common_fun.py[line:156] INFO get tarot_home screenshot
+2019-10-24 19:37:01,919 tarot_function.py[line:23] INFO =======select and enter everyday tarot========
+2019-10-24 19:37:04,251 common_fun.py[line:156] INFO get TarotEveryday enterPage screenshot
+2019-10-24 19:37:07,746 tarot_function.py[line:115] INFO =======start get first tarot=======
+2019-10-24 19:37:08,684 tarot_function.py[line:123] INFO ============get first tarot information==========
+2019-10-24 19:37:13,994 tarot_function.py[line:129] INFO =======start get second tarot=========
+2019-10-24 19:37:14,938 tarot_function.py[line:137] INFO ==========get second tarot information========
+2019-10-24 19:37:20,335 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:37:26,739 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:37:26,742 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:37:54,636 test008_old_face_enter.py[line:9] INFO ========test_old_face_enter  start===========
+2019-10-24 19:37:54,636 homeview.py[line:78] INFO ========APP enter=======
+2019-10-24 19:37:54,636 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:38:35,374 homeview.py[line:81] INFO ======switch face======
+2019-10-24 19:38:37,374 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-24 19:38:40,526 face_function.py[line:23] INFO ========select and enter old face========
+2019-10-24 19:38:40,820 common_fun.py[line:156] INFO get Face_homepage screenshot
+2019-10-24 19:38:43,522 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:38:49,977 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:38:49,981 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:39:17,759 test009_old_face_get_by_photo.py[line:10] INFO ==========test_get_old_face_by_photo start============
+2019-10-24 19:39:17,759 homeview.py[line:78] INFO ========APP enter=======
+2019-10-24 19:39:17,759 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:40:00,413 homeview.py[line:81] INFO ======switch face======
+2019-10-24 19:40:02,415 common_fun.py[line:156] INFO get face_home screenshot
+2019-10-24 19:40:05,539 face_function.py[line:23] INFO ========select and enter old face========
+2019-10-24 19:40:06,169 common_fun.py[line:156] INFO get Face_homepage screenshot
+2019-10-24 19:40:08,874 common_fun.py[line:177] INFO ========allow to in=======
+2019-10-24 19:40:08,994 face_function.py[line:38] INFO ========into picture======
+2019-10-24 19:40:09,705 common_fun.py[line:177] INFO ========allow to in=======
+2019-10-24 19:40:16,023 face_function.py[line:55] INFO =======choose a picture=======
+2019-10-24 19:40:19,784 face_function.py[line:59] INFO =======picture sure=========
+2019-10-24 19:40:20,845 face_function.py[line:68] INFO =======Permission Need=========
+2019-10-24 19:40:24,137 face_function.py[line:80] INFO =======wait the old face result=======
+2019-10-24 19:40:24,137 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:40:39,375 common_fun.py[line:156] INFO get old face result screenshot
+2019-10-24 19:40:43,021 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:40:51,263 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:40:51,266 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:41:25,354 test010_psychological.py[line:26] INFO ============test_question_1_answer_no start===========
+2019-10-24 19:41:25,355 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:41:25,355 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:41:48,901 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:41:56,007 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:41:56,010 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:42:30,108 test010_psychological.py[line:20] INFO ============test_question_1_answer_yes start==========
+2019-10-24 19:42:30,109 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:42:30,109 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:43:15,182 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:43:17,185 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:43:21,718 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-24 19:43:24,583 psychological_test_function.py[line:70] INFO ==========start answer the quanestion 1============
+2019-10-24 19:43:43,328 common_fun.py[line:156] INFO get question 1 all yes screenshot
+2019-10-24 19:43:45,905 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:43:52,676 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:43:52,679 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:44:26,672 test010_psychological.py[line:9] INFO ===========test_question_1_enter start===========
+2019-10-24 19:44:26,673 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:44:26,673 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:45:08,658 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:45:10,662 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:45:14,715 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-24 19:45:17,012 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:45:23,621 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:45:23,624 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:46:06,311 test010_psychological.py[line:38] INFO ============test_question_1_quit_no start==============
+2019-10-24 19:46:06,311 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:46:06,311 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:46:46,796 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:46:48,800 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:46:53,018 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-24 19:46:55,330 psychological_test_function.py[line:137] INFO ============start answer the question 1=========
+2019-10-24 19:47:04,493 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-24 19:47:07,533 psychological_test_function.py[line:158] INFO ========check psychological question page exist=========
+2019-10-24 19:47:07,896 common_fun.py[line:156] INFO get Back to psychological question page screenshot
+2019-10-24 19:47:10,167 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:47:16,948 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:47:16,952 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:47:49,980 test010_psychological.py[line:32] INFO ============test_question_1_quit_yes start=============
+2019-10-24 19:47:49,980 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:47:49,980 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:48:31,911 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:48:33,917 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:48:38,607 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-24 19:48:41,321 psychological_test_function.py[line:102] INFO ============start answer the question 1=========
+2019-10-24 19:48:49,900 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-24 19:48:52,925 psychological_test_function.py[line:123] INFO ========check psychological home back=========
+2019-10-24 19:48:53,154 common_fun.py[line:156] INFO get Back to psychological home screenshot
+2019-10-24 19:48:56,833 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:49:03,476 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:49:03,478 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:49:44,996 test010_psychological.py[line:50] INFO ============test_question_2_answer_no start===========
+2019-10-24 19:49:44,996 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:49:44,996 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:50:08,960 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:50:15,879 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:50:15,881 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:50:47,969 test010_psychological.py[line:44] INFO ============test_question_2_answer_yes start==========
+2019-10-24 19:50:47,970 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:50:47,970 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:51:31,585 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:51:33,589 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:51:36,953 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-24 19:51:38,772 psychological_test_function.py[line:172] INFO ==========start answer the quanestion 2============
+2019-10-24 19:51:56,348 common_fun.py[line:156] INFO get question 2 all yes screenshot
+2019-10-24 19:51:58,412 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:52:04,683 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:52:04,685 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:52:32,707 test010_psychological.py[line:14] INFO ===========test_question_2_enter start============
+2019-10-24 19:52:32,707 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:52:32,708 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:53:13,828 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:53:15,832 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:53:20,073 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-24 19:53:22,394 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:53:29,159 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:53:29,162 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:54:05,627 test010_psychological.py[line:62] INFO ============test_question_2_quit_no start==============
+2019-10-24 19:54:05,627 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:54:05,627 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:54:48,291 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:54:50,296 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:54:54,840 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-24 19:54:57,737 psychological_test_function.py[line:239] INFO ============start answer the question 2=========
+2019-10-24 19:55:06,303 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-24 19:55:09,315 psychological_test_function.py[line:260] INFO ========check psychological question page exist=========
+2019-10-24 19:55:09,692 common_fun.py[line:156] INFO get Back to psychological question page screenshot
+2019-10-24 19:55:12,022 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:55:18,668 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:55:18,671 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:56:00,096 test010_psychological.py[line:56] INFO ============test_question_2_quit_yes start=============
+2019-10-24 19:56:00,096 homeview.py[line:88] INFO ========APP enter=======
+2019-10-24 19:56:00,096 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:56:41,156 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-24 19:56:43,159 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-24 19:56:45,786 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-24 19:56:47,643 psychological_test_function.py[line:204] INFO ============start answer the question 2=========
+2019-10-24 19:56:55,673 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-24 19:56:58,344 psychological_test_function.py[line:225] INFO ========check psychological home back=========
+2019-10-24 19:56:58,533 common_fun.py[line:156] INFO get Back to psychological home screenshot
+2019-10-24 19:57:01,485 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:57:07,693 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:57:07,696 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:57:43,065 test011_today_page.py[line:20] INFO =======test_today_get_one_tarot start=======
+2019-10-24 19:57:43,066 homeview.py[line:26] INFO ========APP enter=======
+2019-10-24 19:57:43,066 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 19:58:23,393 homeview.py[line:29] INFO =======switch_today======
+2019-10-24 19:58:25,395 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-24 19:58:26,639 todayview.py[line:52] INFO =======get one tarot======
+2019-10-24 19:58:26,639 todayview.py[line:53] INFO =======start swipe page=======
+2019-10-24 19:58:26,639 common_fun.py[line:231] INFO swipe Down
+2019-10-24 19:58:28,009 common_fun.py[line:231] INFO swipe Down
+2019-10-24 19:58:29,375 todayview.py[line:56] INFO =====start get first tarot======
+2019-10-24 19:58:32,011 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-24 19:58:36,022 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-24 19:58:38,022 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 19:58:44,313 myunit.py[line:8] INFO ======setUp======
+2019-10-24 19:58:44,319 desired_caps.py[line:32] INFO start app...
+2019-10-24 19:59:22,964 test011_today_page.py[line:30] INFO =======test_today_get_three_tarot start========
+2019-10-24 19:59:22,964 homeview.py[line:26] INFO ========APP enter=======
+2019-10-24 19:59:22,965 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 20:00:03,285 homeview.py[line:29] INFO =======switch_today======
+2019-10-24 20:00:05,288 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-24 20:00:08,137 todayview.py[line:115] INFO =======get first tarot======
+2019-10-24 20:00:08,137 todayview.py[line:116] INFO =======start swipe page=======
+2019-10-24 20:00:08,137 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:00:09,533 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:00:10,870 todayview.py[line:119] INFO =====start get first tarot======
+2019-10-24 20:00:13,440 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-24 20:00:17,253 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-24 20:00:19,127 todayview.py[line:134] INFO =======get second tarot======
+2019-10-24 20:00:19,127 todayview.py[line:135] INFO =======start swipe page=======
+2019-10-24 20:00:19,127 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:00:20,490 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:00:21,996 todayview.py[line:138] INFO =====start get second tarot======
+2019-10-24 20:00:23,655 common_fun.py[line:156] INFO get second tarot information screenshot
+2019-10-24 20:00:27,595 common_fun.py[line:156] INFO get get second tarot screenshot
+2019-10-24 20:00:29,543 todayview.py[line:153] INFO =======get third tarot======
+2019-10-24 20:00:29,543 todayview.py[line:154] INFO =======start swipe page=======
+2019-10-24 20:00:29,543 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:00:31,381 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:00:32,704 todayview.py[line:157] INFO =====start get third tarot======
+2019-10-24 20:00:34,374 common_fun.py[line:156] INFO get third tarot information screenshot
+2019-10-24 20:00:38,225 common_fun.py[line:156] INFO get get third tarot screenshot
+2019-10-24 20:00:40,020 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 20:00:46,317 myunit.py[line:8] INFO ======setUp======
+2019-10-24 20:00:46,321 desired_caps.py[line:32] INFO start app...
+2019-10-24 20:01:14,070 test011_today_page.py[line:25] INFO =======test_today_get_two_tarot start=======
+2019-10-24 20:01:14,070 homeview.py[line:26] INFO ========APP enter=======
+2019-10-24 20:01:14,070 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 20:01:54,383 homeview.py[line:29] INFO =======switch_today======
+2019-10-24 20:01:56,388 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-24 20:01:57,810 todayview.py[line:74] INFO =======get first tarot======
+2019-10-24 20:01:57,810 todayview.py[line:75] INFO =======start swipe page=======
+2019-10-24 20:01:57,810 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:01:59,205 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:02:00,557 todayview.py[line:78] INFO =====start get first tarot======
+2019-10-24 20:02:03,008 common_fun.py[line:156] INFO get first tarot information screenshot
+2019-10-24 20:02:07,082 common_fun.py[line:156] INFO get get first tarot screenshot
+2019-10-24 20:02:09,199 todayview.py[line:93] INFO =======get second tarot======
+2019-10-24 20:02:09,200 todayview.py[line:94] INFO =======start swipe page=======
+2019-10-24 20:02:09,200 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:02:10,540 common_fun.py[line:231] INFO swipe Down
+2019-10-24 20:02:11,860 todayview.py[line:97] INFO =====start get second tarot======
+2019-10-24 20:02:13,558 common_fun.py[line:156] INFO get second tarot information screenshot
+2019-10-24 20:02:17,727 common_fun.py[line:156] INFO get get second tarot screenshot
+2019-10-24 20:02:19,948 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 20:02:26,202 myunit.py[line:8] INFO ======setUp======
+2019-10-24 20:02:26,207 desired_caps.py[line:32] INFO start app...
+2019-10-24 20:03:03,758 test011_today_page.py[line:10] INFO =======test_today_page_enter start=======
+2019-10-24 20:03:03,758 homeview.py[line:26] INFO ========APP enter=======
+2019-10-24 20:03:03,759 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 20:03:44,213 homeview.py[line:29] INFO =======switch_today======
+2019-10-24 20:03:46,217 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-24 20:03:49,514 todayview.py[line:24] INFO =======enter today page======
+2019-10-24 20:03:50,516 todayview.py[line:26] INFO =======check today page======
+2019-10-24 20:03:50,635 myunit.py[line:12] INFO ======tearDown=======
+2019-10-24 20:03:57,191 myunit.py[line:8] INFO ======setUp======
+2019-10-24 20:03:57,194 desired_caps.py[line:32] INFO start app...
+2019-10-24 20:04:31,784 test011_today_page.py[line:15] INFO =======test_today_page_share start=======
+2019-10-24 20:04:31,785 homeview.py[line:26] INFO ========APP enter=======
+2019-10-24 20:04:31,785 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-24 20:05:13,178 homeview.py[line:29] INFO =======switch_today======
+2019-10-24 20:05:15,180 common_fun.py[line:156] INFO get today_page screenshot
+2019-10-24 20:05:17,347 todayview.py[line:38] INFO =======check share button======
+2019-10-24 20:05:18,535 common_fun.py[line:156] INFO get share page screenshot
+2019-10-24 20:05:23,106 myunit.py[line:12] INFO ======tearDown=======

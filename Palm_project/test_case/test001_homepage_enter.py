@@ -1,12 +1,14 @@
 from Palm_project.common.myunit import StartEnd
 from Palm_project.businessView.loginview import Loginview
 import unittest
+import pytest
 import logging
 
 
 class Home_enter(StartEnd):
 
-    @unittest.skip('test_home_enter')
+    # @unittest.skip('test_home_enter')
+    # @pytest.fixture()
     def test_home_enter(self):
         logging.info('test_information_finish')
         username = '李宸宇'
