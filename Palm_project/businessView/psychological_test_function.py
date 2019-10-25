@@ -377,7 +377,7 @@ if __name__ == '__main__':
     l = Psychological(driver)
     # l.psychological_question_1()
     # l.psychological_question_all_yes_1()
-    # l.psychological_question_all_no_1()
+    l.psychological_question_all_no_1()
     # l.psychological_question_1_quit_yes()
     # l.psychological_question_1_quit_no()
     # l.psychological_question_2()

@@ -58,8 +58,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Palm_test_project$palm_function.coverage" NAME="palm_function Coverage Results" MODIFIED="1568269293609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$homeview.coverage" NAME="homeview Coverage Results" MODIFIED="1571053240132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
-    <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test010_psychological_py.coverage" NAME="Unittests in test010_psychological.py Coverage Results" MODIFIED="1570765226963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test009_old_face_get_by_photo_py.coverage" NAME="Unittests in test009_old_face_get_by_photo.py Coverage Results" MODIFIED="1571827964236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test001_homepage_enter_py.coverage" NAME="Unittests in test001_homepage_enter.py Coverage Results" MODIFIED="1571975152086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test010_psychological_py.coverage" NAME="Unittests in test010_psychological.py Coverage Results" MODIFIED="1571975282459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test008_old_face_enter_py.coverage" NAME="Unittests in test008_old_face_enter.py Coverage Results" MODIFIED="1570618658303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_information_write_Information_Input_test_information_french.coverage" NAME="Unittests for test_information_write.Information_Input.test_information_french Coverage Results" MODIFIED="1568720876831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_homepage_enter_Home_enter_test_home_enter.coverage" NAME="Unittests for test_homepage_enter.Home_enter.test_home_enter Coverage Results" MODIFIED="1568863802549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
@@ -69,12 +70,12 @@
     <SUITE FILE_PATH="coverage/Palm_test_project$Constellation_function.coverage" NAME="Constellation_function Coverage Results" MODIFIED="1571138163787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_homepage_enter_Homepage_enter_test_homepage_enter.coverage" NAME="Unittests for test_homepage_enter.Homepage_enter.test_homepage_enter Coverage Results" MODIFIED="1568721762909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$tarot_function.coverage" NAME="tarot_function Coverage Results" MODIFIED="1570618506791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
-    <SUITE FILE_PATH="coverage/Palm_test_project$psychological_test_function.coverage" NAME="psychological_test_function Coverage Results" MODIFIED="1570787307475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$psychological_test_function.coverage" NAME="psychological_test_function Coverage Results" MODIFIED="1571975003880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$face_function.coverage" NAME="face_function Coverage Results" MODIFIED="1571827729096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_information_write_Information_Input_test_information_username.coverage" NAME="Unittests for test_information_write.Information_Input.test_information_username Coverage Results" MODIFIED="1568628076027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$todayview.coverage" NAME="todayview Coverage Results" MODIFIED="1571822000808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/businessView" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test011_today_page_py.coverage" NAME="Unittests in test011_today_page.py Coverage Results" MODIFIED="1570780876954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
-    <SUITE FILE_PATH="coverage/Palm_test_project$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1571913015541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_run" />
+    <SUITE FILE_PATH="coverage/Palm_test_project$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1571987761682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_run" />
     <SUITE FILE_PATH="coverage/Palm_test_project$desired_caps.coverage" NAME="desired_caps Coverage Results" MODIFIED="1568087655826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/common" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_in_test006_constellation_everyday_py.coverage" NAME="Unittests in test006_constellation_everyday.py Coverage Results" MODIFIED="1570515579341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
     <SUITE FILE_PATH="coverage/Palm_test_project$Unittests_for_test_information_write_Information_Input_test_information_finish.coverage" NAME="Unittests for test_information_write.Information_Input.test_information_finish Coverage Results" MODIFIED="1568627204847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Palm_project/test_case" />
@@ -90,7 +91,7 @@
       <file leaf-file-name="sendmail.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/test_run/sendmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
+            <state relative-caret-position="585">
               <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -99,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todayview.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="todayview.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="73">
+              <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -114,17 +115,77 @@
       <file leaf-file-name="test001_homepage_enter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test001_homepage_enter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="283">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test010_psychological.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="787">
+              <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="psychological_test_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-531">
+              <caret line="235" column="47" selection-start-line="235" selection-start-column="47" selection-end-line="235" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test011_today_page.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            <state relative-caret-position="306">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test002_information_write.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test002_information_write.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test003_palm_judge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test003_palm_judge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,42 +195,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="833">
               <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common_fun.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Palm_project/common/common_fun.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3026">
-              <caret line="184" column="23" selection-start-line="184" selection-start-column="23" selection-end-line="184" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="homeview.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/homeview.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constellation_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -230,13 +255,13 @@
         <option value="$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/homeview.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/Constellation_function.py" />
-        <option value="$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/todayview.py" />
         <option value="$PROJECT_DIR$/Palm_project/common/test.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/loginview.py" />
         <option value="$PROJECT_DIR$/Palm_project/businessView/face_function.py" />
         <option value="$PROJECT_DIR$/Palm_project/common/common_fun.py" />
         <option value="$PROJECT_DIR$/Palm_project/test_case/test001_homepage_enter.py" />
+        <option value="$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py" />
         <option value="$PROJECT_DIR$/Palm_project/test_run/run_test.py" />
       </list>
     </option>
@@ -362,7 +387,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.run_test">
-    <configuration name="face_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="psychological_test_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Palm_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,7 +400,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palm_project/businessView/face_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,26 +425,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="todayview" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Palm_test_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palm_project/businessView" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palm_project/businessView/todayview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Unittests for test011_today_page.Todat_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test001_homepage_enter.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Palm_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,8 +436,8 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test011_today_page.Todat_test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Palm_project/test_case/test001_homepage_enter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test009_old_face_get_by_photo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Palm_test_project" />
@@ -447,20 +453,34 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/Palm_project/test_case/test009_old_face_get_by_photo.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="Unittests in test010_psychological.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Palm_test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Palm_project/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list>
-      <item itemvalue="Python.todayview" />
-      <item itemvalue="Python tests.Unittests for test011_today_page.Todat_test" />
-      <item itemvalue="Python.face_function" />
       <item itemvalue="Python tests.Unittests in test009_old_face_get_by_photo.py" />
       <item itemvalue="Python.run_test" />
+      <item itemvalue="Python.psychological_test_function" />
+      <item itemvalue="Python tests.Unittests in test001_homepage_enter.py" />
+      <item itemvalue="Python tests.Unittests in test010_psychological.py" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run_test" />
+        <item itemvalue="Python tests.Unittests in test010_psychological.py" />
+        <item itemvalue="Python tests.Unittests in test001_homepage_enter.py" />
+        <item itemvalue="Python.psychological_test_function" />
         <item itemvalue="Python tests.Unittests in test009_old_face_get_by_photo.py" />
-        <item itemvalue="Python.face_function" />
-        <item itemvalue="Python tests.Unittests for test011_today_page.Todat_test" />
-        <item itemvalue="Python.todayview" />
       </list>
     </recent_temporary>
   </component>
@@ -563,12 +583,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test009_old_face_get_by_photo_py - 2019.10.09 at 15h 25m 45s.xml">
-      <configuration name="Unittests in test009_old_face_get_by_photo.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test009_old_face_get_by_photo_py - 2019.10.09 at 15h 27m 54s.xml">
-      <configuration name="Unittests in test009_old_face_get_by_photo.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test008_old_face_enter_py - 2019.10.09 at 18h 58m 45s.xml">
       <configuration name="Unittests in test008_old_face_enter.py" configurationId="tests" />
     </history-entry>
@@ -593,6 +607,12 @@
     <history-entry file="Unittests_in_test009_old_face_get_by_photo_py - 2019.10.23 at 18h 55m 09s.xml">
       <configuration name="Unittests in test009_old_face_get_by_photo.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test001_homepage_enter_py - 2019.10.25 at 11h 47m 07s.xml">
+      <configuration name="Unittests in test001_homepage_enter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test010_psychological_py - 2019.10.25 at 12h 05m 05s.xml">
+      <configuration name="Unittests in test010_psychological.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,17 +629,17 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3647059" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.3647059" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31966528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3246862" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -633,25 +653,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2673667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3647059" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.3647059" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50080776" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49919224" weight="0.32941177" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -673,16 +693,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Palm_project/common/common_fun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4014">
-          <caret line="223" column="36" selection-start-line="223" selection-start-column="36" selection-end-line="223" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -819,20 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test002_information_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test003_palm_judge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/palm_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
@@ -882,13 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/config/Palm_caps.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -906,13 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="387" column="42" selection-start-line="387" selection-start-column="42" selection-end-line="387" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/tarot_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -921,13 +903,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/common/test.py" />
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test009_old_face_get_by_photo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -985,33 +960,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/sendmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/ok/GitHub/lib/python3.7/site-packages/pytest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-488" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test001_homepage_enter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/logs/runlog.log">
@@ -1021,12 +972,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test001_homepage_enter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/businessView/psychological_test_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="235" column="47" selection-start-line="235" selection-start-column="47" selection-end-line="235" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Palm_project/businessView/todayview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="73">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/Palm Secret test report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test011_today_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test010_psychological.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test002_information_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_case/test003_palm_judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palm_project/test_run/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
