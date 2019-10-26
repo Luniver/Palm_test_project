@@ -212,7 +212,7 @@ class Commom(BaseView):
         else:
             closeBtn.click()
             return True
-        # WebDriverWait(self.driver, 10, 1).until(
+        # WebDriverWait(self.driver, 10, 0.2).until(
         #     EC.visibility_of_element_located((By.ID, 'com.palm.test:id/iv_payment_close'))).click()
 
     def get_page_title(self):

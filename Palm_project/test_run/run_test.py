@@ -15,13 +15,13 @@ description='Palm Secret Test'
 # pattern = "test001_homepage_enter.py"
 # pattern = "test002_information_write.py"
 # pattern = "test003_palm_judge.py"
-pattern = "test004_constellation_match.py"
+# pattern = "test004_constellation_match.py"
 # pattern = "test005_constellation_enter.py"
 # pattern = "test006_constellation_everyday.py"
 # pattern = "test007_tarot_everyday.py"
 # pattern = "test008_old_face_enter.py"
 # pattern = "test009_old_face_get_by_photo.py"
-# pattern="test010_psychological.py"
+pattern="test010_psychological.py"
 # pattern = "test011_today_page.py"
 
 if __name__ == '__main__':

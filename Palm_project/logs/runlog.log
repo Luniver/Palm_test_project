@@ -13584,3 +13584,142 @@
 2019-10-25 15:25:59,063 homeview.py[line:58] INFO ========APP enter=======
 2019-10-25 15:25:59,063 common_fun.py[line:205] INFO ========close subscribe page======
 2019-10-25 15:26:39,448 homeview.py[line:61] INFO ======swicth_constellation======
+2019-10-26 14:56:56,273 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,276 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,322 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,327 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,331 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,336 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,340 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,346 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,353 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,357 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,362 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,366 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,370 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,374 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,379 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,381 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,388 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,394 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:56:56,439 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:56:56,456 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:57:02,562 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:57:02,564 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:57:39,504 test010_psychological.py[line:26] INFO ============test_question_1_answer_no start===========
+2019-10-26 14:57:39,504 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 14:57:39,504 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 14:58:21,959 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 14:58:23,963 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 14:58:27,079 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-26 14:58:29,007 psychological_test_function.py[line:86] INFO ==========start answer the question 1===========
+2019-10-26 14:58:46,680 common_fun.py[line:156] INFO get question 1 all no screenshot
+2019-10-26 14:58:48,610 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 14:58:55,287 myunit.py[line:8] INFO ======setUp======
+2019-10-26 14:58:55,290 desired_caps.py[line:32] INFO start app...
+2019-10-26 14:59:22,199 test010_psychological.py[line:20] INFO ============test_question_1_answer_yes start==========
+2019-10-26 14:59:22,202 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 14:59:22,202 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:00:02,798 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:00:04,803 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:00:07,859 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-26 15:00:09,900 psychological_test_function.py[line:70] INFO ==========start answer the quanestion 1============
+2019-10-26 15:00:27,351 common_fun.py[line:156] INFO get question 1 all yes screenshot
+2019-10-26 15:00:29,131 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:00:35,548 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:00:35,551 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:01:03,059 test010_psychological.py[line:9] INFO ===========test_question_1_enter start===========
+2019-10-26 15:01:03,059 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:01:03,059 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:01:42,887 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:01:44,892 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:01:47,960 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-26 15:01:49,936 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:01:56,409 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:01:56,412 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:02:23,239 test010_psychological.py[line:38] INFO ============test_question_1_quit_no start==============
+2019-10-26 15:02:23,239 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:02:23,239 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:03:05,481 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:03:07,481 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:03:10,540 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-26 15:03:12,609 psychological_test_function.py[line:137] INFO ============start answer the question 1=========
+2019-10-26 15:03:20,806 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-26 15:03:23,244 psychological_test_function.py[line:158] INFO ========check psychological question page exist=========
+2019-10-26 15:03:23,505 common_fun.py[line:156] INFO get Back to psychological question page screenshot
+2019-10-26 15:03:25,105 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:03:31,292 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:03:31,294 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:03:57,709 test010_psychological.py[line:32] INFO ============test_question_1_quit_yes start=============
+2019-10-26 15:03:57,709 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:03:57,709 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:04:37,929 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:04:39,937 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:04:42,899 psychological_test_function.py[line:29] INFO psychological question 1 enter
+2019-10-26 15:04:44,996 psychological_test_function.py[line:102] INFO ============start answer the question 1=========
+2019-10-26 15:04:52,940 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-26 15:04:55,377 psychological_test_function.py[line:123] INFO ========check psychological home back=========
+2019-10-26 15:04:55,566 common_fun.py[line:156] INFO get Back to psychological home screenshot
+2019-10-26 15:04:58,114 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:05:04,259 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:05:04,261 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:05:33,195 test010_psychological.py[line:50] INFO ============test_question_2_answer_no start===========
+2019-10-26 15:05:33,195 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:05:33,195 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:06:13,045 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:06:15,048 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:06:17,887 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-26 15:06:19,797 psychological_test_function.py[line:188] INFO ==========start answer the question 2===========
+2019-10-26 15:06:37,184 common_fun.py[line:156] INFO get question 2 all no screenshot
+2019-10-26 15:06:39,130 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:06:45,573 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:06:45,575 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:07:11,930 test010_psychological.py[line:44] INFO ============test_question_2_answer_yes start==========
+2019-10-26 15:07:11,930 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:07:11,930 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:07:56,051 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:07:58,056 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:08:00,843 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-26 15:08:02,520 psychological_test_function.py[line:172] INFO ==========start answer the quanestion 2============
+2019-10-26 15:08:19,853 common_fun.py[line:156] INFO get question 2 all yes screenshot
+2019-10-26 15:08:21,649 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:08:27,847 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:08:27,850 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:08:55,724 test010_psychological.py[line:14] INFO ===========test_question_2_enter start============
+2019-10-26 15:08:55,725 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:08:55,725 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:09:35,791 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:09:37,797 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:09:40,827 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-26 15:09:42,828 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:09:49,104 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:09:49,107 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:10:15,625 test010_psychological.py[line:62] INFO ============test_question_2_quit_no start==============
+2019-10-26 15:10:15,625 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:10:15,625 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:10:57,007 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:10:59,014 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:11:01,829 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-26 15:11:03,550 psychological_test_function.py[line:239] INFO ============start answer the question 2=========
+2019-10-26 15:11:11,468 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-26 15:11:13,897 psychological_test_function.py[line:260] INFO ========check psychological question page exist=========
+2019-10-26 15:11:14,150 common_fun.py[line:156] INFO get Back to psychological question page screenshot
+2019-10-26 15:11:15,752 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:11:21,973 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:11:21,976 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:11:48,104 test010_psychological.py[line:56] INFO ============test_question_2_quit_yes start=============
+2019-10-26 15:11:48,104 homeview.py[line:88] INFO ========APP enter=======
+2019-10-26 15:11:48,104 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:12:28,099 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-10-26 15:12:30,103 common_fun.py[line:156] INFO get psychological_test page screenshot
+2019-10-26 15:12:33,011 psychological_test_function.py[line:42] INFO psychological question 2 enter
+2019-10-26 15:12:35,219 psychological_test_function.py[line:204] INFO ============start answer the question 2=========
+2019-10-26 15:12:43,118 common_fun.py[line:156] INFO get quit toast screenshot
+2019-10-26 15:12:45,576 psychological_test_function.py[line:225] INFO ========check psychological home back=========
+2019-10-26 15:12:45,736 common_fun.py[line:156] INFO get Back to psychological home screenshot
+2019-10-26 15:12:48,217 myunit.py[line:12] INFO ======tearDown=======
+2019-10-26 15:15:04,417 myunit.py[line:8] INFO ======setUp======
+2019-10-26 15:15:04,422 desired_caps.py[line:32] INFO start app...
+2019-10-26 15:15:26,404 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-10-26 15:15:26,404 common_fun.py[line:205] INFO ========close subscribe page======
+2019-10-26 15:16:27,261 myunit.py[line:12] INFO ======tearDown=======
