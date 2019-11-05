@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.tarot_function import Tarot
+from common.myunit import StartEnd
+from businessView.tarot_function import Tarot
 import unittest
 import logging
 

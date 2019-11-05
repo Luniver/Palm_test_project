@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.Constellation_function import Constellation
+from common.myunit import StartEnd
+from businessView.Constellation_function import Constellation
 import unittest
 import logging
 

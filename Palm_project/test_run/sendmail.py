@@ -18,7 +18,8 @@ def send_mail(file_new):
     mail_body = f.read()
     f.close()
 
-    body = MIMEText(mail_body,'html','uft-8')
+    mail_information = '自动化测试已经完成，详情请见附件内容，谢谢，如有问题，请联系我。'
+    body = MIMEText(mail_information,'palin','utf-8')
 
     msg = MIMEMultipart('related')
     msg['Subject']=Header(subjects,'utf-8').encode()
@@ -30,7 +31,7 @@ def send_mail(file_new):
     att = MIMEText(mail_body,"base64","utf-8")
 
     att["Content-Type"] = "application/octet-stream"
-    att["Content-Disposition"] = 'attachment;filename="手相测试报告.html"'
+    att["Content-Disposition"] = 'attachment;filename="Palm Secret test report.html"'
     msg.attach(att)
 
     smtp=smtplib.SMTP_SSL(smtpserver,465)
@@ -48,5 +49,5 @@ def send_mail(file_new):
     print("邮件发送完成！")
 
 if __name__ == '__main__':
-    file_new = '/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_run/手相测试报告.html'
+    file_new = '/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/test_run/Palm Secret test report.html'
     send_mail(file_new)

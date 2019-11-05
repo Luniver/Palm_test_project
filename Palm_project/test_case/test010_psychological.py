@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.psychological_test_function import Psychological
+from common.myunit import StartEnd
+from businessView.psychological_test_function import Psychological
 import unittest
 import logging
 

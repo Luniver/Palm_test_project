@@ -13723,3 +13723,251 @@
 2019-10-26 15:15:26,404 test001_homepage_enter.py[line:13] INFO test_information_finish
 2019-10-26 15:15:26,404 common_fun.py[line:205] INFO ========close subscribe page======
 2019-10-26 15:16:27,261 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:13:42,718 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:13:42,723 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:14:06,013 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 14:14:06,014 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 14:14:06,014 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:14:44,385 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 14:14:46,389 common_fun.py[line:156] INFO get home_page screenshot
+2019-11-04 14:14:48,042 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:35:37,084 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:35:37,090 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:35:57,049 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 14:35:57,049 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 14:35:57,049 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:36:04,268 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 14:36:06,272 common_fun.py[line:156] INFO get home_page screenshot
+2019-11-04 14:36:07,787 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:37:44,824 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:37:44,830 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:38:05,237 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-04 14:38:05,237 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:38:05,237 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:38:12,460 homeview.py[line:51] INFO =====switch_palm======
+2019-11-04 14:38:14,464 common_fun.py[line:156] INFO get palm_home screenshot
+2019-11-04 14:38:15,893 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-04 14:38:16,481 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-04 14:38:16,757 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-04 14:38:23,376 common_fun.py[line:156] INFO get businesslineQuestion screenshot
+2019-11-04 14:38:24,227 palm_function.py[line:237] INFO =======choose first option======
+2019-11-04 14:38:24,364 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:38:30,330 palm_function.py[line:254] INFO =======get result==========
+2019-11-04 14:38:34,335 common_fun.py[line:156] INFO get businesslineResult screenshot
+2019-11-04 14:38:35,377 palm_function.py[line:258] INFO =======back to home========
+2019-11-04 14:38:35,525 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:38:42,136 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:38:42,143 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:39:01,886 test003_palm_judge.py[line:40] INFO ==========test_palm_judge_destinyline start ==========
+2019-11-04 14:39:01,886 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:39:01,886 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:39:08,856 homeview.py[line:51] INFO =====switch_palm======
+2019-11-04 14:39:10,858 common_fun.py[line:156] INFO get palm_home screenshot
+2019-11-04 14:39:12,265 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-04 14:39:12,763 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-04 14:39:12,809 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-11-04 14:39:19,269 common_fun.py[line:156] INFO get destinylineQuestion screenshot
+2019-11-04 14:39:20,060 palm_function.py[line:283] INFO =======choose first option======
+2019-11-04 14:39:20,096 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:39:26,165 palm_function.py[line:300] INFO =======get result==========
+2019-11-04 14:39:30,169 common_fun.py[line:156] INFO get destinylineResult screenshot
+2019-11-04 14:39:31,180 palm_function.py[line:304] INFO =======back to home========
+2019-11-04 14:39:31,227 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:39:38,173 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:39:38,179 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:39:59,489 test003_palm_judge.py[line:10] INFO ==========test_palm_judge_enter start ==========
+2019-11-04 14:39:59,490 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:39:59,490 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:40:16,906 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:40:23,767 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:40:23,771 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:40:47,336 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_headline start ==========
+2019-11-04 14:40:47,337 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:40:47,337 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:41:03,788 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:41:10,879 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:41:10,886 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:41:36,459 test003_palm_judge.py[line:22] INFO ==========test_palm_judge_heartline start ==========
+2019-11-04 14:41:36,459 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:41:36,459 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:41:43,856 homeview.py[line:51] INFO =====switch_palm======
+2019-11-04 14:41:45,861 common_fun.py[line:156] INFO get palm_home screenshot
+2019-11-04 14:41:48,391 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-04 14:41:49,161 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-04 14:41:49,226 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-04 14:41:55,951 common_fun.py[line:156] INFO get heartlineQuestion screenshot
+2019-11-04 14:41:56,880 palm_function.py[line:147] INFO =======choose first option======
+2019-11-04 14:41:57,014 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:42:04,377 palm_function.py[line:164] INFO =======get result==========
+2019-11-04 14:42:08,379 common_fun.py[line:156] INFO get heartlinelineResult screenshot
+2019-11-04 14:42:10,548 palm_function.py[line:168] INFO =======back to home========
+2019-11-04 14:42:10,682 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:42:17,855 myunit.py[line:8] INFO ======setUp======
+2019-11-04 14:42:17,862 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:42:40,960 test003_palm_judge.py[line:16] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-04 14:42:40,960 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:42:40,961 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:42:54,989 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 14:44:43,090 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:45:01,828 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:45:01,828 common_fun.py[line:205] INFO ========close subscribe page======
+2019-11-04 14:50:48,189 desired_caps.py[line:32] INFO start app...
+2019-11-04 14:51:07,137 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 14:51:07,137 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 14:51:25,290 homeview.py[line:51] INFO =====switch_palm======
+2019-11-04 14:51:27,294 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-04 15:12:54,285 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:13:21,338 homeview.py[line:48] INFO =======APP enter======
+2019-11-04 15:13:21,339 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:13:30,738 homeview.py[line:51] INFO =====switch_palm======
+2019-11-04 15:13:32,741 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-04 15:19:07,055 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:19:07,059 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:19:35,276 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:19:35,281 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:19:35,282 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:19:43,442 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:19:45,445 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:19:46,817 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 15:23:43,211 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:23:43,217 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:24:07,927 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:24:07,928 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:24:07,928 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:24:26,637 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:24:28,641 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:24:30,161 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 15:26:28,228 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:26:28,231 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:26:51,881 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:26:51,881 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:26:51,881 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:26:59,897 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:27:01,901 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:27:03,534 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 15:28:48,362 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:28:48,365 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:29:12,331 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:29:12,332 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:29:12,332 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:29:22,205 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:29:24,211 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:29:26,222 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 15:32:06,031 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:32:06,035 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:32:30,418 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:32:30,419 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:32:30,419 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:32:38,574 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:32:40,575 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:32:42,121 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 15:44:06,529 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:44:06,533 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:44:30,982 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:44:30,991 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:44:30,991 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:44:49,184 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:44:51,188 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:44:54,100 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 15:45:37,864 myunit.py[line:8] INFO ======setUp======
+2019-11-04 15:45:37,868 desired_caps.py[line:32] INFO start app...
+2019-11-04 15:46:01,825 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 15:46:01,826 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 15:46:01,826 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 15:46:09,845 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 15:46:11,850 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 15:46:13,662 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 16:26:28,547 myunit.py[line:8] INFO ======setUp======
+2019-11-04 16:26:28,551 desired_caps.py[line:32] INFO start app...
+2019-11-04 16:26:51,503 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 16:26:51,504 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 16:26:51,504 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 16:26:59,759 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 16:27:01,764 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 16:27:03,175 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 17:29:48,986 myunit.py[line:8] INFO ======setUp======
+2019-11-04 17:29:48,990 desired_caps.py[line:32] INFO start app...
+2019-11-04 17:30:15,824 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 17:30:15,825 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 17:30:15,825 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 17:30:35,821 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 17:30:37,825 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 17:30:39,734 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 17:36:10,409 myunit.py[line:8] INFO ======setUp======
+2019-11-04 17:36:10,412 desired_caps.py[line:32] INFO start app...
+2019-11-04 17:36:33,603 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 17:36:33,603 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 17:36:33,605 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 17:36:42,720 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 17:36:44,726 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 17:36:46,221 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 18:08:01,022 myunit.py[line:8] INFO ======setUp======
+2019-11-04 18:08:01,026 desired_caps.py[line:32] INFO start app...
+2019-11-04 18:08:24,023 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 18:08:24,025 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 18:08:24,025 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 18:08:31,487 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 18:08:33,493 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 18:08:35,181 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 18:25:35,221 myunit.py[line:8] INFO ======setUp======
+2019-11-04 18:25:35,225 desired_caps.py[line:32] INFO start app...
+2019-11-04 18:43:49,406 myunit.py[line:8] INFO ======setUp======
+2019-11-04 18:43:49,410 desired_caps.py[line:32] INFO start app...
+2019-11-04 18:44:53,792 myunit.py[line:8] INFO ======setUp======
+2019-11-04 18:44:53,795 desired_caps.py[line:32] INFO start app...
+2019-11-04 18:45:18,483 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 18:45:18,483 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 18:45:18,484 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 18:45:35,871 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 18:45:37,873 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 18:45:39,545 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 19:22:36,812 myunit.py[line:8] INFO ======setUp======
+2019-11-04 19:22:36,816 desired_caps.py[line:32] INFO start app...
+2019-11-04 19:35:03,807 myunit.py[line:8] INFO ======setUp======
+2019-11-04 19:35:03,811 desired_caps.py[line:32] INFO start app...
+2019-11-04 19:38:20,299 myunit.py[line:8] INFO ======setUp======
+2019-11-04 19:38:20,303 desired_caps.py[line:32] INFO start app...
+2019-11-04 19:49:19,590 myunit.py[line:8] INFO ======setUp======
+2019-11-04 19:49:19,594 desired_caps.py[line:32] INFO start app...
+2019-11-04 19:49:42,829 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-04 19:49:42,830 homeview.py[line:16] INFO ========APP enter=======
+2019-11-04 19:49:42,830 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-04 19:49:50,975 homeview.py[line:19] INFO =======switch_home======
+2019-11-04 19:49:52,980 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-04 19:49:54,651 myunit.py[line:12] INFO ======tearDown=======
+2019-11-04 20:06:33,650 myunit.py[line:8] INFO ======setUp======
+2019-11-04 20:06:33,653 desired_caps.py[line:32] INFO start app...
+2019-11-04 20:10:33,939 myunit.py[line:8] INFO ======setUp======
+2019-11-04 20:19:54,376 desired_caps.py[line:32] INFO start app...
+2019-11-04 20:21:55,371 desired_caps.py[line:32] INFO start app...
+2019-11-04 20:23:23,459 desired_caps.py[line:32] INFO start app...
+2019-11-04 20:23:37,119 desired_caps.py[line:32] INFO start app...
+2019-11-04 20:24:13,892 desired_caps.py[line:32] INFO start app...
+2019-11-04 20:24:42,226 desired_caps.py[line:32] INFO start app...
+2019-11-05 11:21:20,478 myunit.py[line:8] INFO ======setUp======
+2019-11-05 11:22:02,977 myunit.py[line:8] INFO ======setUp======
+2019-11-05 11:22:02,981 desired_caps.py[line:32] INFO start app...
+2019-11-05 11:22:33,758 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-05 11:22:33,759 homeview.py[line:16] INFO ========APP enter=======
+2019-11-05 11:22:33,759 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-05 11:22:55,911 homeview.py[line:19] INFO =======switch_home======
+2019-11-05 11:22:57,915 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-05 11:22:59,813 myunit.py[line:12] INFO ======tearDown=======
+2019-11-05 11:23:22,265 myunit.py[line:8] INFO ======setUp======
+2019-11-05 11:23:22,269 desired_caps.py[line:32] INFO start app...
+2019-11-05 11:23:45,897 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-05 11:23:45,897 homeview.py[line:16] INFO ========APP enter=======
+2019-11-05 11:23:45,898 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-05 11:24:05,791 homeview.py[line:19] INFO =======switch_home======
+2019-11-05 11:24:07,795 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-05 11:24:10,053 myunit.py[line:12] INFO ======tearDown=======
+2019-11-05 11:36:09,973 myunit.py[line:8] INFO ======setUp======
+2019-11-05 11:36:09,978 desired_caps.py[line:32] INFO start app...
+2019-11-05 11:36:31,863 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-05 11:36:31,863 homeview.py[line:16] INFO ========APP enter=======
+2019-11-05 11:36:31,863 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-05 11:36:40,064 homeview.py[line:19] INFO =======switch_home======
+2019-11-05 11:36:42,070 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-05 11:36:43,764 myunit.py[line:12] INFO ======tearDown=======
+2019-11-05 15:40:30,163 myunit.py[line:8] INFO ======setUp======
+2019-11-05 15:40:30,168 desired_caps.py[line:32] INFO start app...

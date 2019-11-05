@@ -1,4 +1,4 @@
-from Palm_project.baseView.baseView import BaseView
+from baseView.baseView import BaseView
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.wait import WebDriverWait
@@ -30,6 +30,8 @@ class Commom(BaseView):
     cancel = (By.ID, 'android:id/button2')
     year2018 = (By.XPATH, '//*[@text="2018"]')
     day22 = (By.XPATH, '//*[@text="22"]')
+
+    subscribe_id = (By.ID,'com.palm.test:id/view_payment_btn1')
 
     def username_edit(self,username):
         '''编辑用户名'''
@@ -205,13 +207,21 @@ class Commom(BaseView):
         logging.info('========close subscribe page======')
         time.sleep(5)
         try:
-            closeBtn = self.driver.find_element(*self.closeBtn)
+            self.driver.find_element(*self.subscribe_id)
         except NoSuchElementException:
-            print('can not find the subscribe page or you are subscribed user')
-            pass
+            print('can not find the subscribe')
+            return False
         else:
-            closeBtn.click()
+            os.system('adb shell input tap 57 110')
             return True
+        # try:
+        #     closeBtn = self.driver.find_element(*self.closeBtn)
+        # except NoSuchElementException:
+        #     print('can not find the subscribe page or you are subscribed user')
+        #     pass
+        # else:
+        #     closeBtn.click()
+        #     return True
         # WebDriverWait(self.driver, 10, 0.2).until(
         #     EC.visibility_of_element_located((By.ID, 'com.palm.test:id/iv_payment_close'))).click()
 

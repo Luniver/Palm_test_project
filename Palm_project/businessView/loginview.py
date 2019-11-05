@@ -1,5 +1,5 @@
-from Palm_project.common.desired_caps import appium_desired
-from Palm_project.common.common_fun import Commom
+from common.desired_caps import appium_desired
+from common.common_fun import Commom
 from selenium.common.exceptions import NoSuchElementException
 import logging
 from selenium.webdriver.common.by import By

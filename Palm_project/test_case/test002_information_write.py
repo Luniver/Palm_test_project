@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.loginview import Loginview
+from common.myunit import StartEnd
+from businessView.loginview import Loginview
 import unittest
 import logging
 

@@ -5,12 +5,12 @@ import logging.config
 import os
 from os import path
 
-log_file_path = path.join(path.dirname(path.abspath(__file__)), '/Users/lcy/Documents/GitHub/Palm_test_project/Palm_project/config/log.conf')
+log_file_path = path.join(path.dirname(path.abspath(__file__)), '../config/log.conf')
 logging.config.fileConfig(log_file_path)
 logging=logging.getLogger()
 
 def appium_desired():
-    with open('../config/Palm_caps.yaml','r',encoding='utf-8') as file:
+    with open('./config/Palm_caps.yaml','r',encoding='utf-8') as file:
         data = yaml.load(file)
 
     desired_caps = {}

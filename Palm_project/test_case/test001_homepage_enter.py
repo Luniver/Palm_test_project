@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.homeview import HomeView
+from common.myunit import StartEnd
+from businessView.homeview import HomeView
 import unittest
 import pytest
 import logging

@@ -1,5 +1,5 @@
 import unittest
-from Palm_project.common.desired_caps import appium_desired
+from common.desired_caps import appium_desired
 import logging
 from time import sleep
 

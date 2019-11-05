@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.todayview import Today
+from common.myunit import StartEnd
+from businessView.todayview import Today
 import unittest
 import logging
 

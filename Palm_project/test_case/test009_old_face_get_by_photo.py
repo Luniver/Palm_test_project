@@ -1,5 +1,5 @@
-from Palm_project.common.myunit import StartEnd
-from Palm_project.businessView.face_function import Face
+from common.myunit import StartEnd
+from businessView.face_function import Face
 import unittest
 import logging
 

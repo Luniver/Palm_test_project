@@ -1,5 +1,5 @@
-from Palm_project.common.desired_caps import appium_desired
-from Palm_project.businessView.loginview import Loginview
+from common.desired_caps import appium_desired
+from businessView.loginview import Loginview
 import logging,time
 from selenium.webdriver.common.by import By
 
@@ -100,8 +100,8 @@ if __name__ == '__main__':
     l = HomeView(driver)
     # l.switch_navigation_home()
     # l.switch_navigation_today()
-    l.switch_navigation_me()
-    # l.switch_palm()
+    # l.switch_navigation_me()
+    l.switch_palm()
     # l.switch_Constellation()
     # l.switch_tarot()
     # l.switch_face()
