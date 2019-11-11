@@ -14,7 +14,7 @@ class HomeView(Loginview):
     def switch_navigation_home(self):
         '''切换至首页'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_element(*self.navigation_home).click()
         logging.info('=======switch_home======')
         time.sleep(2)
@@ -24,7 +24,7 @@ class HomeView(Loginview):
     def switch_navigation_today(self):
         '''切换至今日'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_element(*self.navigation_today).click()
         logging.info('=======switch_today======')
         time.sleep(2)
@@ -34,7 +34,7 @@ class HomeView(Loginview):
     def switch_navigation_me(self):
         '''切换到我的'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_element(*self.navigation_me).click()
         logging.info('======switch_me======')
         time.sleep(2)
@@ -46,7 +46,7 @@ class HomeView(Loginview):
     def switch_palm(self):
         '''切换到手相功能页'''
         logging.info('=======APP enter======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_elements(*self.item_image)[1].click()
         logging.info('=====switch_palm======')
         time.sleep(2)
@@ -56,7 +56,7 @@ class HomeView(Loginview):
     def switch_Constellation(self):
         '''切换到星座功能页'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_elements(*self.item_image)[2].click()
         logging.info('======swicth_constellation======')
         time.sleep(2)
@@ -66,7 +66,7 @@ class HomeView(Loginview):
     def switch_tarot(self):
         '''切换到塔罗牌功能页'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_elements(*self.item_image)[3].click()
         logging.info('======switch tarot=====')
         time.sleep(2)
@@ -76,7 +76,7 @@ class HomeView(Loginview):
     def switch_face(self):
         '''切换到变老功能页'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_elements(*self.item_image)[0].click()
         logging.info('======switch face======')
         time.sleep(2)
@@ -86,7 +86,7 @@ class HomeView(Loginview):
     def switch_psychological_test(self):
         '''切换至心理测试功能页'''
         logging.info('========APP enter=======')
-        self.close_event()
+        self.first_close_event()
         self.driver.find_elements(*self.item_image)[4].click()
         logging.info('======switch psychological_test=======')
         time.sleep(2)

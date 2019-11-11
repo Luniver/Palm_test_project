@@ -2,7 +2,7 @@ from common.desired_caps import appium_desired
 from businessView.homeview import HomeView
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-import logging,time
+import logging,time,os
 
 class Constellation(HomeView):
 
@@ -381,7 +381,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
-            Aries_match.click()
+            os.system('adb shell input tap 395 357')
             Aries_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -406,7 +406,7 @@ class Constellation(HomeView):
             print('can not find the Taurus')
             return False
         else:
-            Taurus_match.click()
+            os.system('adb shell input tap 395 357')
             Taurus_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -431,7 +431,7 @@ class Constellation(HomeView):
             print('can not find the Gemini')
             return False
         else:
-            Gemini_match.click()
+            os.system('adb shell input tap 395 357')
             Gemini_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -456,7 +456,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
-            Cancer_match.click()
+            os.system('adb shell input tap 395 357')
             Cancer_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -481,7 +481,7 @@ class Constellation(HomeView):
             print('can not find the Leo')
             return False
         else:
-            Leo_match.click()
+            os.system('adb shell input tap 395 357')
             Leo_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -506,7 +506,7 @@ class Constellation(HomeView):
             print('can not find the Virgo')
             return False
         else:
-            Virgo_match.click()#点击取消星座引导页面动画
+            os.system('adb shell input tap 395 357')#点击取消星座引导页面动画
             Virgo_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -531,7 +531,7 @@ class Constellation(HomeView):
             print('can not find the Libra')
             return False
         else:
-            Libra_match.click()
+            os.system('adb shell input tap 395 357')
             Libra_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -556,7 +556,7 @@ class Constellation(HomeView):
             print('can not find the Scorpio')
             return False
         else:
-            Scorpio_match.click()
+            os.system('adb shell input tap 395 357')
             Scorpio_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -581,7 +581,7 @@ class Constellation(HomeView):
             print('can not find the Sagittarius')
             return False
         else:
-            Sagittarius_match.click()
+            os.system('adb shell input tap 395 357')
             Sagittarius_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -606,7 +606,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
-            Capricornus_match.click()
+            os.system('adb shell input tap 395 357')
             Capricornus_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -631,7 +631,7 @@ class Constellation(HomeView):
             print('can not find the Aquarius')
             return False
         else:
-            Aquarius_match.click()
+            os.system('adb shell input tap 395 357')
             Aquarius_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')
@@ -656,7 +656,7 @@ class Constellation(HomeView):
             print('can not find the Aries')
             return False
         else:
-            Pisces_match.click()
+            os.system('adb shell input tap 395 357')
             Pisces_match.click()
             self.close_event()
             logging.info('=========get constellation match result========')

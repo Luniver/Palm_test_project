@@ -91,9 +91,6 @@ class Today(HomeView):
         self.getScreenShot('get first tarot')
 
         logging.info('=======get second tarot======')
-        logging.info('=======start swipe page=======')
-        self.swipeDown()
-        self.swipeDown()
         logging.info('=====start get second tarot======')
         try:
             second_tarot = self.driver.find_element(*self.today_tarot2)
@@ -132,9 +129,6 @@ class Today(HomeView):
         self.getScreenShot('get first tarot')
 
         logging.info('=======get second tarot======')
-        logging.info('=======start swipe page=======')
-        self.swipeDown()
-        self.swipeDown()
         logging.info('=====start get second tarot======')
         try:
             second_tarot = self.driver.find_element(*self.today_tarot2)
@@ -151,9 +145,6 @@ class Today(HomeView):
         self.getScreenShot('get second tarot')
 
         logging.info('=======get third tarot======')
-        logging.info('=======start swipe page=======')
-        self.swipeDown()
-        self.swipeDown()
         logging.info('=====start get third tarot======')
         try:
             third_tarot = self.driver.find_element(*self.today_tarot3)

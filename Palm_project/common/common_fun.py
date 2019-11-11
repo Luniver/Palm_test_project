@@ -206,24 +206,38 @@ class Commom(BaseView):
         '''关闭订阅页'''
         logging.info('========close subscribe page======')
         time.sleep(5)
-        try:
-            self.driver.find_element(*self.subscribe_id)
-        except NoSuchElementException:
-            print('can not find the subscribe')
-            return False
-        else:
-            os.system('adb shell input tap 57 110')
-            return True
         # try:
-        #     closeBtn = self.driver.find_element(*self.closeBtn)
+        #     self.driver.find_element(*self.subscribe_id)
         # except NoSuchElementException:
-        #     print('can not find the subscribe page or you are subscribed user')
-        #     pass
+        #     print('can not find the subscribe')
+        #     return False
         # else:
-        #     closeBtn.click()
+        #     os.system('adb shell input tap 57 110')
         #     return True
+        try:
+            self.driver.find_element(*self.closeBtn)
+        except NoSuchElementException:
+            print('can not find the subscribe page or you are subscribed user')
+            pass
+        else:
+            self.driver.keyevent(4)
+            return True
         # WebDriverWait(self.driver, 10, 0.2).until(
         #     EC.visibility_of_element_located((By.ID, 'com.palm.test:id/iv_payment_close'))).click()
+
+    def first_close_event(self):
+        '''启动关闭订阅页'''
+        logging.info('============close first subscribe page============')
+        time.sleep(5)
+        try:
+            self.driver.find_element(*self.closeBtn)
+        except NoSuchElementException:
+            print('can not find the first subscribe page or you are subscribed user')
+            pass
+        else:
+            self.driver.keyevent(4)
+            self.driver.keyevent(4)
+            return True
 
     def get_page_title(self):
         '''获取页面事件'''
