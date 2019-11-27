@@ -15255,3 +15255,897 @@
 2019-11-06 11:53:53,102 todayview.py[line:38] INFO =======check share button======
 2019-11-06 11:53:54,253 common_fun.py[line:158] INFO get share page screenshot
 2019-11-06 11:53:57,581 myunit.py[line:12] INFO ======tearDown=======
+2019-11-22 10:46:39,743 desired_caps.py[line:32] INFO start app...
+2019-11-22 10:47:16,897 homeview.py[line:26] INFO ========APP enter=======
+2019-11-22 10:47:16,897 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-22 10:47:32,590 homeview.py[line:29] INFO =======switch_today======
+2019-11-22 10:47:34,594 common_fun.py[line:158] INFO get today_page screenshot
+2019-11-22 10:47:35,424 todayview.py[line:52] INFO =======get one tarot======
+2019-11-22 10:47:35,424 todayview.py[line:53] INFO =======start swipe page=======
+2019-11-22 10:54:27,434 desired_caps.py[line:32] INFO start app...
+2019-11-22 10:54:56,615 homeview.py[line:88] INFO ========APP enter=======
+2019-11-22 10:54:56,616 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-22 10:55:19,333 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-11-22 10:55:21,338 common_fun.py[line:158] INFO get psychological_test page screenshot
+2019-11-22 10:55:23,101 psychological_test_function.py[line:56] INFO psychological question 3 enter
+2019-11-22 10:58:38,362 desired_caps.py[line:32] INFO start app...
+2019-11-22 10:59:08,099 homeview.py[line:88] INFO ========APP enter=======
+2019-11-22 10:59:08,099 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-22 10:59:29,832 homeview.py[line:91] INFO ======switch psychological_test=======
+2019-11-22 10:59:31,835 common_fun.py[line:158] INFO get psychological_test page screenshot
+2019-11-22 10:59:33,440 psychological_test_function.py[line:56] INFO psychological question 3 enter
+2019-11-27 11:25:54,636 myunit.py[line:8] INFO ======setUp======
+2019-11-27 11:25:54,641 desired_caps.py[line:32] INFO start app...
+2019-11-27 11:26:25,077 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-27 11:26:25,078 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 11:26:41,996 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 11:28:01,602 myunit.py[line:8] INFO ======setUp======
+2019-11-27 11:28:01,609 desired_caps.py[line:32] INFO start app...
+2019-11-27 11:28:28,523 test001_homepage_enter.py[line:13] INFO test_information_finish
+2019-11-27 11:28:28,525 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 11:28:38,501 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:20:19,028 test001_homepage_enter.py[line:13] INFO ======setUp======
+2019-11-27 15:20:19,033 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:21:04,191 test001_homepage_enter.py[line:17] INFO test_information_finish
+2019-11-27 15:21:04,191 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 15:21:04,191 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:21:20,883 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 15:21:22,884 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 15:21:24,876 test001_homepage_enter.py[line:30] INFO ======tearDown=======
+2019-11-27 15:23:23,852 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:23:23,856 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:24:10,727 test001_homepage_enter.py[line:18] INFO test_information_finish
+2019-11-27 15:24:10,727 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 15:24:10,727 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:24:28,428 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 15:24:30,433 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 15:24:32,585 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:31:00,218 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:31:00,224 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:31:46,910 test001_homepage_enter.py[line:19] INFO test_information_finish
+2019-11-27 15:31:46,910 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 15:31:46,910 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:32:03,690 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 15:32:05,691 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 15:32:07,366 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:52:00,273 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:52:00,275 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:52:27,686 test003_palm_judge.py[line:10] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 15:52:27,687 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 15:52:27,687 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:52:45,055 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 15:52:47,057 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 15:52:48,747 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 15:52:49,682 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 15:52:50,196 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:52:56,034 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:52:56,037 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:53:29,037 test003_palm_judge.py[line:16] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 15:53:29,038 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 15:53:29,038 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:53:46,207 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 15:53:48,211 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 15:53:50,847 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 15:53:52,501 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 15:53:52,576 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 15:54:00,148 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 15:54:01,659 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 15:54:01,780 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 15:54:17,871 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 15:54:21,876 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 15:54:24,125 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 15:54:24,252 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:54:30,351 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:54:30,353 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:55:04,735 test003_palm_judge.py[line:22] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 15:55:04,735 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 15:55:04,735 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:55:21,714 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 15:55:23,719 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 15:55:26,337 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 15:55:27,941 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 15:55:28,018 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-27 15:55:35,005 common_fun.py[line:158] INFO get heartlineQuestion screenshot
+2019-11-27 15:55:36,610 palm_function.py[line:147] INFO =======choose first option======
+2019-11-27 15:55:36,735 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 15:55:52,876 palm_function.py[line:164] INFO =======get result==========
+2019-11-27 15:55:56,881 common_fun.py[line:158] INFO get heartlinelineResult screenshot
+2019-11-27 15:55:59,070 palm_function.py[line:168] INFO =======back to home========
+2019-11-27 15:55:59,182 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:56:05,285 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:56:05,288 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:56:39,891 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 15:56:39,892 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 15:56:39,892 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:57:02,900 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 15:57:04,904 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 15:57:07,583 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 15:57:09,195 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 15:57:09,275 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 15:57:16,290 common_fun.py[line:158] INFO get businesslineQuestion screenshot
+2019-11-27 15:57:17,931 palm_function.py[line:237] INFO =======choose first option======
+2019-11-27 15:57:18,059 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 15:57:32,693 palm_function.py[line:254] INFO =======get result==========
+2019-11-27 15:57:36,696 common_fun.py[line:158] INFO get businesslineResult screenshot
+2019-11-27 15:57:38,965 palm_function.py[line:258] INFO =======back to home========
+2019-11-27 15:57:39,133 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:57:45,251 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:57:45,253 desired_caps.py[line:32] INFO start app...
+2019-11-27 15:58:18,949 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_headline start ==========
+2019-11-27 15:58:18,950 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 15:58:18,950 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 15:58:42,154 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 15:58:44,157 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 15:58:46,950 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 15:58:48,789 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 15:58:48,867 palm_function.py[line:181] INFO ========choose headline=======
+2019-11-27 15:58:56,021 common_fun.py[line:158] INFO get headlineQuestion screenshot
+2019-11-27 15:58:57,667 palm_function.py[line:192] INFO =======choose first option======
+2019-11-27 15:58:57,805 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 15:59:13,957 palm_function.py[line:209] INFO =======get result==========
+2019-11-27 15:59:17,959 common_fun.py[line:158] INFO get headlineResult screenshot
+2019-11-27 15:59:20,317 palm_function.py[line:213] INFO =======back to home========
+2019-11-27 15:59:20,427 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 15:59:26,686 myunit.py[line:8] INFO ======setUp======
+2019-11-27 15:59:26,689 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:00:01,671 test003_palm_judge.py[line:40] INFO ==========test_palm_judge_destinyline start ==========
+2019-11-27 16:00:01,672 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:00:01,672 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:00:17,604 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:00:19,610 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:00:22,247 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:00:23,941 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:00:24,013 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-11-27 16:00:31,010 common_fun.py[line:158] INFO get destinylineQuestion screenshot
+2019-11-27 16:00:32,674 palm_function.py[line:283] INFO =======choose first option======
+2019-11-27 16:00:32,796 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:00:41,627 palm_function.py[line:300] INFO =======get result==========
+2019-11-27 16:00:45,632 common_fun.py[line:158] INFO get destinylineResult screenshot
+2019-11-27 16:00:47,910 palm_function.py[line:304] INFO =======back to home========
+2019-11-27 16:00:48,035 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:07:28,992 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:07:28,996 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:07:56,943 test004_constellation_match.py[line:11] INFO ==========test constellation_Match_enter start===========
+2019-11-27 16:07:56,944 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:07:56,944 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:08:10,818 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:08:12,819 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:08:15,618 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:08:17,959 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:08:24,132 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:08:24,135 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:08:58,273 test004_constellation_match.py[line:17] INFO =========test_same_Aries_match start==========
+2019-11-27 16:08:58,273 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:08:58,273 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:09:14,875 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:09:16,880 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:09:19,483 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:09:21,252 Constellation_function.py[line:377] INFO =======start Aries match Aries=======
+2019-11-27 16:09:43,297 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:09:59,329 Constellation_function.py[line:387] INFO =========get constellation match result========
+2019-11-27 16:10:02,839 common_fun.py[line:158] INFO get get Aries constellation match result screenshot
+2019-11-27 16:10:04,221 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:10:10,604 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:10:10,614 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:10:46,116 test004_constellation_match.py[line:23] INFO =========test_same_Taurus_match start==========
+2019-11-27 16:10:46,117 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:10:46,117 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:11:04,855 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:11:06,858 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:11:09,580 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:11:12,045 Constellation_function.py[line:402] INFO =======start Taurus match Taurus=======
+2019-11-27 16:11:24,171 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:11:38,541 Constellation_function.py[line:412] INFO =========get constellation match result========
+2019-11-27 16:11:41,853 common_fun.py[line:158] INFO get get Taurus constellation match result screenshot
+2019-11-27 16:11:43,226 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:11:49,416 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:11:49,422 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:12:27,610 test004_constellation_match.py[line:29] INFO =========test_same_Gemini_match start==========
+2019-11-27 16:12:27,611 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:12:27,611 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:12:45,185 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:12:47,189 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:12:49,818 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:12:51,575 Constellation_function.py[line:427] INFO =======start Gemini match Gemini=======
+2019-11-27 16:13:11,361 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:13:18,197 Constellation_function.py[line:437] INFO =========get constellation match result========
+2019-11-27 16:13:21,467 common_fun.py[line:158] INFO get get Gemini constallation match result screenshot
+2019-11-27 16:13:22,814 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:13:29,010 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:13:29,015 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:14:10,704 test004_constellation_match.py[line:35] INFO =========test_same_Cancer_match start==========
+2019-11-27 16:14:10,704 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:14:10,704 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:14:31,000 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:14:33,004 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:14:35,781 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:14:38,144 Constellation_function.py[line:452] INFO =======start Cancer match Cancer=======
+2019-11-27 16:14:52,072 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:15:08,180 Constellation_function.py[line:462] INFO =========get constellation match result========
+2019-11-27 16:15:11,460 common_fun.py[line:158] INFO get get Cancer constellation match result screenshot
+2019-11-27 16:15:12,846 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:15:19,150 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:15:19,154 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:15:56,419 test004_constellation_match.py[line:41] INFO =========test_same_Leo_match start==========
+2019-11-27 16:15:56,419 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:15:56,419 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:16:14,280 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:16:16,285 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:16:19,039 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:16:21,321 Constellation_function.py[line:477] INFO =======start Leo match Leo=======
+2019-11-27 16:16:35,344 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:16:51,465 Constellation_function.py[line:487] INFO =========get constellation match result========
+2019-11-27 16:16:54,777 common_fun.py[line:158] INFO get get Leo constellation match result screenshot
+2019-11-27 16:16:56,202 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:17:02,424 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:17:02,434 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:17:40,496 test004_constellation_match.py[line:47] INFO =========test_same_Virgo_match start==========
+2019-11-27 16:17:40,497 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:17:40,497 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:18:11,425 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:18:19,768 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:18:19,771 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:18:55,530 test004_constellation_match.py[line:47] INFO =========test_same_Virgo_match start==========
+2019-11-27 16:18:55,531 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:18:55,531 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:19:13,067 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:19:15,073 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:19:17,928 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:19:20,275 Constellation_function.py[line:502] INFO =======start Virgo match Virgo=======
+2019-11-27 16:19:32,376 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:19:48,478 Constellation_function.py[line:512] INFO =========get constellation match result========
+2019-11-27 16:19:51,898 common_fun.py[line:158] INFO get get Virgo constellation match result screenshot
+2019-11-27 16:19:53,252 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:19:59,484 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:19:59,487 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:20:38,148 test004_constellation_match.py[line:53] INFO =========test_same_Libra_match start==========
+2019-11-27 16:20:38,148 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:20:38,148 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:21:01,873 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:21:10,101 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:21:10,104 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:21:46,761 test004_constellation_match.py[line:53] INFO =========test_same_Libra_match start==========
+2019-11-27 16:21:46,761 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:21:46,761 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:22:04,016 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:22:06,022 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:22:08,662 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:22:10,390 Constellation_function.py[line:527] INFO =======start Libra match Libra=======
+2019-11-27 16:22:22,597 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:22:28,797 Constellation_function.py[line:537] INFO =========get constellation match result========
+2019-11-27 16:22:32,125 common_fun.py[line:158] INFO get get Libra constellation match result screenshot
+2019-11-27 16:22:33,559 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:22:39,761 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:22:39,766 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:23:16,563 test004_constellation_match.py[line:59] INFO =========test_same_Scorpio_match start==========
+2019-11-27 16:23:16,563 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:23:16,563 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:23:33,153 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:23:35,155 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:23:37,813 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:23:39,512 Constellation_function.py[line:552] INFO =======start Scorpio match Scorpio=======
+2019-11-27 16:23:51,643 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:24:05,993 Constellation_function.py[line:562] INFO =========get constellation match result========
+2019-11-27 16:24:09,288 common_fun.py[line:158] INFO get get Scorpoio constellation match result screenshot
+2019-11-27 16:24:10,704 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:24:16,949 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:24:16,951 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:24:53,071 test004_constellation_match.py[line:65] INFO =========test_same_Sagittarius_match start==========
+2019-11-27 16:24:53,072 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:24:53,073 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:25:17,679 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:25:19,681 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:25:22,640 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:25:24,828 Constellation_function.py[line:577] INFO =======start Sagittarius match Sagittarius=======
+2019-11-27 16:25:37,026 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:25:45,822 Constellation_function.py[line:587] INFO =========get constellation match result========
+2019-11-27 16:25:49,137 common_fun.py[line:158] INFO get get Sagittarius constellation match result screenshot
+2019-11-27 16:25:50,532 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:25:56,715 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:25:56,720 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:26:33,399 test004_constellation_match.py[line:71] INFO =========test_same_Capricornus_match start==========
+2019-11-27 16:26:33,399 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:26:33,399 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:26:53,081 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:26:55,082 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:26:57,652 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:26:59,479 Constellation_function.py[line:602] INFO =======start Capricornus match Capricornus=======
+2019-11-27 16:27:13,349 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:27:20,196 Constellation_function.py[line:612] INFO =========get constellation match result========
+2019-11-27 16:27:23,636 common_fun.py[line:158] INFO get get Capricornus constellation match result screenshot
+2019-11-27 16:27:25,019 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:27:31,175 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:27:31,177 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:28:09,790 test004_constellation_match.py[line:77] INFO =========test_same_Aquarius_match start==========
+2019-11-27 16:28:09,790 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:28:09,790 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:28:27,399 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:28:29,400 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:28:32,121 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:28:34,500 Constellation_function.py[line:627] INFO =======start Aquarius match Aquarius=======
+2019-11-27 16:28:46,275 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:29:02,377 Constellation_function.py[line:637] INFO =========get constellation match result========
+2019-11-27 16:29:05,664 common_fun.py[line:158] INFO get get Aquarius constellation match result screenshot
+2019-11-27 16:29:07,173 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:29:13,407 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:29:13,409 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:29:49,653 test004_constellation_match.py[line:83] INFO =========test_same_Pisces_match start==========
+2019-11-27 16:29:49,654 homeview.py[line:58] INFO ========APP enter=======
+2019-11-27 16:29:49,654 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:30:05,622 homeview.py[line:61] INFO ======swicth_constellation======
+2019-11-27 16:30:07,626 common_fun.py[line:158] INFO get constellation_home screenshot
+2019-11-27 16:30:10,314 Constellation_function.py[line:364] INFO ========select and enter constellation matching========
+2019-11-27 16:30:12,743 Constellation_function.py[line:652] INFO =======start Pisces match Pisces=======
+2019-11-27 16:30:24,876 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:30:33,433 Constellation_function.py[line:662] INFO =========get constellation match result========
+2019-11-27 16:30:36,722 common_fun.py[line:158] INFO get get Pisces constellation match result screenshot
+2019-11-27 16:30:38,102 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:32:56,420 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:32:56,427 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:33:32,820 test003_palm_judge.py[line:10] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 16:33:32,820 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:33:32,820 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:33:48,223 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:33:50,229 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:33:52,914 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:33:54,567 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:33:54,653 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:34:00,758 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:34:00,760 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:34:35,667 test003_palm_judge.py[line:16] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 16:34:35,667 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:34:35,667 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:34:52,164 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:34:54,168 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:34:56,805 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:34:58,434 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:34:58,510 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 16:35:05,492 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 16:35:07,104 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 16:35:07,227 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:35:23,395 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 16:35:27,401 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 16:35:29,640 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 16:35:29,797 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:35:35,922 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:35:35,926 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:36:09,919 test003_palm_judge.py[line:22] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 16:36:09,919 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:36:09,920 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:36:26,573 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:36:28,574 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:36:31,160 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:36:32,822 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:36:32,907 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-27 16:36:39,994 common_fun.py[line:158] INFO get heartlineQuestion screenshot
+2019-11-27 16:36:41,593 palm_function.py[line:147] INFO =======choose first option======
+2019-11-27 16:36:41,955 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:36:58,068 palm_function.py[line:164] INFO =======get result==========
+2019-11-27 16:37:02,072 common_fun.py[line:158] INFO get heartlinelineResult screenshot
+2019-11-27 16:37:04,288 palm_function.py[line:168] INFO =======back to home========
+2019-11-27 16:37:04,394 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:37:10,483 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:37:10,487 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:37:44,194 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:37:44,196 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:37:52,599 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:38:00,929 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:38:00,934 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:38:33,927 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:38:33,928 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:38:42,324 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:38:50,633 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:38:50,639 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:39:29,744 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:39:29,745 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:39:38,208 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:39:46,488 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:39:46,493 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:40:28,465 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:40:28,466 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:40:47,669 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:41:39,688 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:41:39,692 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:42:13,319 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:42:13,322 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:43:15,953 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_headline start ==========
+2019-11-27 16:43:15,954 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:43:15,954 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:43:44,042 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:43:56,243 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:43:56,246 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:48:14,069 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:48:14,072 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:48:55,012 test003_palm_judge.py[line:10] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 16:48:55,013 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:48:55,013 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:49:10,148 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:49:12,153 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:49:15,020 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:49:17,204 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:49:17,291 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:49:23,554 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:49:23,561 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:50:01,100 test003_palm_judge.py[line:16] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 16:50:01,102 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:50:01,102 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:50:24,278 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:50:26,281 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:50:28,929 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:50:30,575 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:50:30,663 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 16:50:37,737 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 16:50:39,366 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 16:50:39,498 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:50:48,325 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 16:50:52,331 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 16:50:54,616 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 16:50:54,796 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:51:00,894 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:51:00,898 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:51:35,856 test003_palm_judge.py[line:22] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 16:51:35,856 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:51:35,856 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:51:51,914 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:51:53,918 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:51:56,545 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:51:58,778 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:51:58,864 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-27 16:52:06,002 common_fun.py[line:158] INFO get heartlineQuestion screenshot
+2019-11-27 16:52:07,629 palm_function.py[line:147] INFO =======choose first option======
+2019-11-27 16:52:07,767 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:52:23,851 palm_function.py[line:164] INFO =======get result==========
+2019-11-27 16:52:27,851 common_fun.py[line:158] INFO get heartlinelineResult screenshot
+2019-11-27 16:52:30,127 palm_function.py[line:168] INFO =======back to home========
+2019-11-27 16:52:30,265 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:52:36,390 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:52:36,392 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:53:10,821 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:53:10,822 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:53:19,631 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:53:27,753 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:53:27,757 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:54:05,911 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:54:05,912 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:54:14,135 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:54:22,595 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:54:22,599 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:54:57,719 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:54:57,719 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:55:05,979 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:55:14,177 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:55:14,182 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:55:53,459 test003_palm_judge.py[line:28] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 16:55:53,459 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 16:56:02,863 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:56:09,191 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:56:09,195 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:56:48,177 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_headline start ==========
+2019-11-27 16:56:48,177 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:56:48,177 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:57:04,322 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:57:06,327 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:57:09,438 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:57:11,418 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:57:11,520 palm_function.py[line:181] INFO ========choose headline=======
+2019-11-27 16:57:18,709 common_fun.py[line:158] INFO get headlineQuestion screenshot
+2019-11-27 16:57:20,648 palm_function.py[line:192] INFO =======choose first option======
+2019-11-27 16:57:20,791 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:57:36,947 palm_function.py[line:209] INFO =======get result==========
+2019-11-27 16:57:40,950 common_fun.py[line:158] INFO get headlineResult screenshot
+2019-11-27 16:57:43,525 palm_function.py[line:213] INFO =======back to home========
+2019-11-27 16:57:43,690 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 16:57:49,923 myunit.py[line:8] INFO ======setUp======
+2019-11-27 16:57:49,926 desired_caps.py[line:32] INFO start app...
+2019-11-27 16:58:24,472 test003_palm_judge.py[line:40] INFO ==========test_palm_judge_destinyline start ==========
+2019-11-27 16:58:24,472 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 16:58:24,472 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 16:58:40,575 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 16:58:42,579 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 16:58:45,252 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 16:58:47,574 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 16:58:47,658 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-11-27 16:58:54,722 common_fun.py[line:158] INFO get destinylineQuestion screenshot
+2019-11-27 16:58:56,433 palm_function.py[line:283] INFO =======choose first option======
+2019-11-27 16:58:56,572 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 16:59:05,335 palm_function.py[line:300] INFO =======get result==========
+2019-11-27 16:59:09,339 common_fun.py[line:158] INFO get destinylineResult screenshot
+2019-11-27 16:59:11,521 palm_function.py[line:304] INFO =======back to home========
+2019-11-27 16:59:11,643 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:33:39,922 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:33:39,928 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:35:49,634 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:35:49,637 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:36:17,458 test003_palm_judge.py[line:13] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 17:36:17,459 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:36:17,459 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:36:35,288 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:36:37,292 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:36:40,118 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:36:42,361 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:36:42,437 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:36:48,635 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:36:48,641 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:37:25,335 test003_palm_judge.py[line:20] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 17:37:25,335 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:37:25,335 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:37:39,512 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:37:41,517 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:37:44,144 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:37:45,814 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:37:45,899 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 17:37:52,880 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 17:37:54,607 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 17:37:54,742 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:38:10,795 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 17:38:14,797 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 17:38:17,064 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 17:38:17,545 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:38:23,631 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:38:23,635 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:38:59,375 test003_palm_judge.py[line:27] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 17:38:59,376 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:38:59,377 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:39:10,199 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:40:03,981 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:40:03,985 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:40:39,686 test003_palm_judge.py[line:13] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 17:40:39,687 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:40:39,687 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:40:56,827 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:40:58,829 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:41:01,511 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:41:03,190 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:41:03,270 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:41:09,447 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:41:09,451 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:41:44,447 test003_palm_judge.py[line:20] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 17:41:44,448 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:41:44,448 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:42:03,303 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:42:05,305 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:42:07,797 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:42:09,439 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:42:09,520 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 17:42:16,543 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 17:42:18,205 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 17:42:18,343 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:42:27,158 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 17:42:31,158 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 17:42:33,406 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 17:42:33,537 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:42:39,596 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:42:39,598 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:43:13,449 test003_palm_judge.py[line:27] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 17:43:13,450 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:43:13,450 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:43:30,508 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:43:32,513 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:43:35,182 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:43:36,811 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:43:36,892 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-27 17:43:43,927 common_fun.py[line:158] INFO get heartlineQuestion screenshot
+2019-11-27 17:43:45,511 palm_function.py[line:147] INFO =======choose first option======
+2019-11-27 17:43:45,691 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:43:54,660 palm_function.py[line:164] INFO =======get result==========
+2019-11-27 17:43:58,663 common_fun.py[line:158] INFO get heartlinelineResult screenshot
+2019-11-27 17:44:00,896 palm_function.py[line:168] INFO =======back to home========
+2019-11-27 17:44:01,015 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:44:07,115 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:44:07,120 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:44:43,703 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 17:44:43,704 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 17:44:52,043 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:45:00,239 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:45:00,244 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:45:34,095 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 17:45:34,096 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 17:45:42,425 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:45:50,669 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:45:50,674 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:46:26,982 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 17:46:26,983 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 17:46:36,604 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:46:44,771 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:46:44,774 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:47:20,924 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 17:47:20,924 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 17:47:29,307 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:47:35,812 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:47:35,819 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:48:11,281 test003_palm_judge.py[line:41] INFO ==========test_palm_judge_headline start ==========
+2019-11-27 17:48:11,282 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:48:11,282 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:48:27,619 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:48:29,625 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:48:32,320 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:48:33,978 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:48:34,060 palm_function.py[line:181] INFO ========choose headline=======
+2019-11-27 17:48:41,105 common_fun.py[line:158] INFO get headlineQuestion screenshot
+2019-11-27 17:48:42,743 palm_function.py[line:192] INFO =======choose first option======
+2019-11-27 17:48:42,874 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:48:49,472 palm_function.py[line:209] INFO =======get result==========
+2019-11-27 17:48:53,475 common_fun.py[line:158] INFO get headlineResult screenshot
+2019-11-27 17:48:55,727 palm_function.py[line:213] INFO =======back to home========
+2019-11-27 17:48:55,871 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:49:01,941 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:49:01,945 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:49:36,337 test003_palm_judge.py[line:48] INFO ==========test_palm_judge_destinyline start ==========
+2019-11-27 17:49:36,337 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:49:36,338 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:49:52,816 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:49:54,822 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:49:57,483 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:49:59,104 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:49:59,192 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-11-27 17:50:06,222 common_fun.py[line:158] INFO get destinylineQuestion screenshot
+2019-11-27 17:50:07,909 palm_function.py[line:283] INFO =======choose first option======
+2019-11-27 17:50:08,039 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:50:16,990 palm_function.py[line:300] INFO =======get result==========
+2019-11-27 17:50:20,991 common_fun.py[line:158] INFO get destinylineResult screenshot
+2019-11-27 17:50:23,223 palm_function.py[line:304] INFO =======back to home========
+2019-11-27 17:50:23,380 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:55:33,712 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:55:33,715 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:56:01,932 test003_palm_judge.py[line:13] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 17:56:01,932 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:56:01,933 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:56:16,571 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:56:18,574 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:56:21,231 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:56:22,809 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:56:22,895 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:56:29,059 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:56:29,062 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:57:05,449 test003_palm_judge.py[line:20] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 17:57:05,450 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:57:05,450 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:57:28,981 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:57:30,982 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:57:33,736 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:57:36,092 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:57:36,177 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 17:57:43,639 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 17:57:45,408 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 17:57:45,549 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:58:01,766 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 17:58:05,771 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 17:58:07,933 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 17:58:08,049 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:58:14,199 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:58:14,202 desired_caps.py[line:32] INFO start app...
+2019-11-27 17:58:50,755 test003_palm_judge.py[line:27] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 17:58:50,756 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 17:58:50,756 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 17:59:06,962 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 17:59:08,966 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 17:59:11,627 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 17:59:13,234 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 17:59:13,568 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-27 17:59:20,568 common_fun.py[line:158] INFO get heartlineQuestion screenshot
+2019-11-27 17:59:22,163 palm_function.py[line:147] INFO =======choose first option======
+2019-11-27 17:59:22,292 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 17:59:38,397 palm_function.py[line:164] INFO =======get result==========
+2019-11-27 17:59:42,403 common_fun.py[line:158] INFO get heartlinelineResult screenshot
+2019-11-27 17:59:44,671 palm_function.py[line:168] INFO =======back to home========
+2019-11-27 17:59:44,862 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 17:59:50,953 myunit.py[line:8] INFO ======setUp======
+2019-11-27 17:59:50,955 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:00:26,030 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 18:00:26,031 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:00:26,031 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:00:47,954 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:00:49,958 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:00:52,618 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:00:54,332 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:00:54,413 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 18:01:01,596 common_fun.py[line:158] INFO get businesslineQuestion screenshot
+2019-11-27 18:01:03,228 palm_function.py[line:237] INFO =======choose first option======
+2019-11-27 18:01:03,358 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:01:19,487 palm_function.py[line:254] INFO =======get result==========
+2019-11-27 18:01:23,491 common_fun.py[line:158] INFO get businesslineResult screenshot
+2019-11-27 18:01:25,738 palm_function.py[line:258] INFO =======back to home========
+2019-11-27 18:01:25,926 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:01:32,013 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:01:32,015 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:02:07,534 test003_palm_judge.py[line:41] INFO ==========test_palm_judge_headline start ==========
+2019-11-27 18:02:07,535 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:02:07,535 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:02:25,076 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:02:27,078 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:02:29,713 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:02:31,380 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:02:31,457 palm_function.py[line:181] INFO ========choose headline=======
+2019-11-27 18:02:38,717 common_fun.py[line:158] INFO get headlineQuestion screenshot
+2019-11-27 18:02:40,286 palm_function.py[line:192] INFO =======choose first option======
+2019-11-27 18:02:40,408 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:02:55,038 palm_function.py[line:209] INFO =======get result==========
+2019-11-27 18:02:59,044 common_fun.py[line:158] INFO get headlineResult screenshot
+2019-11-27 18:03:01,306 palm_function.py[line:213] INFO =======back to home========
+2019-11-27 18:03:01,490 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:03:07,603 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:03:07,608 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:03:42,571 test003_palm_judge.py[line:48] INFO ==========test_palm_judge_destinyline start ==========
+2019-11-27 18:03:42,571 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:03:42,571 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:04:05,721 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:04:07,726 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:04:10,503 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:04:12,087 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:04:12,164 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-11-27 18:04:19,282 common_fun.py[line:158] INFO get destinylineQuestion screenshot
+2019-11-27 18:04:20,929 palm_function.py[line:283] INFO =======choose first option======
+2019-11-27 18:04:21,066 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:04:37,180 palm_function.py[line:300] INFO =======get result==========
+2019-11-27 18:04:41,184 common_fun.py[line:158] INFO get destinylineResult screenshot
+2019-11-27 18:04:43,468 palm_function.py[line:304] INFO =======back to home========
+2019-11-27 18:04:43,667 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:46:53,070 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:46:53,082 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:47:20,951 test003_palm_judge.py[line:13] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 18:47:20,951 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:47:20,952 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:47:40,161 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:47:42,162 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:47:44,748 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:47:46,439 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:47:46,528 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:47:52,724 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:47:52,728 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:48:28,065 test003_palm_judge.py[line:20] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 18:48:28,065 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:48:28,065 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:48:44,527 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:48:46,533 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:48:49,156 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:48:50,823 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:48:50,904 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 18:48:57,897 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 18:48:59,546 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 18:48:59,691 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:49:15,726 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 18:49:19,731 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 18:49:21,974 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 18:49:22,186 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:49:28,264 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:49:28,267 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:50:04,075 test003_palm_judge.py[line:27] INFO ==========test_palm_judge_heartline start ==========
+2019-11-27 18:50:04,076 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:50:04,076 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:50:22,906 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:50:24,912 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:50:27,445 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:50:29,128 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:50:29,209 palm_function.py[line:136] INFO ========choose heartline=======
+2019-11-27 18:50:36,613 common_fun.py[line:158] INFO get heartlineQuestion screenshot
+2019-11-27 18:50:38,245 palm_function.py[line:147] INFO =======choose first option======
+2019-11-27 18:50:38,382 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:50:54,468 palm_function.py[line:164] INFO =======get result==========
+2019-11-27 18:50:58,474 common_fun.py[line:158] INFO get heartlinelineResult screenshot
+2019-11-27 18:51:00,782 palm_function.py[line:168] INFO =======back to home========
+2019-11-27 18:51:00,907 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:51:06,964 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:51:06,968 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:51:42,238 test003_palm_judge.py[line:34] INFO ==========test_palm_judge_businessline start ==========
+2019-11-27 18:51:42,238 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:51:42,238 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:52:01,176 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:52:03,178 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:52:05,856 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:52:07,473 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:52:07,550 palm_function.py[line:226] INFO ========choose businessline=======
+2019-11-27 18:52:14,646 common_fun.py[line:158] INFO get businesslineQuestion screenshot
+2019-11-27 18:52:16,308 palm_function.py[line:237] INFO =======choose first option======
+2019-11-27 18:52:16,450 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:52:32,530 palm_function.py[line:254] INFO =======get result==========
+2019-11-27 18:52:36,538 common_fun.py[line:158] INFO get businesslineResult screenshot
+2019-11-27 18:52:38,722 palm_function.py[line:258] INFO =======back to home========
+2019-11-27 18:52:38,851 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:52:44,953 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:52:44,962 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:53:20,946 test003_palm_judge.py[line:41] INFO ==========test_palm_judge_headline start ==========
+2019-11-27 18:53:20,947 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:53:20,947 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:53:38,592 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:53:40,601 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:53:43,221 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:53:44,864 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:53:44,942 palm_function.py[line:181] INFO ========choose headline=======
+2019-11-27 18:53:52,017 common_fun.py[line:158] INFO get headlineQuestion screenshot
+2019-11-27 18:53:53,630 palm_function.py[line:192] INFO =======choose first option======
+2019-11-27 18:53:53,813 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:54:09,885 palm_function.py[line:209] INFO =======get result==========
+2019-11-27 18:54:13,887 common_fun.py[line:158] INFO get headlineResult screenshot
+2019-11-27 18:54:16,060 palm_function.py[line:213] INFO =======back to home========
+2019-11-27 18:54:16,180 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 18:54:22,270 myunit.py[line:8] INFO ======setUp======
+2019-11-27 18:54:22,274 desired_caps.py[line:32] INFO start app...
+2019-11-27 18:54:57,146 test003_palm_judge.py[line:48] INFO ==========test_palm_judge_destinyline start ==========
+2019-11-27 18:54:57,147 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 18:54:57,147 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 18:55:20,068 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 18:55:22,076 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 18:55:24,880 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 18:55:27,071 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 18:55:27,149 palm_function.py[line:272] INFO ========choose destinyline=======
+2019-11-27 18:55:34,126 common_fun.py[line:158] INFO get destinylineQuestion screenshot
+2019-11-27 18:55:35,900 palm_function.py[line:283] INFO =======choose first option======
+2019-11-27 18:55:36,030 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 18:55:45,037 palm_function.py[line:300] INFO =======get result==========
+2019-11-27 18:55:49,046 common_fun.py[line:158] INFO get destinylineResult screenshot
+2019-11-27 18:55:51,292 palm_function.py[line:304] INFO =======back to home========
+2019-11-27 18:55:51,473 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:05:12,829 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:05:12,836 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:05:41,485 test003_palm_judge.py[line:13] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 19:05:41,486 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 19:05:41,487 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:06:02,422 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 19:06:03,271 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:06:39,128 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:06:39,140 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:07:17,833 test003_palm_judge.py[line:13] INFO ==========test_palm_judge_enter start ==========
+2019-11-27 19:07:17,833 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 19:07:17,833 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:07:39,705 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 19:07:41,707 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 19:07:44,366 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 19:07:45,969 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 19:07:46,041 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:07:52,174 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:07:52,184 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:08:27,949 test003_palm_judge.py[line:20] INFO ==========test_palm_judge_lifeline start ==========
+2019-11-27 19:08:27,949 homeview.py[line:48] INFO =======APP enter======
+2019-11-27 19:08:27,950 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:08:50,265 homeview.py[line:51] INFO =====switch_palm======
+2019-11-27 19:08:52,266 common_fun.py[line:158] INFO get palm_home screenshot
+2019-11-27 19:08:54,935 palm_function.py[line:77] INFO ========select palm judgement=======
+2019-11-27 19:08:56,638 palm_function.py[line:84] INFO =========enter palm judge function=========
+2019-11-27 19:08:56,725 palm_function.py[line:91] INFO ========choose lifeline=======
+2019-11-27 19:09:03,807 common_fun.py[line:158] INFO get lifelineQuestion screenshot
+2019-11-27 19:09:05,416 palm_function.py[line:102] INFO =======choose first option======
+2019-11-27 19:09:05,535 common_fun.py[line:207] INFO ========close subscribe page======
+2019-11-27 19:09:14,511 palm_function.py[line:119] INFO =======get result==========
+2019-11-27 19:09:18,512 common_fun.py[line:158] INFO get lifelineResult screenshot
+2019-11-27 19:09:20,906 palm_function.py[line:123] INFO =======back to home========
+2019-11-27 19:09:21,118 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:16:11,841 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:16:11,845 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:16:41,278 test001_homepage_enter.py[line:20] INFO test_information_finish
+2019-11-27 19:16:41,278 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 19:16:41,278 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:16:56,705 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 19:16:58,710 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 19:17:01,372 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:20:28,604 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:20:28,621 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:20:58,466 test001_homepage_enter.py[line:20] INFO test_information_finish
+2019-11-27 19:20:58,467 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 19:20:58,467 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:21:13,484 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 19:21:15,489 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 19:21:18,188 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:21:49,080 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:21:49,093 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:22:25,404 test001_homepage_enter.py[line:20] INFO test_information_finish
+2019-11-27 19:22:25,404 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 19:22:25,405 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:22:39,506 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 19:22:41,507 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 19:22:44,137 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:40:02,496 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:40:02,508 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:40:31,057 test001_homepage_enter.py[line:22] INFO test_information_finish
+2019-11-27 19:40:31,058 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 19:40:31,058 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:40:45,747 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 19:40:47,750 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 19:40:50,632 myunit.py[line:12] INFO ======tearDown=======
+2019-11-27 19:41:22,612 myunit.py[line:8] INFO ======setUp======
+2019-11-27 19:41:22,619 desired_caps.py[line:32] INFO start app...
+2019-11-27 19:41:49,555 test001_homepage_enter.py[line:22] INFO test_information_finish
+2019-11-27 19:41:49,556 homeview.py[line:16] INFO ========APP enter=======
+2019-11-27 19:41:49,556 common_fun.py[line:230] INFO ============close first subscribe page============
+2019-11-27 19:42:08,451 homeview.py[line:19] INFO =======switch_home======
+2019-11-27 19:42:10,453 common_fun.py[line:158] INFO get home_page screenshot
+2019-11-27 19:42:13,116 myunit.py[line:12] INFO ======tearDown=======

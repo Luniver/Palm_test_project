@@ -1,48 +1,56 @@
+import pytest
 from common.myunit import StartEnd
 from businessView.palm_function import Palm
-import unittest
 import logging
+import allure
+import os
 
-class Palm_judge(StartEnd):
+class Test_Palm_judge(StartEnd):
 
-    # @unittest.skip('test_palm_judge_enter')
+    @allure.feature('test_palm_judge_enter')
+    @pytest.mark.flaky(reruns=3,reruns_delay=2)
     def test_palm_judge_enter(self):
         logging.info("==========test_palm_judge_enter start ==========")
         l = Palm(self.driver)
-        self.assertTrue(l.palm_judgement_enter())
+        assert l.palm_judgement_enter() ==True
 
-    # @unittest.skip('test_palm_judge_lifeline')
+    @allure.feature('test_palm_judge_lifeline')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_palm_judge_lifeline(self):
         logging.info("==========test_palm_judge_lifeline start ==========")
         l = Palm(self.driver)
-        self.assertTrue(l.palm_judge_lifeline())
+        assert l.palm_judge_lifeline() == True
 
-    # @unittest.skip('test_palm_judge_heartline')
+    @allure.feature('test_palm_judge_heartline')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_palm_judge_heartline(self):
         logging.info("==========test_palm_judge_heartline start ==========")
         l = Palm(self.driver)
-        self.assertTrue(l.palm_judge_heartline())
+        assert l.palm_judge_heartline() == True
 
-    # @unittest.skip('test_palm_judge_businessline')
+    @allure.feature('test_palm_judge_businessline')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_palm_judge_businessline(self):
         logging.info("==========test_palm_judge_businessline start ==========")
         l = Palm(self.driver)
-        self.assertTrue(l.palm_judge_businessline())
+        assert l.palm_judge_businessline() == True
 
-    # @unittest.skip('test_palm_judge_headline')
+    @allure.feature('test_palm_judge_headline')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_palm_judge_headline(self):
         logging.info("==========test_palm_judge_headline start ==========")
         l = Palm(self.driver)
-        self.assertTrue(l.palm_judge_headline())
+        assert l.palm_judge_headline() == True
 
-    # @unittest.skip('test_palm_judge_destinyline')
+    @allure.feature('test_palm_judge_destinyline')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_palm_judge_destinyline(self):
         logging.info("==========test_palm_judge_destinyline start ==========")
         l = Palm(self.driver)
-        self.assertTrue(l.palm_judge_destinyline())
+        assert  l.palm_judge_destinyline() == True
 
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main(['-s','--alluredir','./reports/'])
 
 
 

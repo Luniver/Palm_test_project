@@ -53,6 +53,9 @@ class Today(HomeView):
         logging.info('=======start swipe page=======')
         self.swipeDown()
         self.swipeDown()
+        # self.driver.find_element_by_android_uiautomator(
+        # 'new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().id("com.palm.test:id/iv_tarot1").instance(0));'
+        # # ).click()
         logging.info('=====start get first tarot======')
         try:
             first_tarot = self.driver.find_element(*self.today_tarot1)
@@ -166,6 +169,6 @@ if __name__ == '__main__':
     l = Today(driver)
     # l.today_page_enter()
     # l.today_page_share()
-    # l.today_get_one_tarot()
-    l.today_get_two_tarot()
+    l.today_get_one_tarot()
+    # l.today_get_two_tarot()
     # l.today_get_three_tarot()

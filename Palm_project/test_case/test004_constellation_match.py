@@ -1,89 +1,104 @@
 from common.myunit import StartEnd
 from businessView.Constellation_function import Constellation
-import unittest
 import logging
+import pytest
+import allure
+import os
 
 
-class Constellation_match(StartEnd):
+class Test_Constellation_match(StartEnd):
 
-    # @unittest.skip('test_constellation_Match_enter')
+    @allure.feature('test_constellation_Match_enter')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_constellation_Match_enter(self):
         logging.info('==========test constellation_Match_enter start===========')
         l = Constellation(self.driver)
-        self.assertTrue(l.constellation_Match_enter())
+        assert l.constellation_Match_enter() == True
 
-    # @unittest.skip('test_same_Aries_match')
+    @allure.feature('test_same_Aries_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Aries_match(self):
         logging.info('=========test_same_Aries_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Aries_match())
-
-    # @unittest.skip('test_same_Taurus_match')
+        assert l.same_Aries_match() == True
+    @allure.feature('test_same_Taurus_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Taurus_match(self):
         logging.info('=========test_same_Taurus_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Taurus_match())
+        assert l.same_Taurus_match() == True
 
-    # @unittest.skip('test_same_Gemini_match')
+    @allure.feature('test_same_Gemini_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Gemini_match(self):
         logging.info('=========test_same_Gemini_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Gemini_match())
+        assert l.same_Gemini_match() == True
 
-    # @unittest.skip('test_same_Cancer_match')
+    @allure.feature('test_same_Cancer_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Cancer_match(self):
         logging.info('=========test_same_Cancer_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Cancer_match())
+        assert l.same_Cancer_match() == True
 
-    # @unittest.skip('test_same_Leo_match')
+    @allure.feature('test_same_Leo_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Leo_match(self):
         logging.info('=========test_same_Leo_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Leo_match())
+        assert l.same_Leo_match() == True
 
-    # @unittest.skip('test_same_Virgo_match')
+    @allure.feature('test_same_Virgo_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Virgo_match(self):
         logging.info('=========test_same_Virgo_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Virgo_match())
+        assert l.same_Virgo_match() == True
 
-    # @unittest.skip('test_same_Gemini_match')
+    @allure.feature('test_same_Libra_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Libra_match(self):
         logging.info('=========test_same_Libra_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Libra_match())
+        assert l.same_Libra_match() == True
 
-    # @unittest.skip('test_same_Scorpio_match')
+    @allure.feature('test_same_Scorpio_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Scorpio_match(self):
         logging.info('=========test_same_Scorpio_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Scorpio_match())
+        assert l.same_Scorpio_match() == True
 
-    # @unittest.skip('test_same_Sagittarius_match')
+    @allure.feature('test_same_Sagittarius_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Sagittarius_match(self):
         logging.info('=========test_same_Sagittarius_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Sagittarius_match())
+        assert l.same_Sagittarius_match() == True
 
-    # @unittest.skip('test_same_Capricornus_match')
+    @allure.feature('test_same_Capricornus_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Capricornus_match(self):
         logging.info('=========test_same_Capricornus_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Capricornus_match())
+        assert l.same_Capricornus_match() == True
 
-    # @unittest.skip('test_same_Aquarius_match')
+    @allure.feature('test_same_Aquarius_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Aquarius_match(self):
         logging.info('=========test_same_Aquarius_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Aquarius_match())
+        assert l.same_Aquarius_match() == True
 
-    # @unittest.skip('test_same_Pisces_match')
+    @allure.feature('test_same_Pisces_match')
+    @pytest.mark.flaky(reruns=3, reruns_delay=2)
     def test_same_Pisces_match(self):
         logging.info('=========test_same_Pisces_match start==========')
         l =Constellation(self.driver)
-        self.assertTrue(l.same_Pisces_match())
+        assert l.same_Pisces_match() == True
 
 
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main(['-s','-q','--alluredir','./report/xml'])
+    os.system('allure generate report/ -o allure-reports/')

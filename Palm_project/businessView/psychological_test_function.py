@@ -62,6 +62,9 @@ class Psychological(HomeView):
         else:
             psychological_3.click()
         return True
+        # self.driver.find_element_by_android_uiautomator(
+        #  'new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().text("Are you a romanticist?").instance(0));'
+        #  ).click()
 
 
     def psychological_question_all_yes_1(self):
@@ -377,7 +380,7 @@ if __name__ == '__main__':
     l = Psychological(driver)
     # l.psychological_question_1()
     # l.psychological_question_all_yes_1()
-    l.psychological_question_all_no_1()
+    # l.psychological_question_all_no_1()
     # l.psychological_question_1_quit_yes()
     # l.psychological_question_1_quit_no()
     # l.psychological_question_2()
@@ -385,6 +388,7 @@ if __name__ == '__main__':
     # l.psychological_question_all_no_2()
     # l.psychological_question_2_quit_yes()
     # l.psychological_question_2_quit_no()
+    l.psychological_question_3()
     # l.psychological_question_all_yes_3()
     # l.psychological_question_all_no_3()
     # l.psychological_question_3_quit_yes()

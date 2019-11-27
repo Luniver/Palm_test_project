@@ -1,14 +1,18 @@
-from common.myunit import StartEnd
 from businessView.homeview import HomeView
-import unittest
+from common.myunit import StartEnd
 import pytest
 import logging
+import allure
 
-
-class Home_enter(StartEnd):
+class TestHome_enter(StartEnd):
 
     # @unittest.skip('test_home_enter')
     # @pytest.fixture()
+    # def setup(self):
+    #     logging.info('======setUp======')
+    #     self.driver = appium_desired()
+    @allure.feature('test_home_enter')
+    @pytest.mark.flaky(reruns=3,reruns_dely=2)
     def test_home_enter(self):
         logging.info('test_information_finish')
         # username = '李宸宇'
@@ -20,7 +24,13 @@ class Home_enter(StartEnd):
         # self.assertTrue(l.next_button())
         # l.allow_event()
         # self.assertTrue(l.back_event())
-        self.assertTrue(l.switch_navigation_home())
+        assert l.switch_navigation_home() == True
+
+    # def teardown(self):
+    #     logging.info('======tearDown=======')
+    #     sleep(5)
+    #     self.driver.quit()
 
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main(['-s','q','test001_homepage_enter.py','--alluredir','./report/'])
+    # os.system('allure generate ./report/ -o ./report/ --clean')

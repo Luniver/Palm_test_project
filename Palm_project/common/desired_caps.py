@@ -10,7 +10,7 @@ logging.config.fileConfig(log_file_path)
 logging=logging.getLogger()
 
 def appium_desired():
-    with open('./config/Palm_caps.yaml','r',encoding='utf-8') as file:
+    with open('../config/Palm_caps.yaml','r',encoding='utf-8') as file:
         data = yaml.load(file)
 
     desired_caps = {}
